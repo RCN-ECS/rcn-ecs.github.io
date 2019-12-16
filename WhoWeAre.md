@@ -63,3 +63,5 @@ Switzerland | 3
 The Netherlands | 1
 UCA | 1
 UK | 12
+---|---
+Total | 424
