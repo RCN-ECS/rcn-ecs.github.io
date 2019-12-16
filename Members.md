@@ -3,9 +3,8 @@ layout: page
 title: Members
 ---
 
-|Members (in alphabetical order, last updated June 2019) |
-|--------|
-|[Anna  Maria Addamo.](https://www.researchgate.net/profile/Anna_Addamo/info) Biodiversity and Evolutionary Biology; Sustainable Resources - Water and Marine Resources, National Musuem of Natural Science MNCN (Spain); European Commission JRC (Italy). [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/AMA)[<img src = '/img/twitter-squared.png' >](https://twitter.com/AMAddamo)|
+|Members (in alphabetical order, last updated December 2019) |
+|--------||[Anna  Maria Addamo.](https://www.researchgate.net/profile/Anna_Addamo/info) Biodiversity and Evolutionary Biology; Sustainable Resources - Water and Marine Resources, National Musuem of Natural Science MNCN (Spain); European Commission JRC (Italy). [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/AMA)[<img src = '/img/twitter-squared.png' >](https://twitter.com/AMAddamo)|
 |[Andres  Aguilar.](https://andresaguilar.weebly.com/) Dept. Biological Sciences, CSU Los Angeles. |
 |David  Aguirre. School of Natural and Computational Sciences, Massey University Auckland. |
 |Emily  Aguirre. Biology, University of Southern California. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/N/A)[<img src = '/img/twitter-squared.png' >](https://twitter.com/N/A)|
@@ -17,11 +16,12 @@ title: Members
 |[Jonathan D Allen.](http://wmpeople.wm.edu/site/page/jdallen/home) Biology, College of William and Mary. [<img src = '/img/twitter-squared.png' >](https://twitter.com/AllenLabWM)|
 |[Lianne M Allen-Jacobson.](https://lifeinacolony.com) , USDA ARS. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/LMAllenJacobson)[<img src = '/img/twitter-squared.png' >](https://twitter.com/LMAllenJacobson)|
 |[Mariano  Alvarez.](https://supermariano.com) Biology, Duke University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/AlvarezMF)[<img src = '/img/twitter-squared.png' >](https://twitter.com/MFalvarez7)|
+|Adam J Andrews. Department of Biological, Geological, and Environmental Sciences, University of Bologna. |
 |[Aglaia (Cilia)  Antoniou.](http://www.imbbc.hcmr.gr/users/aglaia-cilia-antoniou) , IMBBC, HCMR. |
 |[María  Aranguren-Gassis.](https://sites.google.com/site/mariaarangurengassis/home) , University of Vigo. [<img src = '/img/twitter-squared.png' >](https://twitter.com/MArangurenG)|
 |[Stephanie K Archer.](https://stephanieKarcher.com) Marine Spatial Ecology and Analysis Section, Fisheries and Oceans Canada, Pacific Biological Station. [<img src = '/img/twitter-squared.png' >](https://twitter.com/ArcherEcology)|
-|Frances  Armstrong. Invertebrate Zoology, California Academy of Sciences. [<img src = '/img/twitter-squared.png' >](https://twitter.com/armstrong_af)|
 |Madison L Armstrong. School of Biological Sciences, Washington State Univeristy. |
+|Frances  Armstrong. Invertebrate Zoology, California Academy of Sciences. [<img src = '/img/twitter-squared.png' >](https://twitter.com/armstrong_af)|
 |esat  atikkan. Biology, montgomery college. |
 |[J. Antonio Baeza.](https://www.clemson.edu/cafls/faculty_staff/profiles/jbaezam) Biological Sciences, Clemson University. |
 |[Justin C Bagley.](https://justinbagley.org) Department of Biology, Virginia Commonwealth University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/justincbagley)[<img src = '/img/twitter-squared.png' >](https://twitter.com/justincbagley)|
@@ -35,6 +35,7 @@ title: Members
 |[Marissa L Baskett.](http://www.des.ucdavis.edu/faculty/baskett/research/PI.html) Environmental Science and Policy, University of California, Davis. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/mbaskett)|
 |[Hannes  Baumann.](https://befel.marinesciences.uconn.edu) Marine Sciences, University of Connecticut. [<img src = '/img/twitter-squared.png' >](https://twitter.com/Baumannlab1)|
 |Narissa  Bax. , Institute for Marine and Antarctic Studies. |
+|Andria  Beal. Biology, FIU. |
 |Danielle M Becker. Biology, California State University, Northridge. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/daniellembecker)[<img src = '/img/twitter-squared.png' >](https://twitter.com/dmbeckerr)|
 |[Roxanne  Beinart.](https://beinartlab.com) Graduate School of Oceanography, University of Rhode Island. [<img src = '/img/twitter-squared.png' >](https://twitter.com/SymbiosisRox)|
 |Laura Marilyn Benestan. Biology, UQAR. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/laurabenestan)[<img src = '/img/twitter-squared.png' >](https://twitter.com/LBenestan)|
@@ -44,7 +45,11 @@ title: Members
 |[Louis  Bernatchez.](http://www2.bio.ulaval.ca/louisbernatchez/presentation.htm) Biology, Université Laval. [<img src = '/img/twitter-squared.png' >](https://twitter.com/LouBernatchez)|
 |[Rebecca J Best.](http://www.nau.edu/bestlab) School of Earth & Sustainability, Northern Arizona University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/rjbest)[<img src = '/img/twitter-squared.png' >](https://twitter.com/rjabest)|
 |[Jill M Bible.](https://www.jillbible.com) Environmental Science and Studies, Washington College. |
+|[Arjun  Biddanda.](https://aabiddanda.github.io) Human Genetics, University of Chicago. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/aabiddanda)[<img src = '/img/twitter-squared.png' >](https://twitter.com/aabiddanda)|
+|[Steven  Biller.](https://billerlab.org) Biological Sciences, Wellesley College. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/sbiller)[<img src = '/img/twitter-squared.png' >](https://twitter.com/steve_biller)|
 |Aysegul  Birand. , NA. [<img src = '/img/twitter-squared.png' >](https://twitter.com/abirand)|
+|Thais  Bittar. , Northeastern University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/thais-neu)[<img src = '/img/twitter-squared.png' >](https://twitter.com/thais_neu)|
+|Thais  Bittar. Marine and Environmental Science, Northeastern University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/thais-neu)[<img src = '/img/twitter-squared.png' >](https://twitter.com/thais_bittar)|
 |[Mark C. Bitter.](http://markcbitter.weebly.com/) Ecology and Evolution, University of Chicago. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/MarkCBitter)|
 |[April Monica Houghton Blakeslee.](https://blakesleelab.com) Biology, East Carolina University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/AMHBlakeslee)|
 |[Leocadio  Blanco-Bercial.](http://www.bios.edu/research/projects/zooplankton-ecology/) , Bermuda Institute of Ocean Sciences. |
@@ -58,6 +63,7 @@ title: Members
 |Dusica  Brisevac. Max Planck Research Group "Biological Clocks", Max Planck Institute for Evolutionary Biology. |
 |Ole B Brodnicke. , Copenhagen University, James Cook University and Australian Institute of Marine Science. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/OleBrodnicke)[<img src = '/img/twitter-squared.png' >](https://twitter.com/OBrodnicke)|
 |[Anna  Brüniche-Olsen.](https://scholar.google.com/citations?user=6U-M_SEAAAAJ&hl=en) Forestry & Natural Resources, Purdue University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/AnnaBruniche)|
+|[Martha O Burford Reiskind.](http://burfordreiskind.com/) Biological Sciencees, North Carolina State University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/MobReiskind)|
 |[Colleen  Burge.](http://imet.umces.edu/cburge/) Department of Marine Biotechnology, University of Maryland Baltimore County. [<img src = '/img/twitter-squared.png' >](https://twitter.com/colleenburge)|
 |[Scott  Burgess.](http://scottburgessecology.wordpress.com) Department of Biological Science, Florida State University. |
 |Nicholas  Burnett. Department of Neurobiology, Physiology, and Behavior, University of California, Davis. [<img src = '/img/twitter-squared.png' >](https://twitter.com/N_Burnett)|
@@ -69,11 +75,13 @@ title: Members
 |[Jeb  Byers.](http://jebyers.ecology.uga.edu/) Odum School of Ecology, University of Georgia. [<img src = '/img/twitter-squared.png' >](https://twitter.com/ByersEcologyLab)|
 |[Maria  Byrne.](http://www.anatomy.usyd.edu.au/research/groups/byrne/index.html ) Schools of Medical and Life and Environmental Sciences, University of Sydney. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/N/A)[<img src = '/img/twitter-squared.png' >](https://twitter.com/N/A)|
 |[Abigail E Cahill.](http://aecahill.weebly.com) Biology, Albion College. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/aecahill)[<img src = '/img/twitter-squared.png' >](https://twitter.com/aecahill)|
+|Stacy M Calhoun. Biology, University of Louisiana at Lafayette. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/stacycalhoun)[<img src = '/img/twitter-squared.png' >](https://twitter.com/StacyMCalhoun1)|
 |Louise  Cameron. Marine and Environmental Sciences, Northeastern University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/louisecam93)|
 |Serena A Caplins. Evolution and Ecology, University of California, Davis. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/SerenaCaplins)[<img src = '/img/twitter-squared.png' >](https://twitter.com/sapcaps)|
 |[Alessia  Cariani.](https://www.unibo.it/sitoweb/alessia.cariani/en) Department of Biological, Geological, and Environmental Sciences, University of Bologna. |
 |[Ryan B Carnegie.](http://www.vims.edu/people/carnegie_rb/index.php) Aquatic Health Sciences, Virginia Institute of Marine Science, College of William & Mary. [<img src = '/img/twitter-squared.png' >](https://twitter.com/rbcarnegie)|
 |[Tyler J Carrier.](https://sites.google.com/a/uncc.edu/tyler-carriers-research/home) Biological Sciences, University of North Carolina at Charlotte. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/tcarrie1)[<img src = '/img/twitter-squared.png' >](https://twitter.com/tylercarrier_)|
+|[Rita  Castilho.](http://rcastilho.pt/R2C2/R.Castilho.html) Center for Marine Sciences, University of Algarve. [<img src = '/img/twitter-squared.png' >](https://twitter.com/rcastilho_r2c2)|
 |[José  Cerca.](https://josecercadeoliveira.org) Natural History Museum, University of Oslo. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/cercadeoliveira)[<img src = '/img/twitter-squared.png' >](https://twitter.com/cryptic_omics)|
 |Roberta C Challener. Biology, Bellarmine University. |
 |Sum Po Ava  Chan. , University of Oxford. |
@@ -82,6 +90,7 @@ title: Members
 |[Brian S Cheng.](https://bscheng.com/) Environmental Conservation, University of Massachusetts Amherst. [<img src = '/img/twitter-squared.png' >](https://twitter.com/chengsbrian)|
 |Luis-Miguel  Chevin. CEFE, CNRS. |
 |Francis  Choi. , Northeastern University. |
+|Le Qin  Choo. Marine Biodiversity, Naturalis Biodiversity Center. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/lqch)[<img src = '/img/twitter-squared.png' >](https://twitter.com/lqchoo)|
 |[Henrik  Christiansen.](https://bio.kuleuven.be/eeb/lbeg/whoiswho/00097939) Laboratory of Biodiversity and Evolutionary Genomics, KU Leuven. [<img src = '/img/twitter-squared.png' >](https://twitter.com/Notothen)|
 |[Mark R Christie.](http://christielab.bio.purdue.edu/) Biological Sciences, Purdue Univeristy. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/MarkRChristieGroup)[<img src = '/img/twitter-squared.png' >](https://twitter.com/markrchristie)|
 |[Danielle C Claar.](https://danielleclaar.weebly.com) Biology, University of Victoria. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/daniclaar)[<img src = '/img/twitter-squared.png' >](https://twitter.com/ClaarDanielle)|
@@ -91,6 +100,7 @@ title: Members
 |Rachael  Cleveland. , Student. |
 |Phillip  Cleves. Genetics, Stanford University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/pacleves)|
 |[David J Combosch.](https://www.researchgate.net/profile/David_Combosch) Marine Laboratory, University of Guam. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/combosch)[<img src = '/img/twitter-squared.png' >](https://twitter.com/reef_combo)|
+|[Gina M Contolini.](https://rediscoveringevolution@blogspot.com) EEB, UC Santa Cruz. |
 |James J Corbett. Marine and Environmental Science, Northeastern University. |
 |Shannon  Corrigan. Florida Museum of Natural History, University of Florida. [<img src = '/img/twitter-squared.png' >](https://twitter.com/CTOL_Project)|
 |Elisa M Costa-Paiva. Genetics Departmen, Federal University of Rio de Janeiro. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/ElisaMaria)|
@@ -100,6 +110,7 @@ title: Members
 |Shuvendu  Das. Landscape level planning and management, Wildlife Institute of India. [<img src = '/img/twitter-squared.png' >](https://twitter.com/Yes)|
 |[Sarah  W Davies.](http://sites.bu.edu/davieslab/) Biology, Boston University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/DaviesswPhD)|
 |[Michael N Dawson.](https://mnd.ucmerced.edu) Life & Environmental Sciences, University of California, Merced. [<img src = '/img/twitter-squared.png' >](https://twitter.com/MNDLab)|
+|David I Dayan. Biology, Clark University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/david-dayan)|
 |Diede  de Haan. OEB, Harvard university . |
 |[Pierr  De Wit.](https://www.gu.se/english/about_the_university/staff?languageId=100001&userId=xdewpi) Marine Sciences, University of Gothenburg. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/DeWitP)[<img src = '/img/twitter-squared.png' >](https://twitter.com/pierre_dewit)|
 |[Danielle M DeLeo.](http://danielledeleo.weebly.com/) Biology, Marine Science, Florida International University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/DeLeoDM)|
@@ -143,7 +154,10 @@ title: Members
 |[Wally  Fulweiler.](https://www.fulweilerlab.com) Earth and Environment and Biology , Boston University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/RWFulweiler)[<img src = '/img/twitter-squared.png' >](https://twitter.com/Fulweilerlab)|
 |[Juam Diego Gaitan-Espitia.](https://www.ibeerlab.com/) School of Biological Sciences, University of Hong Kong. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/juadiegaitan)[<img src = '/img/twitter-squared.png' >](https://twitter.com/JDGaitanEspitia)|
 |[Michelle R Gaither.](https://sciences.ucf.edu/biology/gaitherlab/) Biology, University of Central Florida. [<img src = '/img/twitter-squared.png' >](https://twitter.com/Fish_Evolution)|
+|Cristobal  Gallegos. Biology, Monash University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/https://github.com/CristobalGS)[<img src = '/img/twitter-squared.png' >](https://twitter.com/https://twitter.com/cristobal_gs)|
+|Natalya D.  Gallo. , Scripps Institution of Oceanography, UCSD. [<img src = '/img/twitter-squared.png' >](https://twitter.com/Natalya_Gallo)|
 |[Jonathan P A  Gardner.](https://www.victoria.ac.nz/sbs/about/staff/jonathan-gardner) School of Biological Sciences, Victoria University of Wellington. |
+|[Remy  Gatins.](https://remygatins.wordpress.com/) Ecology and Evolutionary Biology, University of California Santa Cruz. [<img src = '/img/twitter-squared.png' >](https://twitter.com/remygatins)|
 |Brian  Gaylord. Evolution and Ecology, and Bodega Marine Laboratory, University of California Davis. |
 |Ellen  George. , Cornell University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/greatlakescisco)|
 |[Cameron K Ghalambor.](https://sites.biology.colostate.edu/ghalamborlab/Ghalambor_Lab/Welcome.html) Department of Biology, Colorado State University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/camghalambor)[<img src = '/img/twitter-squared.png' >](https://twitter.com/CGhalambor)|
@@ -175,6 +189,7 @@ title: Members
 |[Hugo B Harrison.](https://hugoharrison.net) ARC Centre of Excellence for Coral Reef Studies, James Cook University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/HugoBH)[<img src = '/img/twitter-squared.png' >](https://twitter.com/HugoBHarrison)|
 |Hanna  Hartikainen. Aquatic Ecology, Eawag. |
 |[Catherine Drew Harvell.](http://www.eeb.cornell.edu/harvell/) Ecology and Evolutionary BIology, Cornell UNiv. [<img src = '/img/twitter-squared.png' >](https://twitter.com/DrewHarvell)|
+|[Jonathan  Havenhand.](https://marine.gu.se/english/about-us/staff?languageId=100001&userId=xhavjo) Marine Sciences, University of Gothenburg. |
 |Cynthia G Hays. Department of Biology, Keene State College. [<img src = '/img/twitter-squared.png' >](https://twitter.com/seaweedcynthia)|
 |[Michael E Hellberg.](https://sites01.lsu.edu/faculty/mhellbe/) Biological Sciences, Louisiana State University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/LSUclubMEH)|
 |[Brian  Helmuth.](http://www.northeastern.edu/helmuthlab/) Marine and Environmental Sciences, Northeastern University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/aquanaut1967)|
@@ -184,6 +199,7 @@ title: Members
 |Courtney   Hofman. Anthropology, University of Oklahoma. [<img src = '/img/twitter-squared.png' >](https://twitter.com/CourtneyHofman)|
 |[Jordan A Hollarsmith.](http://jordanhollarsmith.weebly.com/) Environmental Science and Policy, UC Davis, Bodega Marine Lab. [<img src = '/img/twitter-squared.png' >](https://twitter.com/HollarAtTheSea)|
 |[Scott  Hotaling.](https://www.coldgenomes.com) School of Biological Sciences, Washington State University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/n/a)[<img src = '/img/twitter-squared.png' >](https://twitter.com/mtn_science)|
+|Lauren I Howe-Kerr. BioSciences, Rice University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/laurenhowekerr)|
 |Emily  Howells. Biology, University of Wollongong. |
 |[Randall  Hughes.](https://hugheslab.squarespace.com) Marine and Environmental Science, Northeastern University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/arandallhughes)[<img src = '/img/twitter-squared.png' >](https://twitter.com/hughes_lab)|
 |Ashtyn L Isaak. Biology, California State University Northridge. [<img src = '/img/twitter-squared.png' >](https://twitter.com/Ashtyn_Isaak)|
@@ -215,6 +231,7 @@ title: Members
 |Logan  Kozal. EEMB, UCSB. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/logankozal)|
 |[Nicola G Kriefall.](https://nicfall.weebly.com) Biology, Boston University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/NicolaKriefall)[<img src = '/img/twitter-squared.png' >](https://twitter.com/NicolaKriefall)|
 |[Stacy A Krueger-Hadfield.](https://www.quooddy.com) Biology, University of Alabama at Birmingham . [<img src = '/img/twitter-squared.png' >](https://twitter.com/quooddy)|
+|[Patrick J Krug.](https://patkrug70.wixsite.com/website) Biological Sciences, Cal State L.A.. |
 |[Ilsa B Kuffner.](https://coastal.er.usgs.gov/crest/) St. Petersburg Coastal and Marine Science Center, U.S. Geological Survey. |
 |John L Largier. Environments Science & Policy, and Bodega Marine Laboratory, University of California Davis. [<img src = '/img/twitter-squared.png' >](https://twitter.com/JohnLargier)|
 |[Áki J Láruson.](https://akijarl.wordpress.com/) Department of Marine and Environmental Sciences, Northeastern University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/akijarl)[<img src = '/img/twitter-squared.png' >](https://twitter.com/AkiJarl)|
@@ -222,10 +239,13 @@ title: Members
 |[Alyssa L Liguori.](https://alyssaliguori.com/) Ecology and Evolution, Stony Brook University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/AlyssaLLiguori)|
 |Elena  Litchman. Kellogg Biological Station, Michigan State University. |
 |Malina M Loeher. Karen C. Drayer Wildlife Health Center; Fisheries, UC Davis; California Department of Fish and Wildlife. [<img src = '/img/twitter-squared.png' >](https://twitter.com/m_loeher)|
+|[Cheryl  Logan.](https://loganlabcsumb.weebly.com/) Marine Science, CSU Monterey Bay. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/clogan88)[<img src = '/img/twitter-squared.png' >](https://twitter.com/clogansci)|
 |Emily  Longman. Evolution and Ecology, University of California, Davis and the Bodega Marine Lab. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/eklongman)|
 |[Sarah J Longo.](https://sarahjlongo.wordpress.com) Biology, Duke University. |
+|Andrés  López. Fisheries, University of Alaska Fairbanks. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/jandreslopez)[<img src = '/img/twitter-squared.png' >](https://twitter.com/fish_andres)|
 |Nico  Lorenzen. Biological Sciences, University of Southern California. |
 |[Kathleen E Lotterhos.](https://sites.google.com/site/katielotterhos/home) Marine and Environmental Sciences, Northeastern University Marine Science Center. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/drk-lo)[<img src = '/img/twitter-squared.png' >](https://twitter.com/DrK_Lo)|
+|Natalie  Lowell. School of Aquatic and Fishery Sciences, UNIVERSITY OF WASHINGTON. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/nclowell)[<img src = '/img/twitter-squared.png' >](https://twitter.com/natclol)|
 |Lori  luers. , ucsd. |
 |Nik  Lupše. Zoology, Charles University in Prague, Czech Republic. |
 |William  Lush. Earth Science, University of New Hampshire. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/wlush)|
@@ -236,7 +256,10 @@ title: Members
 |[Catherine M Matassa.](https://catherinematassa.weebly.com) Marine Sciences, University of Connecticut. [<img src = '/img/twitter-squared.png' >](https://twitter.com/matassa_cm)|
 |Ambrocio Melvin A Matias. School of Biological Sciences, The University of Queensland. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/dinmatias)[<img src = '/img/twitter-squared.png' >](https://twitter.com/din_matias)|
 |[Mikhail V Matz.](https://matzlab.weebly.com) Integrative Biology, University of Texas at Austin. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/z0on)[<img src = '/img/twitter-squared.png' >](https://twitter.com/heatshok)|
+|[Craig R McClain.](https://www.craigmcclain.com) , LUMCON. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/crmcclain)[<img src = '/img/twitter-squared.png' >](https://twitter.com/DrCraigMc)|
+|[Michael  W McCoy.](http://mikemccoylab.weebly.com/) Biology, East Carolina University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/michaelwmccoy)[<img src = '/img/twitter-squared.png' >](https://twitter.com/M_W_McCoy)|
 |[Jeffrey S McKinnon.](http://mckinnonlab.wixsite.com/ecubiology) Biology, East Carolina U. [<img src = '/img/twitter-squared.png' >](https://twitter.com/mckinnoj62)|
+|[Megan V McPhee.](https://mvmcphee.community.uaf.edu [outdated]) Fisheries, University of Alaska Fairbanks. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/mvmcphee)[<img src = '/img/twitter-squared.png' >](https://twitter.com/mvmcphee)|
 |[Melissa  Meadows.](https://francis.academia.edu/MelissaMeadows) Biology, Saint Francis University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/melissa_meadows)|
 |Laura  Mears. , University of Southampton. [<img src = '/img/twitter-squared.png' >](https://twitter.com/pressxtoskip)|
 |[Monica  Medina.](https://medinalab.org) Biology, Penn State University - University Park. [<img src = '/img/twitter-squared.png' >](https://twitter.com/MedinaLabPSU)|
@@ -246,11 +269,16 @@ title: Members
 |Riana  Minocher. Human Behavior, Ecology and Culture, Max Planck Institute for Evolutionary Anthropology. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/rianaminocher)[<img src = '/img/twitter-squared.png' >](https://twitter.com/rianaminocher)|
 |[Holly V Moeller.](https://moellerlab.org) Ecology, Evolution and Marine Biology, UC Santa Barbara. [<img src = '/img/twitter-squared.png' >](https://twitter.com/hvmoeller)|
 |Elizabeth A Mojica. Animal Science, University of California, Davis. |
+|[Keyne  Monro.](http://monrolab.org/) School of Biological Sciences, Monash University. |
 |[Kristine N Moody.](https://knmoody.wixsite.com/kristine-moody) Ecology and Evolutionary Biology, University of Tennessee Knoxville. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/knmoody)[<img src = '/img/twitter-squared.png' >](https://twitter.com/GobyGuru)|
 |[Hernan E Morales.](https://hernan-morales.weebly.com/) Centre for Marine Evolutionary Biology, Goteborgs Universitet. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/hmoral)[<img src = '/img/twitter-squared.png' >](https://twitter.com/HernMoral)|
+|Benjamin M Moran. Biology, Stanford University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/benmoran11)|
 |[Steven G Morgan.](https://marinescience.ucdavis.edu/people/steven-morgan) Bodega Marine Laboratory, Environmental Science & Policy, Coastal and Marine Sciences Institute , University of California Davis. |
+|[Brook T Moyers.](https://www.moyerslab.science) Biology, University of Massachusetts Boston. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/btmoyers)[<img src = '/img/twitter-squared.png' >](https://twitter.com/brooklebee)|
 |Courtney J Murren. Biology, College of Charleston. [<img src = '/img/twitter-squared.png' >](https://twitter.com/CourtneyMurren)|
 |Isabelle P Neylan. , University of California Davis. [<img src = '/img/twitter-squared.png' >](https://twitter.com/I_Neylan)|
+|[Kerry J Nickols.](https://kerrynickols.weebly.com) Biology, California State University Northridge. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/kjnickols)[<img src = '/img/twitter-squared.png' >](https://twitter.com/kj_nickols)|
+|[Erica  S.  Nielsen.](https://esnielsen.github.io/) Botany and Zoology, Stellenbosch University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/esnielsen)[<img src = '/img/twitter-squared.png' >](https://twitter.com/erica_at_work)|
 |Kristina  Noreikiene. Aquaculture and Fisheries, Estonian University of Life Sciences. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/Noreikiene)[<img src = '/img/twitter-squared.png' >](https://twitter.com/snaudale)|
 |Ilkka  Nousiainen. Aquaculture, Estonian University of Life Sciences. [<img src = '/img/twitter-squared.png' >](https://twitter.com/ilkkan84)|
 |[Mark  Novak.](http://people.oregonstate.edu/~novakm/) Integrative Biology, Oregon State University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/marknovak)|
@@ -273,11 +301,13 @@ title: Members
 |Raquel  Peixoto. , Federal University of Rio de Janeiro (associate prof) and UCDavis (visiting prof). [<img src = '/img/twitter-squared.png' >](https://twitter.com/peixotors and @bmmo_network)|
 |[Bruno  Pernet.](http://web.csulb.edu/~bpernet/index.htm/Home.html) Biological Sciences, Long Beach State University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/CSULBLarvaLab )|
 |Lindsay E Peter. Aquaculture, Pemaquid Mussel Farms. [<img src = '/img/twitter-squared.png' >](https://twitter.com/linzp28)|
+|Eleni L Petrou. School of Aquatic and Fishery Sciences, University of Washington. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/EleniLPetrou)[<img src = '/img/twitter-squared.png' >](https://twitter.com/EleniPetrou10)|
 |[Megan V Phifer-Rixey.](https://phiferrixeylab.com) Biology, Monmouth University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/RixeyMegan)|
 |Michele ER Pierotti. Naos Marine Labs, Smithsonian Tropical Research Institute. |
 |[Malin L. Pinsky.](http://pinsky.marine.rutgers.edu) Department of Ecology, Evolution, and Natural Resources, Rutgers University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/mpinsky)[<img src = '/img/twitter-squared.png' >](https://twitter.com/pinskylab)|
 |[Sean P Place.](https://placelab-b199.com/home/) Biology, Sonoma State University. |
 |Louis V Plough. Horn Pt. Laboratory, University of Maryland Center for Environmental Science. [<img src = '/img/twitter-squared.png' >](https://twitter.com/ChoptankDNA)|
+|Christian Mauricio Polania. Ecology and Evolutionary Biology, University of Connecticut. |
 |Thea R Popolizio. Biology, Salem State University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/theapop)|
 |[Francesca  Porri.](https://www.saiab.ac.za/dr-francesca-porri.htm) SAIAB, South African Institute for Aquatic Biodiversity. [<img src = '/img/twitter-squared.png' >](https://twitter.com/NAS)|
 |Ashley  Potter. Marine Biology, CSUN. [<img src = '/img/twitter-squared.png' >](https://twitter.com/AE_Potter)|
@@ -305,8 +335,10 @@ title: Members
 |John D. Robinson. Fisheries and Wildlife, Michigan State University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/slugsrfun)[<img src = '/img/twitter-squared.png' >](https://twitter.com/jdrobMSU)|
 |Matthew  Rockman. Department of Biology, New York University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/wormsrock)|
 |Nina  Roeder. Institute for Environmental Sciences, University of Koblenz-Landau. |
+|Aaron D Rose. Biological Sciences, Florida International University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/Aaron_D_Rose)|
 |Allison L Rugila. Ecology and Evolution, Stony Brook University. |
 |[Lupita J Ruiz-Jones.](https://lupitaruiz-jones.com) , Stanford University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/Lupita_jrj)|
+|[Will H. Ryan.](https://willhryan.com) Biology, University of Alabama at Birmingham. [<img src = '/img/twitter-squared.png' >](https://twitter.com/willhryan)|
 |Meredith E Sackett. Biology: Ecology & Biodiversity, Sewanee: The University of the South. |
 |Alisha M Saley. , Bodega Marine Lab, UC Davis. |
 |[Santiago  Salinas.](http://santiagosalinas.net) Biology, Kalamazoo College. [<img src = '/img/twitter-squared.png' >](https://twitter.com/5alinas)|
@@ -325,6 +357,8 @@ title: Members
 |[Elizabeth A Sheets.](http://bethsheets.github.io) Biology, Hopkins Marine Station, Stanford University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/bethsheets)[<img src = '/img/twitter-squared.png' >](https://twitter.com/easheets)|
 |Heather  Sheffey. Biology, Old Dominion University. |
 |[elizabeth  sherman.](http://faculty.bennington.edu/~sherman/) Science and Math, Bennington College. |
+|[Seema  Sheth.](https://www.seemasheth.weebly.com) Plant and Microbial Biology, North Carolina State University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/snsheth)[<img src = '/img/twitter-squared.png' >](https://twitter.com/SeemaSheth)|
+|Yinhla  D Shihlomule. Zoology and Entomology, University of Pretoria. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/cornerstone14)|
 |[Mohammad Reza  Shokri.](http://facultymembers.sbu.ac.ir/shokri/) Marine and Aquatic Biology and Biotechnology, Shahid Beheshti University, Faculty of Life Sciences and Bitechnology. |
 |[Priya  Shukla.](https://priyashukla.com) Ecology / Animal Science, University of California, Davis. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/priyology)[<img src = '/img/twitter-squared.png' >](https://twitter.com/priyology)|
 |Todd P Sigley. , Northeastern University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/Underwater_Todd)|
@@ -342,8 +376,9 @@ title: Members
 |[Carl  St. John.](https://andresaguilar.weebly.com/) Biological Sciences, Cal State Los Angeles. |
 |[Jay  Stachowicz.](https://stachlab.wordpress.com) Evolution and Ecology, UC Davis. |
 |[Cecily N Steppe.](https://google scholar- my work website is down) Oceanography, United States Naval Academy. [<img src = '/img/twitter-squared.png' >](https://twitter.com/Pleurobrachia)|
+|[David B Stern.](https://pancrustacea.weebly.com) Integrative Biology, University of Wisconsin - Madison. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/TheDBStern)[<img src = '/img/twitter-squared.png' >](https://twitter.com/TheDBStern)|
 |[Marie E Strader.](https://mariestrader.weebly.com/) Ecology, Evolution and Marine Biology, UCSB. [<img src = '/img/twitter-squared.png' >](https://twitter.com/SciStrader)|
-|Jan  Strauss. EMBL Hamburg, European Molecular Biology Laboratory. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/janstrauss1)[<img src = '/img/twitter-squared.png' >](https://twitter.com/janstrauss1)|
+|Jan  Strauss. Centre for Structural Systems Biology (CSSB), University of Hamburg. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/janstrauss1)[<img src = '/img/twitter-squared.png' >](https://twitter.com/janstrauss1)|
 |Aron  Stubbins. MES/CCB/CEE, Northeastern University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/aronstubbins)|
 |Timothy D Swain. , Northwestern University/Field Museum. [<img src = '/img/twitter-squared.png' >](https://twitter.com/aquaticpenumbra)|
 |[Richelle L Tanner.](https://www.richelletanner.com) School of Biological Sciences, Washington State University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/richelletanner)|
@@ -356,6 +391,7 @@ title: Members
 |[Peter  Tiffin.](https://cbs.umn.edu/contacts/peter-tiffin) Plant and Microbial Biology, University of Minnesota. |
 |[Anna  Tigano.](https://annatigano.weebly.com/) Molecular, Cellular, and Biomedical Sciences, University of New Hampshire. [<img src = '/img/twitter-squared.png' >](https://twitter.com/t_annina)|
 |Zachary JC Tobias. Biology, Woods Hole Oceanographic Institution . |
+|Rachel H Toczydlowski. Integrative Biology, Michigan State University. |
 |[Anne E Todgham.](https://todghamlab.faculty.ucdavis.edu) Animal Science, University of California Davis. [<img src = '/img/twitter-squared.png' >](https://twitter.com/atodgham)|
 |[Rob J Toonen.](http://tobolab.org/) Hawaii Institute of Marine Biology, University of Hawaii at Manoa. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/ToBoDev)[<img src = '/img/twitter-squared.png' >](https://twitter.com/ToBoLab)|
 |[Jason A Toy.](https://jasontoyblog.wordpress.com/) Ecology and Evolutionary Biology, University of California, Santa Cruz. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/jtoy7)[<img src = '/img/twitter-squared.png' >](https://twitter.com/the_evologist)|
@@ -364,6 +400,7 @@ title: Members
 |[Eric A Treml.](https://mseaclab.com/) , Deakin University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/dretreml)[<img src = '/img/twitter-squared.png' >](https://twitter.com/eatreml)|
 |Shubham  Tripathi. PhD Program in Systems, Synthetic, and Physical Biology, Rice University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/st35)[<img src = '/img/twitter-squared.png' >](https://twitter.com/shubtri707)|
 |Abigail S Tripler. Marine Biology, Northeastern University. |
+|Sarit  Truskey. Marine and Environmental Sciences, Northeastern University. |
 |[Geoffrey C Trussell.](https://web.northeastern.edu/trussell/) Marine & Environmental Sciences, Northeastern University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/None)[<img src = '/img/twitter-squared.png' >](https://twitter.com/None)|
 |Gabriela  Ulmo-Díaz. , Université Laval. [<img src = '/img/twitter-squared.png' >](https://twitter.com/bluealiencattle)|
 |Naomi  van den Berg. Evolutionary Biology & Ecology, Cornell University & Wageningen University. |
