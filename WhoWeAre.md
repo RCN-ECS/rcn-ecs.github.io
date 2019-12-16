@@ -37,7 +37,6 @@ Chile | 1
 Czech Republic | 1
 Denmark | 2
 Denmark  | 1
-
 Estonia | 3
 Finland | 2
 France | 5
