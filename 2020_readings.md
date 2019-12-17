@@ -18,7 +18,7 @@ Each week will have two threads:
   * Under the thread `Week X. <Topic Name> Post your group's discussions here,` click on the chat icon `Reply to thread` to post a summary of your group's discussions (see image below).
   * To ask a question about the papers, use the thread `Week X. <Topic Name> Questions for Understanding.` If you have any technical questions about the papers, post them here and the moderators will do their best to answer them!
 
-![image](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/img/Screen%20Shot%202019-12-16%20at%2012.49.06%20PM.png)
+![image](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/img/Navslackimg.png)
 
 ## New Theme and Format
 For our second set of coordinated readings, we focus on phenotypic plasticity. Phenotypic plasticity is the ability of a single genotype to express different phenotypes in different environments. Plasticity has the potential to promote adaptation, constrain adaptation, or be the adaptive response itself, so it plays an important role in adaptation to changing environments. 
