@@ -14,7 +14,7 @@ Of course, if larvae are released into a raging river, most of them will be swep
 
 For example, examine the following depth averaged alongshore currents from 90m depth just north of Pt. Reyes California (Largier et al. 2006):
 
-![mean alongshore currents](../img/Largier-etal-2006-fig4.png)
+![mean alongshore currents](../img/Largier-etal-2006-fig4.PNG)
 
 The different color lines indicate depth in the water, and what is striking is how depth uniform the results are; the dynamics and forcing of this region are described in (Pringle & Dever 2009).
 
@@ -28,11 +28,11 @@ But then think of larvae that will be in the water for the full 54ish days of th
 
 But the former result is handwaving, and the latter result is to some extent an accident of the time period of the observations. So can we be more formal? Yes. Imagine the mean current in the season the propagules are released is U<sub>mean</sub> m/s, and the propagules are in the water a time T<sub>PLD</sub>. The mean distance they would be moved downstream would be 
 
-![equation 01 for Lmean](../img/equation01-Lmean.png)
+![equation 01 for Lmean](../img/equation01-Lmean.PNG)
 
 If the propagules are in the water twice as long, they will move twice as far. Now if the speed of the water has a standard deviation of U<sub>std</sub>, what is the standard deviation of how far the larvae travel? Well, it depends on how long the water flows on average one direction before reversing – this is called the “decorrelation time scale” and is customarily called &tau. The variability of the dispersal, L<sub>std</sub> will then be
 
-![equation 02 for Lstd](../img/equation02-Lstd.png)
+![equation 02 for Lstd](../img/equation02-Lstd.PNG)
 
 Immediately a difference is apparent – if the time in plankton T<sub>PLD</sub> is 2 times larger, the distance traveled is only 1.4 times (the square root of 2) bigger! 10 times longer, only about 3.2 times farther! (The derivations of these results can be found in many places, e.g. Siegel et al. (2003)).  
 
