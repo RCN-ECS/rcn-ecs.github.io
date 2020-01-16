@@ -49,7 +49,7 @@ Gerdien De Jong
 
 **Paper 2:** 
 
-[Phenotypic plasticity, global change, and the speed of adaptive evolution](https://hal.archives-ouvertes.fr/hal-02269780/file/COIS%20%20submitted%20version.pdf)
+[Phenotypic plasticity, global change, and the speed of adaptive evolution](https://www.sciencedirect.com/science/article/pii/S2214574519300355)
 
 Patricia Gibert, Vincent Debat, Cameron Ghalambor
 
