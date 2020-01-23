@@ -190,7 +190,7 @@ Andrew Hendry
 
 | Paper | Female Author? | Non-US Researcher | Biome | Paper Type |
 |---|---|---|---|---|
-|DeJong 2005 | | X | | Theory |
+|DeJong 2005 |First author | X | | Theory |
 |Gibert et al. 2019 | First author | X |Terrestrial| Review |
 |Via and Lande 1985| First author | | | Theory |
 |Schaum et al. 2016 | First and last author | X | Marine | Empirical |
