@@ -8,7 +8,7 @@ title: Feeling the heat across the generational divide
 Park yourself on a beach towel at the coast for long enough, and you will likely experience a fraction of the environmental stress intertidal animals see on a regular basis. But they thrive in this environment, partially due to their physiological plasticity. Plasticity is a trait commonly seen in organisms that experience a high degree of environmental fluctuations within their lifetimes, making plastic species more suited to experience a wide range of conditions and partition their energy appropriately. But what happens when the frequency of the fluctuation is much wider, on the seasonal or yearly timescale? For species that have generation times that align with fluctuations on this scale, transgenerational plasticity is potentially adaptive. This concept is explained very well by a figure in Stearns (1976), where the generation time matches predictable fluctuations in environmental condition, but not in an adaptive way under unpredictable fluctuations in environmental condition. 
 
 
-![Fig. 1](../Fig1.png)
+![Fig1](../img/Fig1.png)
 
 <sub> Figure 1. Adapted from Stearns 1976, where generation time depends on predictability and duration of fluctuations in environmental condition. </sub>
 
@@ -20,7 +20,7 @@ While on the surface it appears that our field disagrees on what transgeneration
 The eelgrass sea hare, _Phyllaplysia taylori_, has two non-overlapping generations in Central California and lives in intertidal eelgrass beds that are predictably fluctuating in temperature, among other conditions. Sea hare adults living in the spring give rise of sea hare adults living in the summer/early fall, which are characterized by two very different thermal regimes: high fluctuations and low mean temperature in the spring, and low fluctuations and high mean temperature in the fall. In conducting another study on adult reversible plasticity in this same species, we noticed that season was a major player in the physiological response to increased temperature: spring adults had a high capacity for acclimation (high plasticity) but lower tolerance and summer adults had a low capacity for acclimation but higher tolerance overall. This result harkened back to the Trade-Off Hypothesis, a prevalent topic in the Stillman Lab regarding an energy allocation trade-off between thermal tolerance plasticity and absolute thermal tolerance. The question arose: is this seasonally-based adult phenotype driven by transgenerational plasticity? And further, will it persist with climate change?
 
 
-![Fig. 2](../Fig2.png)
+![Fig2](../img/Fig2.png)
 
 <sub> Figure 2. A) Sea hare embryos and B) Adult eelgrass sea hare. </sub>
 
@@ -28,7 +28,7 @@ The eelgrass sea hare, _Phyllaplysia taylori_, has two non-overlapping generatio
 Acclimating sea hares to conditions representative of spring and summer conditions, alongside a “future summer” condition, and fully crossing offspring back to these conditions, we found that a combination of transgenerational plasticity and developmental plasticity accounts for the seasonal phenotype shift. However, future conditions – whether represented by that “future summer” condition or acute heat shock during early development (simulating an extreme heat event), result in incomplete compensation by maternal provisioning and decreased offspring success. In simple terms, this means that transgenerational plasticity in sea hares successfully maintains seasonal phenotypes in the current, predictable thermal regime, but future conditions disrupt this relationship and could lead to population declines. 
 
 
-![Fig. 3](../Fig3.png)
+![Fig3](../img/Fig3.png)
 
 <sub> Figure 3. Significantly fewer successful offspring under any future conditions (in red, also points in right-most position). Figure adapted from Tanner et al. 2020 MEPS. </sub>
 
