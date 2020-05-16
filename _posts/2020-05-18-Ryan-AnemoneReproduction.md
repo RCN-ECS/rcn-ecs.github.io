@@ -74,7 +74,7 @@ Cnidarians, with their seemingly simple construction and endless variation, can 
 
 ### Biography
 
- [Will Ryan](www.willhryan.com) is an IRACDA-MERIT Postdoctoral Scholar at the University of Alabama at Birmingham. He studies the evolution of complex life cycles in marine invertebrates and algae. 
+ [Will Ryan](https://www.willhryan.com/) is an IRACDA-MERIT Postdoctoral Scholar at the University of Alabama at Birmingham. He studies the evolution of complex life cycles in marine invertebrates and algae. 
 
 ### Works Cited
 
