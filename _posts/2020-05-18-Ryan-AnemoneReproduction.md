@@ -38,7 +38,7 @@ Through a combination of field observations and common garden experiments, my co
 
 ![Figure 3](../img/Figure3.png)
 
-<sub> **Figure3** Patterns of (A) survival, (B) fission, (C) colony biomass accumulation, and (D) individual anemone size produced by clonal replicates of ten genets (lines/colors) of *D. lineata* over 12 weeks in common garden temperature treatments. Temperature increases fission and decreases individual body size. But, colony weight gain can be similar at intermediate and high temperatures. Adapted from Ryan et al. 2019, *Marine Biology* 166:157. </sub>
+<sub> **Figure 3** Patterns of (A) survival, (B) fission, (C) colony biomass accumulation, and (D) individual anemone size produced by clonal replicates of ten genets (lines/colors) of *D. lineata* over 12 weeks in common garden temperature treatments. Temperature increases fission and decreases individual body size. But, colony weight gain can be similar at intermediate and high temperatures. Adapted from Ryan et al. 2019, *Marine Biology* 166:157. </sub>
 
  
 
