@@ -21,4 +21,8 @@ We are a network of marine scientists, evolutionary biologists, and oceanographe
 {: .box-note}
 **Keywords:** coupling oceanographic and evolutionary processes, local adaptation and maladaptation, co- and counter-gradient variation, adaptive and maladative plasticity, evolution of function-valued traits, epigenetics and transgenerational plasticity
 
+{: .box-note}
+[Anti-Racism Statement](Anti-racism.md)
+[Diversity, Equity, and Inclusion Statement](DEI.md)
+
 
