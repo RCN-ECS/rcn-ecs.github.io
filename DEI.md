@@ -1,1 +1,6 @@
-# The Research Coordinated Network for Evolution in Changing Seas: Diversity, Equity, and Inclusion Statement
+---
+layout: page
+title: Diversity, Equity, and Inclusion Statement
+---
+
+
