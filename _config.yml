@@ -23,6 +23,9 @@ description: A research coordinated network funded by the National Science Found
 
 # List of links in the navigation bar
 navbar-links:
+  Diversity:
+    - Anti-racism statement: "Anti-racism"
+    - Diversity, Equity, and Inclusion: "DEI"
   Membership:
     - How to join: "howtojoin"
     - Who we are: "WhoWeAre"
