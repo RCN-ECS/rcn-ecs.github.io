@@ -24,6 +24,7 @@ We are a network of marine scientists, evolutionary biologists, and oceanographe
 {: .box-note}
 [Anti-Racism Statement](Antiracism.md)
 
+{: .box-note}
 [Diversity, Equity, and Inclusion Statement](DEI.md)
 
 
