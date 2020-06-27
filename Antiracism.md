@@ -1,9 +1,7 @@
 ---
 layout: page
-title: The Research Coordinated Network for Evolution in Changing Seas: Anti-Racism Statement
+title: Anti-Racism Statement
 ---
-
-# Anti-Racism Statement
 
 Like many, we have been horrified, heartbroken, and outraged by the murders and racial violence against the Black community. Black deaths at the hands of the police highlight aggressive police tactics, racial profiling, and once again the need for us to address continued systemic anti-Black racism. History also serves to remind us why the phrase Black Lives Matter is both important and painfully relevant. Racism damages our community and breaks down the excellence that we seek to achieve in STEM research and education. 
 
