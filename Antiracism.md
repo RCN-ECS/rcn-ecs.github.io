@@ -3,6 +3,8 @@ layout: page
 title: The Research Coordinated Network for Evolution in Changing Seas: Anti-Racism Statement
 ---
 
+# Anti-Racism Statement
+
 Like many, we have been horrified, heartbroken, and outraged by the murders and racial violence against the Black community. Black deaths at the hands of the police highlight aggressive police tactics, racial profiling, and once again the need for us to address continued systemic anti-Black racism. History also serves to remind us why the phrase Black Lives Matter is both important and painfully relevant. Racism damages our community and breaks down the excellence that we seek to achieve in STEM research and education. 
 
 Every person who gives up a career in science due to racism represents an irretrievable loss to the advances they would have made and people they would have educated. We acknowledge that systemic anti-Black racism impacts our communities, professionally and personally. We recognize that these racist structures underpin our STEM institutions and that there are people in our community who live with racism every day. We stand in solidarity with Black and other minorities in our communities who experience alarming rates of institutionalized violence, and with those engaging in peaceful protests against systemic racism, oppression, and brutality. We condemn any form of racism, harassment, or discrimination, and we acknowledge the toll that societal and institutional racism has taken on our society, with the science community being no exception. Marine science and evolutionary biology have long been dominated by white perspectives, some of which have been white supremacist views rooted in eugenics, and we acknowledge that this lack of diversity is detrimental to innovation. 
