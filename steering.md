@@ -95,6 +95,63 @@ steering-list:
     twitter: 
     github: http://github.com/HuijieXue
     
+diversity-list:
+  - name: Molly Albecker 
+    img: /img/people/molly-albecker.jpg
+    desc:  RCN postdoc at Northeastern University's Department of Marine and Environmental Sciences.
+    website: https://www.mollyalbecker.com/
+    url: 
+    twitter: http://twitter.com/molly_albecker
+    github: 
+  - name: Moises Bernal
+    img: /img/people/moises.jpg
+    desc:  Assistant Professor in the department of Biological Sciences at Auburn University.
+    website: https://sites.google.com/site/moisesbernalresearch/
+    url: https://www.auburn.edu/cosam/faculty/biology/bernal/index.htm
+    twitter: https://twitter.com/evo_fish?lang=en
+    github:
+  - name: Scott Burgess 
+    img: /img/people/scott-burgess.jpg
+    desc:  Assistant Professor in the department of Biological Sciences at Florida State University.
+    website: https://scottburgessecology.wordpress.com/
+    url: https://www.bio.fsu.edu/faculty.php?faculty-id=sburgess
+    twitter: 
+    github:
+    
+   - Sarah Donelan
+    img: /img/people/sarah-donelan.jpg
+    desc: Postdoctoral fellow at the Smithsonian Environmental Research Center
+    website: https://sarahdonelanphd.weebly.com/
+    url: https://serc.si.edu/staff/sarah-donelan
+    twitter: 
+    github:
+    
+  - Torrance Hanley
+    img: /img/people/torrie-hanley.jpg
+    desc:  Associate Research Scientist at Northeastern's Marine Science Center.
+    website: 
+    url: https://cos.northeastern.edu/people/torrance-hanley/
+    twitter: https://twitter.com/torrance_hanley?lang=en
+    github:
+    
+   - Claire Lewis 
+    img: /img/people/claire-lewis.jpg
+    desc:  Graduate student at the University of Hawai'i at Manoa
+    website: 
+    url: https://manoa.hawaii.edu/biology/graduate_students/claire-lewis
+    twitter: 
+    github:
+    
+  - name: Megan Phifer-Rixey
+    img: /img/people/megan-rixey.jpg
+    desc:  Asssistant Professor at Monmouth University
+    website: http://phiferrixeylab.com/
+    url: https://www.monmouth.edu/directory/profiles/megan-phifer-rixey/
+    twitter: 
+    github:
+    
+
+    
 ---
 
 ## PIs (in alphabetical order)
@@ -105,3 +162,6 @@ steering-list:
 
 {% include list-circles.html items=page.steering-list %}
     
+ ## Diversity Committee (in alphabetical order)
+ 
+ {% include list-circles.html items=page.diversity-list %}
