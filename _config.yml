@@ -37,7 +37,11 @@ navbar-links:
     - 2020 Genomics Workshop: "2020-genomics"
     - 2020 Coordinated readings: "2020_readings"
     - 2020 Junior Research Exchanges: "2020-ProfDevExchanges"
-    - 2021 Training and Integration: "2021-training"
+    - 2020 Call for new working groups: "2020workinggroupcall"
+    - 2021 Virtual lab meeting training program: "2020virtuallabcall"
+    - Working Groups: "workinggroups"
+    - 2022 Training and Integration: "2021-training"
+   
   Newsfeed: "blog"
   Contact Us: "contactus"
 
