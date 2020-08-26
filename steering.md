@@ -117,7 +117,6 @@ diversity-list:
     url: https://www.bio.fsu.edu/faculty.php?faculty-id=sburgess
     twitter: 
     github:
-    
    - Sarah Donelan
     img: /img/people/sarah-donelan.jpg
     desc: Postdoctoral fellow at the Smithsonian Environmental Research Center
@@ -125,7 +124,6 @@ diversity-list:
     url: https://serc.si.edu/staff/sarah-donelan
     twitter: 
     github:
-    
   - Torrance Hanley
     img: /img/people/torrie-hanley.jpg
     desc:  Associate Research Scientist at Northeastern's Marine Science Center.
@@ -133,7 +131,6 @@ diversity-list:
     url: https://cos.northeastern.edu/people/torrance-hanley/
     twitter: https://twitter.com/torrance_hanley?lang=en
     github:
-    
    - Claire Lewis 
     img: /img/people/claire-lewis.jpg
     desc:  Graduate student at the University of Hawai'i at Manoa
@@ -141,7 +138,6 @@ diversity-list:
     url: https://manoa.hawaii.edu/biology/graduate_students/claire-lewis
     twitter: 
     github:
-    
   - name: Megan Phifer-Rixey
     img: /img/people/megan-rixey.jpg
     desc:  Asssistant Professor at Monmouth University
@@ -149,9 +145,6 @@ diversity-list:
     url: https://www.monmouth.edu/directory/profiles/megan-phifer-rixey/
     twitter: 
     github:
-    
-
-    
 ---
 
 ## PIs (in alphabetical order)
