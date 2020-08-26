@@ -19,7 +19,7 @@ approved applicants will receive a $500 stipend.
 We hope that this program will help mentees develop a supportive network, 
 provide a pathway for mentees to future success, and broaden their knowledge in our field. Since all lab meetings 
 are virtual during COVID, this is an excellent time to take advantage of these unusual circumstances with a training program.
-This program is part of our [diversity initiative](https://rcn-ecs.github.io/Antiracism/).
+This program is part of our [antiracism response to systematic racism in society](https://rcn-ecs.github.io/Antiracism/).
 
 To view a list of mentors who have signed up for the program and their research interests, 
 [check out this table of interested mentors](https://docs.google.com/spreadsheets/d/1_yv6PttKxSFH_p8LQwFaCGhTmmP2gbeb4ZsT-OCyv7s/edit#gid=1184638278). We encourage applicants to reach out to mentors who are not on the list and 
