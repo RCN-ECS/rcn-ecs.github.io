@@ -114,6 +114,13 @@ diversity-list:
     url: https://www.bio.fsu.edu/faculty.php?faculty-id=sburgess
     twitter: 
     github:
+  - name: Sarah Donelan
+    img: /img/people/sarah-donelan.jpeg
+    desc: Postdoctoral fellow at the Smithsonian Environmental Research Center
+    website: https://sarahdonelanphd.weebly.com/
+    url: https://serc.si.edu/staff/sarah-donelan
+    twitter: 
+    github:
 ---
 
 ## PIs (in alphabetical order)
