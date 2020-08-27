@@ -6,21 +6,21 @@ title: 2020 Virtual Lab Meeting Training Program
 The Research Coordinated Network (RCN) for Evolution in Changing Seas seeks to bring together marine scientists with evolutionary biologists to further our understanding of adaptation in the ocean. The RCN is excited to announce a new Virtual Lab Meeting Training Program. Selected trainees will receive a $500 stipend for completing
 the program (see information on eligibility below). 
 
+We hope that this program will help mentees develop a supportive network, 
+provide a pathway for mentees to future success, and broaden their knowledge in our field. Since all lab meetings 
+are virtual during COVID, this is an excellent time to take advantage of these unusual circumstances with a training program.
+
 In this program, the RCN seeks to provide training to students at the undergraduate or graduate level ("mentees")
 by participating in lab meetings of a research group that shares their interests. The mentee will participate by attending
-lab meetings during the 2020-2021.
-The Principal Investigator for the research group ("mentor") will dedicate portions of two lab meetings 
+lab meetings during 2020-2021.
+A designated "mentor" from the research group will dedicate portions of two lab meetings 
 to the mentee's professional development. The format for lab meetings dedicated to the mentee's professional development is flexible, but
 could take the form of review of graduate school or grant application statements at lab meeting, 
 research presentation at lab meeting, lead paper discussion at lab meeting, etc.
 Upon completing the program (10 lab meetings with portions of 2 lab meetings dedicated to mentee's professional development) before May 2021,
-approved applicants will receive a $500 stipend.
+approved applicants will receive a $500 stipend. Mentors may be Faculty, Postdoctoral Fellows, or Research Associates - as long as lab meetings can be dedicated to the mentees professional development.
 
 If you haven't yet, please [sign up to be a member of the RCN](https://rcn-ecs.github.io/howtojoin/). It's as simple as filling out a form and signing up for our listserv!
-
-We hope that this program will help mentees develop a supportive network, 
-provide a pathway for mentees to future success, and broaden their knowledge in our field. Since all lab meetings 
-are virtual during COVID, this is an excellent time to take advantage of these unusual circumstances with a training program.
 
 To view a list of mentors who have signed up for the program and their research interests, 
 [check out this table of interested mentors](https://docs.google.com/spreadsheets/d/1_yv6PttKxSFH_p8LQwFaCGhTmmP2gbeb4ZsT-OCyv7s/edit#gid=1184638278). We encourage applicants to reach out to mentors who are not on the list and 
