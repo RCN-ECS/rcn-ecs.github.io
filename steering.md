@@ -109,7 +109,7 @@ diversity-list:
     github:
   - name: Scott Burgess 
     img: /img/people/scott-burgess.jpg
-    desc:  Assistant Professor in the department of Biological Sciences at Florida State University.
+    desc:  Associate Professor in the department of Biological Sciences at Florida State University.
     website: https://scottburgessecology.wordpress.com/
     url: https://www.bio.fsu.edu/faculty.php?faculty-id=sburgess
     twitter: 
