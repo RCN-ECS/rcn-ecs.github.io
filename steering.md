@@ -152,6 +152,6 @@ diversity-list:
 
 {% include list-circles.html items=page.steering-list %}
     
- ## Diversity Committee (in alphabetical order)
+## Diversity Committee (in alphabetical order)
  
- {% include list-circles.html items=page.diversity-list %}
+{% include list-circles.html items=page.diversity-list %}
