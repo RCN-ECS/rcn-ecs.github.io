@@ -114,21 +114,21 @@ diversity-list:
     url: https://www.bio.fsu.edu/faculty.php?faculty-id=sburgess
     twitter: 
     github:
-   - Sarah Donelan
+   - name: Sarah Donelan
     img: /img/people/sarah-donelan.jpg
     desc: Postdoctoral fellow at the Smithsonian Environmental Research Center
     website: https://sarahdonelanphd.weebly.com/
     url: https://serc.si.edu/staff/sarah-donelan
     twitter: 
     github:
-  - Torrance Hanley
+  - name: Torrance Hanley
     img: /img/people/torrie-hanley.jpeg
     desc:  Associate Research Scientist at Northeastern's Marine Science Center.
     website: 
     url: https://cos.northeastern.edu/people/torrance-hanley/
     twitter: https://twitter.com/torrance_hanley?lang=en
     github:
-   - Claire Lewis 
+   - name: Claire Lewis 
     img: /img/people/claire-lewis.jpg
     desc:  Graduate student at the University of Hawai'i at Manoa
     website: 
