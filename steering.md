@@ -122,7 +122,7 @@ diversity-list:
     twitter: 
     github:
   - name: Torrance Hanley
-    img: /img/people/torrie-hanley.jpeg
+    img: /img/people/torrie-hanley.jpg
     desc:  Associate Research Scientist at Northeastern's Marine Science Center.
     website: 
     url: https://cos.northeastern.edu/people/torrance-hanley/
