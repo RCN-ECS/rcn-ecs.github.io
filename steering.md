@@ -35,8 +35,6 @@ pi-list:
     desc: Evolutionary ecologist. Professor and Director of Northeastern University's Marine Science Center.
     website: https://web.northeastern.edu/trussell/
     url: https://cos.northeastern.edu/faculty/geoffrey-trussell/  
-
-
 steering-list:
   - name: Randall Hughes
     img: /img/people/randall-hughes.jpg
@@ -93,18 +91,17 @@ steering-list:
     website: https://umaine.edu/marine/faculty/huijie-xue/
     url: https://umaine.edu/marine/faculty/huijie-xue/
     twitter: 
-    github: http://github.com/HuijieXue
-    
+    github: http://github.com/HuijieXue  
 diversity-list:
   - name: Molly Albecker 
-    img: /img/people/molly-albecker.jpg
+    img: /img/people/molly-albecker.png
     desc:  RCN postdoc at Northeastern University's Department of Marine and Environmental Sciences.
     website: https://www.mollyalbecker.com/
     url: 
     twitter: http://twitter.com/molly_albecker
     github: 
   - name: Moises Bernal
-    img: /img/people/moises.jpg
+    img: /img/people/moises-bernal.jpg
     desc:  Assistant Professor in the department of Biological Sciences at Auburn University.
     website: https://sites.google.com/site/moisesbernalresearch/
     url: https://www.auburn.edu/cosam/faculty/biology/bernal/index.htm
@@ -125,7 +122,7 @@ diversity-list:
     twitter: 
     github:
   - Torrance Hanley
-    img: /img/people/torrie-hanley.jpg
+    img: /img/people/torrie-hanley.jpeg
     desc:  Associate Research Scientist at Northeastern's Marine Science Center.
     website: 
     url: https://cos.northeastern.edu/people/torrance-hanley/
@@ -139,7 +136,7 @@ diversity-list:
     twitter: 
     github:
   - name: Megan Phifer-Rixey
-    img: /img/people/megan-rixey.jpg
+    img: /img/people/megan-rixey.png
     desc:  Asssistant Professor at Monmouth University
     website: http://phiferrixeylab.com/
     url: https://www.monmouth.edu/directory/profiles/megan-phifer-rixey/
