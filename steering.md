@@ -121,13 +121,6 @@ diversity-list:
     url: https://serc.si.edu/staff/sarah-donelan
     twitter: 
     github:
-  - name: Torrance Hanley
-    img: /img/people/torrie-hanley.jpeg
-    desc:  Associate Research Scientist at Northeastern's Marine Science Center.
-    website: 
-    url: https://cos.northeastern.edu/people/torrance-hanley/
-    twitter: https://twitter.com/torrance_hanley?lang=en
-    github:
 ---
 
 ## PIs (in alphabetical order)
