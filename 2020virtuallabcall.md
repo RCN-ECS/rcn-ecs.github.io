@@ -12,8 +12,7 @@ A designated "mentor" from the research group will dedicate portions of two lab 
 to the mentee's professional development. The format for lab meetings dedicated to the mentee's professional development is flexible, but
 could take the form of review of graduate school or grant application statements at lab meeting, 
 research presentation at lab meeting, lead paper discussion at lab meeting, etc.
-Upon completing the program (10 lab meetings with portions of 2 lab meetings dedicated to mentee's professional development) before May 2021,
-approved applicants will receive a $500 stipend (see information on eligibility below). Mentors may be Faculty, Postdoctoral Fellows, or Research Associates - as long as lab meetings can be dedicated to the mentees professional development.
+Upon completing the program (10 lab meetings with portions of 2 lab meetings dedicated to mentee's professional development) before May 2021, a subset of pre-approved applicants will receive a $500 stipend (see information on eligibility and number of stipends available below). Mentors may be Faculty, Postdoctoral Fellows, or Research Associates - as long as lab meetings can be dedicated to the mentees professional development.
 
 We hope that this program will help mentees develop a supportive network, 
 provide a pathway for mentees to future success, and broaden their knowledge in our field. Since all lab meetings 
