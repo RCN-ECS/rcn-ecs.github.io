@@ -57,7 +57,7 @@ To view a list of mentors who have signed up for the program and their research 
 
 If you have trouble submitting the application with the google form, email evolvingseas@gmail.com
 
-Applications are due Sept. 31, 2020. Lab meetings will take place between October 2020 and May 2021.
+Applications are due Sept. 30, 2020. Lab meetings will take place between October 2020 and May 2021.
 
 In the application, mentees will choose their top 3-4 choices for a mentor. The RCN will match applicants with mentors.
 
