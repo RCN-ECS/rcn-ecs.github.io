@@ -4,10 +4,11 @@ title: 2020-2021 Call for new working groups
 ---
 
 The RCN is soliciting applications from *graduate students and postdocs* for a second phase of working groups. 
-Up to $10,000 in stipends can be requested for each working group to support the graduate student or postdoc activities on the working groups.
+Up to $10,000 in stipends can be requested for each working group to support activities conducted by undergraduate students, graduate students, or postdocs.
 Working group activities and products can take many different forms, so please read the entire announcement to learn more. Please note, however, that the RCN 
 cannot fund collection of new data. 
 
+If you are interested in being part of a working group as a member or mentor, but don't plan to submit a proposal, [please fill out this form](). Working group applicants may want to use this resource to find members for their working group.
 
 ### Topics
 The proposal should describe how a working group on this topic will advance knowledge in both marine science and evolutionary biology. 
@@ -25,16 +26,16 @@ for more information):
 In addition, here is [a summmary of current working groups funded by the RCN]()
 
 For information on what topics RCN members think are important for advancing both marine and evolutionary biology, 
-[check out results from this 2019 poll](https://github.com/RCN-ECS/CnGV/blob/master/notebook/20191205_MA_PollResults.md). Note
+[check out results from this 2019 poll](https://github.com/RCN-ECS/CnGV/blob/master/notebook/20191205_MA_PollResults.md). Note that this is only a poll, and some topics may be more important than people think they are.
 
 ### Products and milestones 
-The proposal should include clear milestones for products that will result over a 9 month period. Examples of products may be (but are not limited to) a draft of a publication, development of a database or metaanalysis of published data, development of educational materials or best practices, free online trainings or workshops, or a rolling series of regular events (talks, presentations, reading groups, etc.). 
+The proposal should include clear milestones for products that will result over a 9 month period. Examples of products may be (but are not limited to) a draft of a publication, development of a database or metaanalysis of published data, development of educational materials or best practices, free online trainings or workshops, or a rolling series of regular events (talks, presentations, etc.). 
 
 ### Proposed team
 
 The individual or team of graduate students and/or postdocs will serve as leaders of the working group, along with a mentor or mentors of their choosing. Working groups should have between 6 and 10 people. Priority will be given to working groups that manage to form new collaborations (i.e., individuals who have not previously worked together), as an important goal of the RCN is to foster new collaborations. Applications require a letter of commitment from each mentor that explains how they will provide intellectual guidance over the proposed timeline. Applications also require a letter of commitment from each working group member that explains their expertise and how they will contribute to the working group. The RCN understands that group membership may change through time.
 
-* For a list of people who are interested in being part of working groups, SEE HERE
+* For a list of people who are interested in being part of working groups, [see this sheet]()
 * We strongly recommend an inclusive approach to forming working groups, and priority will be given to groups composed of a diverse membership. For assistance with soliciting broader participation in your working group, including from HBCUs and other diversity initiatives, contact evolvingseas@gmail.com.
 * Stipends can only be paid to US citizens, however the participation of international scholars is still encouraged. 
 * _Limitations on stipends_: Stipends can only be paid to US citizens and will be paid directly to the recipients. Stipends can be used to pay for time devoted to working group activities for postdoc, graduate student, or undergraduate working group members, pay for online workshop/conference fees, or reimburse domestic travel (note that if travel is requested, a strong rationale should be provided that travel can be completed during the pandemic). 
@@ -43,7 +44,7 @@ The individual or team of graduate students and/or postdocs will serve as leader
 
 ### Application
 
-The application form is [here]().
+[The application form is here]().
 
 Please prepare and upload a single PDF entitled “Working Group Name.pdf” with 1-inch margins, 10-point font, and the following components:
 
