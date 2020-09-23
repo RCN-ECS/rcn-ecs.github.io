@@ -76,6 +76,9 @@ Please prepare and upload a single PDF entitled “Working Group Name.pdf” wit
 
 
 ### Additional Information
+
+If you need an extension to the deadline because of the pandemic, please contact evolvingseas@gmail.com to discuss the matter.
+
 _Rationale on format_: The Diversity Committee discussed that if we want to increase the participation of young URMs, then we should 
 ask for proposals for working groups from graduate students and postdocs (with a proposed mentor). We were worried that if we opened applications
 to the entire field, young people might feel intimidated, and senior people may fail to put in the effort to find someone new in their network. 
