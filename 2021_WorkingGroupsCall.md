@@ -8,7 +8,9 @@ Up to $10,000 in stipends can be requested for each working group to support act
 Working group activities and products can take many different forms, so please read the entire announcement to learn more. Please note, however, that the RCN 
 cannot fund collection of new data. 
 
-If you are interested in being part of a working group as a member or mentor, but don't plan to submit a proposal, [please fill out this form](). Working group applicants may want to use this resource to find members for their working group.
+If you are interested in being part of a working group as a member or mentor, but don't plan to submit a proposal, [please fill out this form](https://docs.google.com/forms/d/1AyKbQgVJAbqkaYBHGT61PO-VEbi7fKJ8pk7kDfgAQVQ/edit#responses). Working group applicants may want to use this resource to find members for their working group. 
+
+If you are not a member of the RCN, you are more than welcome to join! Please follow these instructions to sign up: https://rcn-ecs.github.io/howtojoin/.
 
 ### Topics
 The proposal should describe how a working group on this topic will advance knowledge in both marine science and evolutionary biology. 
@@ -23,7 +25,7 @@ for more information):
 * Filtering, standards, and best practices
 * Connecting genotype to phenotype with transgenics 
 
-In addition, here is [a summmary of current working groups funded by the RCN]()
+In addition, here is [a summmary of current working groups funded by the RCN](https://rcn-ecs.github.io/WorkingGroups/)
 
 For information on what topics RCN members think are important for advancing both marine and evolutionary biology, 
 [check out results from this 2019 poll](https://github.com/RCN-ECS/CnGV/blob/master/notebook/20191205_MA_PollResults.md). Note that this is only a poll, and some topics may be more important than people think they are.
@@ -35,7 +37,7 @@ The proposal should include clear milestones for products that will result over 
 
 The individual or team of graduate students and/or postdocs will serve as leaders of the working group, along with a mentor or mentors of their choosing. Working groups should have between 6 and 10 people. Priority will be given to working groups that manage to form new collaborations (i.e., individuals who have not previously worked together), as an important goal of the RCN is to foster new collaborations. Applications require a letter of commitment from each mentor that explains how they will provide intellectual guidance over the proposed timeline. Applications also require a letter of commitment from each working group member that explains their expertise and how they will contribute to the working group. The RCN understands that group membership may change through time.
 
-* For a list of people who are interested in being part of working groups, [see this sheet]()
+* For a list of people who are interested in being part of working groups, [see this sheet](https://docs.google.com/spreadsheets/d/10bqnj1VXwHSE00geCn2_jatEOX5i3tUTN4ljO6Sc-Lg/edit#gid=1853700016)
 * We strongly recommend an inclusive approach to forming working groups, and priority will be given to groups composed of a diverse membership. For assistance with soliciting broader participation in your working group, including from HBCUs and other diversity initiatives, contact evolvingseas@gmail.com.
 * Stipends can only be paid to US citizens, however the participation of international scholars is still encouraged. 
 * _Limitations on stipends_: Stipends can only be paid to US citizens and will be paid directly to the recipients. Stipends can be used to pay for time devoted to working group activities for postdoc, graduate student, or undergraduate working group members, pay for online workshop/conference fees, or reimburse domestic travel (note that if travel is requested, a strong rationale should be provided that travel can be completed during the pandemic). 
@@ -72,6 +74,6 @@ Please prepare and upload a single PDF entitled “Working Group Name.pdf” wit
 
 ### Additional Information
 _Rationale on format_: The Diversity Committee discussed that if we want to increase the participation of young URMs, then we should 
-ask for proposals for working groups from graduate students and postdocs (with a proposed mentor). If we leave it open (anyone can apply), 
-then we were worried that young people might feel intimidated, and senior people may fail to put in the effort to find someone new in their network. 
+ask for proposals for working groups from graduate students and postdocs (with a proposed mentor). We were worried that if we opened applications
+to the entire field, young people might feel intimidated, and senior people may fail to put in the effort to find someone new in their network. 
 We also wanted to avoid the situation where the mentee fell into a trap of “working” to complete the PI’s research or analyze the PI’s data. 
