@@ -12,6 +12,9 @@ If you are interested in being part of a working group as a member or mentor, bu
 
 If you are not a member of the RCN, you are more than welcome to join! [Please follow these instructions to sign up](https://rcn-ecs.github.io/howtojoin/).
 
+### Deadline
+The deadline for proposals is Dec 1. Working group activities are expected to start in January 2021, with a report due in Sept 2021.
+
 ### Topics
 The proposal should describe how a working group on this topic will advance knowledge in both marine science and evolutionary biology. 
 Although we invite applications for working groups from a wide variety of topics, priority will be given to those projects associated with genomics. 
