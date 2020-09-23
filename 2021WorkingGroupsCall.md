@@ -8,9 +8,9 @@ Up to $10,000 in stipends can be requested for each working group to support act
 Working group activities and products can take many different forms, so please read the entire announcement to learn more. Please note, however, that the RCN 
 cannot fund collection of new data. 
 
-If you are interested in being part of a working group as a member or mentor, but don't plan to submit a proposal, [please fill out this form](https://docs.google.com/forms/d/1AyKbQgVJAbqkaYBHGT61PO-VEbi7fKJ8pk7kDfgAQVQ/edit#responses). Working group applicants may want to use this resource to find members for their working group. 
+If you are interested in being part of a working group as a member or mentor, but don't plan to submit a proposal, [please fill out this form](https://docs.google.com/forms/d/1AyKbQgVJAbqkaYBHGT61PO-VEbi7fKJ8pk7kDfgAQVQ/). Working group applicants may want to use this resource to find members for their working group. 
 
-If you are not a member of the RCN, you are more than welcome to join! Please follow these instructions to sign up: https://rcn-ecs.github.io/howtojoin/.
+If you are not a member of the RCN, you are more than welcome to join! [Please follow these instructions to sign up](https://rcn-ecs.github.io/howtojoin/).
 
 ### Topics
 The proposal should describe how a working group on this topic will advance knowledge in both marine science and evolutionary biology. 
@@ -46,7 +46,7 @@ The individual or team of graduate students and/or postdocs will serve as leader
 
 ### Application
 
-[The application form is here]().
+[The application form is here](https://docs.google.com/forms/d/1cdYA7HmtAO4YUmyxhaqMCyl87eVkftn5nzlf3lFW8R4/).
 
 Please prepare and upload a single PDF entitled “Working Group Name.pdf” with 1-inch margins, 10-point font, and the following components:
 
