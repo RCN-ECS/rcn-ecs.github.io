@@ -8,7 +8,7 @@ Up to $10,000 in stipends can be requested for each working group to support act
 Working group activities and products can take many different forms, so please read the entire announcement to learn more. Please note, however, that the RCN 
 cannot fund collection of new data. 
 
-If you are interested in being part of a working group as a member or mentor, but don't plan to submit a proposal, [please fill out this form](https://docs.google.com/forms/d/1AyKbQgVJAbqkaYBHGT61PO-VEbi7fKJ8pk7kDfgAQVQ/). Working group applicants may want to use this resource to find members for their working group. 
+If you are interested in being part of a working group, but don't plan to submit a proposal, [please fill out this form](https://docs.google.com/forms/d/1AyKbQgVJAbqkaYBHGT61PO-VEbi7fKJ8pk7kDfgAQVQ/). Working group applicants may want to use this resource to find members for their working group. 
 
 If you are not a member of the RCN, you are more than welcome to join! [Please follow these instructions to sign up](https://rcn-ecs.github.io/howtojoin/).
 
@@ -28,7 +28,7 @@ for more information):
 * Filtering, standards, and best practices
 * Connecting genotype to phenotype with transgenics 
 
-In addition, here is [a summmary of current working groups funded by the RCN](https://rcn-ecs.github.io/WorkingGroups/)
+In addition, here is [a summary of current working groups funded by the RCN](https://rcn-ecs.github.io/WorkingGroups/)
 
 For information on what topics RCN members think are important for advancing both marine and evolutionary biology, 
 [check out results from this 2019 poll](https://github.com/RCN-ECS/CnGV/blob/master/notebook/20191205_MA_PollResults.md). Note that this is only a poll, and some topics may be more important than people think they are.
