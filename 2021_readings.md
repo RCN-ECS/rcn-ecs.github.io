@@ -21,8 +21,6 @@ Each week will have two threads:
 ## Marine Conservation and Genomic Applications
 Our third set of coordinated readings focuses on marine conservation and genomic applications. We live in an exciting scientific era in which it has become feasible and affordable to analyze populations at their whole genome level, even in non-model species. Conservation genomics can apply these genetic tools, methods, and concepts to the conservation and restoration of biodiversity. But with so much possibility, we are often restricted by limited time and resources. So what are the ways in which evolutionary concepts and genomic tools can best inform ocean conservation and management? 
 
-We are grateful to this year's planning committee ([Dr. Laetitia Wilkins](https://laetitia.schmid.se/), [Dr. Lisa Komoroske](https://lmkomoroske.com/), and [Dr. Molly Albecker](mollyalbecker.com)) as well as the broader RCN community for their efforts in generating  topics, discussion questions, and scientific papers.
-
 ### Discussion Questions: 
 In the service of that broad question, these three questions can be used as guideposts for each week’s discussions. 
 **1. What genetic factors may lead to extinction?**
@@ -31,9 +29,11 @@ In the service of that broad question, these three questions can be used as guid
 
 As always, a central goal of the RCN-ECS is to synthesize and integrate ideas about evolution in changing seas. Therefor the final week is for groups to gather together, synthesize previous discussions, and provide answers to the three questions. We encourage groups to generate bold and testable predictions and to distance themselves from simply summarizing past discussions.
 
-##### The date posted for each week below is the date we expect the discussion to be completed and summaries posted to the Slack channel.
+We are grateful to this year's planning committee ([Dr. Laetitia Wilkins](https://laetitia.schmid.se/), [Dr. Lisa Komoroske](https://lmkomoroske.com/), and [Dr. Molly Albecker](mollyalbecker.com)) as well as the broader RCN community for their efforts in generating  topics, discussion questions, and scientific papers.
+
 
 ## Week 1 (Deadline for discussion January 29, 2021)
+##### The date posted for each week below is the date we expect the discussion to be completed and summaries posted to the Slack channel.
 
 ### Topic - Introduction to Evolutionary Applications & Conservation Genomics
 
@@ -185,13 +185,12 @@ Authors: Lisa E. A. Mertens, Eric A. Treml, and Sophie von der Heyden
 
 Authors: E.A. Benevides, M.N.S. Vallinoto, A.F.H. Fetter Filho, J.R.B. de Souza, G. Silva-Oliveira, M.O. Freitas, B.P. Ferreira, M. Hostim-Silva, A.A. Bertoncini, F. Blanchard, and R.A.Torres
 
-In addition, groups may consider where do we go from here? Where is consensus? What areas are ripe for research? 
 
 ## Week 7 (April 23, 2021) 
 
 ### Topic: Synthesis
 
-**Rationale:** How do we best translate genomic science into management action? 
+**Rationale:** How do we best translate genomic science into management action? In addition, groups may consider where do we go from here? Where is consensus? What areas need more research? 
 
 [Genomics and the challenging translation into conservation practice](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(14)00251-1)
 
@@ -233,6 +232,7 @@ Diversity Information* for all authors
 
 
 * Information garnered by web searching each author by name and institution. No identifying information was assumed using names alone. The “†” symbol indicates cases where author information was unclear or unavailable.
+
 ** BIPOC stands for Black, Indigenous, and Persons Of Color.
 
 
