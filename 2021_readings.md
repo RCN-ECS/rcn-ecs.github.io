@@ -228,7 +228,9 @@ Diversity Information* for all authors
 |Shafer et al. 2015|X|X|X|n/a|Perspective|
 |Garner et al. 2015|X||X|n/a|Perspective|
 |Sandstrom et al. 2018|X||X|Marine|Review|
-*Information garnered by web searching each author by name and institution. No identifying information was assumed using names alone. The “†” symbol indicates cases where author information was unavailable.
+
+
+* Information garnered by web searching each author by name and institution. No identifying information was assumed using names alone. The “†” symbol indicates cases where author information was unclear or unavailable.
 ** BIPOC stands for Black, Indigenous, and Persons Of Color.
 
 
