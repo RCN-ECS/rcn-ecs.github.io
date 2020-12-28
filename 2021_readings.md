@@ -23,9 +23,12 @@ Our third set of coordinated readings focuses on marine conservation and genomic
 
 ### Discussion Questions: 
 In the service of that broad question, these three questions can be used as guideposts for each week’s discussions. 
-**1. What genetic factors may lead to extinction?**
-**2. What genetic factors may lead to population stability/growth?** 
-**3. Where are we (researchers, practitioners, etc.) on data collection, interpretation, and policy implementation for each week's topic?** 
+* **1. What genetic factors may lead to extinction?**
+
+* **2. What genetic factors may lead to population stability/growth?** 
+
+* **3. Where are we (researchers, practitioners, etc.) on data collection, interpretation, and policy implementation for each week's topic?** 
+
 
 As always, a central goal of the RCN-ECS is to synthesize and integrate ideas about evolution in changing seas. Therefor the final week is for groups to gather together, synthesize previous discussions, and provide answers to the three questions. We encourage groups to generate bold and testable predictions and to distance themselves from simply summarizing past discussions.
 
