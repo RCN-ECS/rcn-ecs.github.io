@@ -21,7 +21,7 @@ Each week will have two threads:
 ## Marine Conservation and Genomic Applications
 Our third set of coordinated readings focuses on marine conservation and genomic applications. We live in an exciting scientific era in which it has become feasible and affordable to analyze populations at their whole genome level, even in non-model species. Conservation genomics can apply these genetic tools, methods, and concepts to the conservation and restoration of biodiversity. But with so much possibility, we are often restricted by limited time and resources. So what are the ways in which evolutionary concepts and genomic tools can best inform ocean conservation and management? 
 
-We are grateful to [Dr. Laetitia Wilkins](https://www.molecularecologist.com/author/laetitiawilkins/), [Dr. Lisa Komoroske](https://lmkomoroske.com/), and [Dr. Molly Albecker](mollyalbecker.com) and the broader RCN community for their efforts in generating topic ideas, papers, and discussion questions.
+We are grateful to this year's planning committee ([Dr. Laetitia Wilkins](https://laetitia.schmid.se/), [Dr. Lisa Komoroske](https://lmkomoroske.com/), and [Dr. Molly Albecker](mollyalbecker.com)) as well as the broader RCN community for their efforts in generating  topics, discussion questions, and scientific papers.
 
 ### Discussion Questions: 
 In the service of that broad question, these three questions can be used as guideposts for each week’s discussions. 
