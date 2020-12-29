@@ -207,35 +207,7 @@ Authors: Brittany A. Garner, Brian K. Hand, Stephen J. Amish, Louis Bernatchezm,
 
 Authors: Annica Sandstrom, Carina Lundmark, Klas Andersson, Kerstin Johannesson, and Linda Laikre
 
-## Diversity Summary ##
-Diversity Information* for all authors
-| Paper | Female Author(s) | BIPOC** Author(s) | Non-US Author(s) | Biome | Paper Type |
-|---|---|---|---|---|---|
-|Gaitan-Espitia and Hobday 2020||X|X|n/a|Review|
-|Broderson and Seehousen 2014|||X|n/a|Review|
-|Allendorf et al. 2010|||X|n/a|Review|
-|Plaisance et al. 2011|X |X|X|Marine|Empirical|
-|Laikre 2010|X||X|n/a|Review|
-|Robinson et al. 2016|X|X|X|Terrestrial|Empirical|
-|Fitzpatrick et al. 2020|X||X|Freshwater|Empirical|
-|Bernal et al. 2020|X|X|X|Marine|Empirical|
-|Van Oppen et al. 2015|X||X|Marine|Review|
-|Hamilton and Miller 2015|X|||n/a|Review|
-|Archer et al. 2013|X|X|X|Marine|Empirical|
-|Xuereb et al. 2020|X|†|X|Marine|Empirical/Review|
-|Waples and Lindley 2018||||Marine/Freshwater|Review|
-|Clucas et al. 2018|X||X|Marine|Empirical|
-|Allendorf et al. 2001||||n/a|Perspective|
-|Marques et al. 2019|X||X|n/a|Review|
-|Mertens et al. 2018|X||X|Marine|Review|
-|Benevides et al.2014|†|X|X|Marine|Empirical|
-|Shafer et al. 2015|X|X|X|n/a|Perspective|
-|Garner et al. 2015|X||X|n/a|Perspective|
-|Sandstrom et al. 2018|X||X|Marine|Review|
-
-
-* Information garnered by web searching each author by name and institution. No identifying information was assumed using names alone. The “†” symbol indicates cases where author information was unclear or unavailable.
-
-** BIPOC stands for Black, Indigenous, and Persons Of Color.
+## Diversity Statement for Coordinated Readings: 
+As stated in the RCN-ECS’s [diversity](https://rcn-ecs.github.io/DEI/) and [anti-racism](https://rcn-ecs.github.io/Antiracism/) statements, we value diverse perspectives and are committed to amplifying the research authored by historically under-represented groups including women, LGBTQ+ persons, non-binary persons, and Black, Indigenous, and Persons of Color (BIPOC). In keeping with this goal, we emphasized this aim in our solicitation for topic and paper nominations from the larger RCN community, purposefully requesting nominations from diverse scientists. Our organizing committee took additional steps to choose an inclusive set of papers that highlight the work of diverse scientists in these key topic areas (for example, searching for additional candidates on https://diversifyeeb.com/ and https://blackinmarsci.github.io/). Collectively, 18 out of the 21 papers included authors from non-US institutions, at least 14 papers had female-identifying authors, and at least 7 of the 21 papers included BIPOC authors. Despite these efforts, we recognize that there are limitations to our approach, and that the fields of marine science and evolutionary biology have important work to do to build an inclusive and equitable culture. For inquiries about this process or suggestions to further advance these goals in future coordinated readings please contact [Molly Albecker](m.albecker@northeastern.edu).
 
 
