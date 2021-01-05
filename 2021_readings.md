@@ -34,9 +34,9 @@ As always, a central goal of the RCN-ECS is to synthesize and integrate ideas ab
 
 We are grateful to this year's planning committee ([Dr. Laetitia Wilkins](https://laetitia.schmid.se/), [Dr. Lisa Komoroske](https://lmkomoroske.com/), and [Dr. Molly Albecker](mollyalbecker.com)) as well as the broader RCN community for their efforts in generating  topics, discussion questions, and scientific papers.
 
+**We recognize that ongoing efforts to minimize transmission of Covid-19 may lead to disruptions or delays in discussions. Please note that while we post "due dates" for discussion summaries to be posted to the Slack channel, these can be viewed as guidelines for spacing out discussions and are not hard cutoffs.**
 
 ## Week 1 (Deadline for discussion January 29, 2021)
-##### The date posted for each week below is the date we expect the discussion to be completed and summaries posted to the Slack channel.
 
 ### Topic - Introduction to Evolutionary Applications & Conservation Genomics
 
