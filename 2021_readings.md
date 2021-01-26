@@ -6,7 +6,7 @@ subtitle: To help inform and educate evolutionary and marine scientists about ma
 
 To facilitate discussions among members of the RCN, we have set up Slack channel at [evolvingseas.slack.com](https://evolvingseas.slack.com).
 
-[This link to join the channel is good from Jan 26 to Feb 26 2021](https://join.slack.com/t/lotterhoslab/shared_invite/zt-lkj0ck01-85bCitoC3bVVVY5k6RTFcw)
+[This link to join the channel is good from Jan 26 to Feb 26 2021](https://join.slack.com/t/evolvingseas/shared_invite/zt-6qomho5f-TR75xoF25rgqKzqf5OxbUg)
 
 To join the channel please [visit this site](https://evolvingseas.slack.com).  We encourage you to discuss the papers with other participants prior to joining the larger discussion on slack. For each topic, your group should choose one person to post a summary to the Slack channel that summarizes the group’s reaction to the papers and discussion questions. We have made efforts to improve representation and diversity in our selected readings. Please scroll to the bottom of this page for a diversity summary. Please contact [Molly Albecker](m.albecker@northeastern.edu) if you encounter problems with slack or accessing any of the readings.
 
