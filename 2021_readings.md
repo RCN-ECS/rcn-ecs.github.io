@@ -4,7 +4,11 @@ title: 2021 Coordinated readings
 subtitle: To help inform and educate evolutionary and marine scientists about marine biodiversity conservation, we have developed a recommended reading list of papers about marine conservation and genomic applications.
 ---
 
-To facilitate discussions among members of the RCN, we have set up Slack channel at [evolvingseas.slack.com](https://evolvingseas.slack.com). To join the channel please [visit this site](https://evolvingseas.slack.com).  We encourage you to discuss the papers with other participants prior to joining the larger discussion on slack. For each topic, your group should choose one person to post a summary to the Slack channel that summarizes the group’s reaction to the papers and discussion questions. We have made efforts to improve representation and diversity in our selected readings. Please scroll to the bottom of this page for a diversity summary. Please contact [Molly Albecker](m.albecker@northeastern.edu) if you encounter problems with slack or accessing any of the readings.
+To facilitate discussions among members of the RCN, we have set up Slack channel at [evolvingseas.slack.com](https://evolvingseas.slack.com).
+
+[This link to join the channel is good from Jan 26 to Feb 26 2021](https://join.slack.com/t/lotterhoslab/shared_invite/zt-lkj0ck01-85bCitoC3bVVVY5k6RTFcw)
+
+To join the channel please [visit this site](https://evolvingseas.slack.com).  We encourage you to discuss the papers with other participants prior to joining the larger discussion on slack. For each topic, your group should choose one person to post a summary to the Slack channel that summarizes the group’s reaction to the papers and discussion questions. We have made efforts to improve representation and diversity in our selected readings. Please scroll to the bottom of this page for a diversity summary. Please contact [Molly Albecker](m.albecker@northeastern.edu) if you encounter problems with slack or accessing any of the readings.
 
 To form a discussion group: 1) Start a group at your home institution and meet once or twice during each two-week period (any time during the two weeks is fine) to read and discuss the papers, 2) Discuss papers virtually before joining the larger discussion via the #Virtual_Discussion group on the RCN slack. 
 
