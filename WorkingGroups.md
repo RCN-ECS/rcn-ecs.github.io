@@ -45,4 +45,12 @@ Gideon Bradburd, Reid Brennan, Joanna Kelley, Misha Matz, Jamie Pringle, Cynthia
 
 **Goals:** The goal of the working group is to quantify patterns of genetic diversity and divergence in marine organisms and understand the biotic and abiotic processes that drive them.  To accomplish this goal, we are taking a data synthesis approach, aggregating publicly available, georeferenced, next-generation sequence datasets for marine species, as well as biotic trait data for those species and oceanographic data for the areas in which they were sampled.  Taken together, these data will allow us to integrate across scales both temporally (micro- to macroevolution) – and spatially (local to global) to test hypotheses about what biotic and abiotic factors predict genomic diversity and divergence in marine ecosystems.
 
+### Temporal Genomics
+
+René Clark, Brendan Reid, Anthony Snead, Katrina Catalano, Kyra Fitz, Eric Garcia, Kyle Jaynes, Allyson Salazar Sawkins, John Whalen, and Malin Pinsky
+
+**Goals:** The goal of this working group is to write a comprehensive literature review synthesizing the effects of methodology on our ability to detect recent evolutionary changes across taxa and habitats. Our aim is to not only provide a comprehensive evaluation of past temporal genomics work but to also create a decision framework to help guide the design of future studies in hopes of accelerating the use of temporal genomics in understanding evolutionary responses to change across systems, taxa and time. We will pair this literature review with a series of presentations from researchers currently engaged in temporal genomics projects with the hope of providing scientists at all career stages an opportunity to discuss their research, network, and spark exciting new collaborations.
+
+### 
+
 
