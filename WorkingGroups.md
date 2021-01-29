@@ -51,6 +51,30 @@ René Clark, Brendan Reid, Anthony Snead, Katrina Catalano, Kyra Fitz, Eric Garc
 
 **Goals:** The goal of this working group is to write a comprehensive literature review synthesizing the effects of methodology on our ability to detect recent evolutionary changes across taxa and habitats. Our aim is to not only provide a comprehensive evaluation of past temporal genomics work but to also create a decision framework to help guide the design of future studies in hopes of accelerating the use of temporal genomics in understanding evolutionary responses to change across systems, taxa and time. We will pair this literature review with a series of presentations from researchers currently engaged in temporal genomics projects with the hope of providing scientists at all career stages an opportunity to discuss their research, network, and spark exciting new collaborations.
 
-### 
+### Do spatial and genomic estimates of connectivity agree?
 
+Alli Cramer, Jennifer Hoey, Eric Palkovacs, Carlos Garza, Cynthia Valadon, Remy Gatins, and Jason Toy
+
+**Goals:** Dispersal is an important process both on intra- and inter-generational timescales, but understanding how individual movement translates into genetic population structure and connectivity remains an active area of research. The goal of the working group is to bring researchers in the fields of population genomics and spatial ecology together to understand  how individual dispersal patterns are reflected in genomic population structure. We will pair genomic population structure data with detailed physical tagging data for a few species representing a diversity of movement ecologies. Using the SLiM framework, we will develop simulations that approximate species’ movement ecologies based on the physical tagging and genetic data in order to understand the predicted genomic population structure resulting from each dispersal scenario. We will then compare observed population structure with simulation results, and iteratively vary movement attributes to see how they impact agreement between simulations and measured data. To bridge the gap between population connectivity estimates from the perspectives of population genomics and spatial ecology we must reconcile different definitions of connectivity and the influence of different data types on common connectivity estimations. Identifying a common framework for unifying these branches of population research will allow for increased syntheses of disparate data types and ultimately an increased understanding of population dynamics and the distribution of genetic diversity across the sea.
+
+### MarineOmics
+
+Katherine Silliman, Sam Bogan, Hanny Rivera, Joe McGirr, Megan Guidry, Natalie Ameral, Sara Schaal, Alan Downey-Wall, Dani Davenport, Sara Wuitchik, Andrew Whitehead, Jon Puritz, and three undergraduates (selected through an ongoing application process)
+
+**Goals:** Population genomic and functional genomic methods are driving advancements in our understanding of population dynamics, physiology, and the evolution of marine populations and species. As next generation sequencing applications and bioinformatic analyses progress, it
+is essential to evaluate, update, and guide their use in a manner that realizes the unique contexts and obstacles within the systems these tools are applied. The goal of the MarineOmics working group is to formulate sets of recommended practices for reproducible
+and robust genomic research in marine science. These guidelines will be disseminated through an easily accessed, dynamic website resource. The working group will also conduct and publish a qualitative review of reproducibility, standardization, and accessibility
+of data/code in genomic studies of environmental adaptation in marine populations. Funds from the RCN-ECS will support three undergraduate research interns, with the goal of broadening participation in the fields of marine science and molecular ecology among early career researchers.
+
+### Seascape Genomics of North Pacific Forage Fishes
+
+Savannah LaBua, Laura Timm, Anna Rix, Nicholas Tucker, Jessica Glass, Andres Lopez, Kevin Boswell.
+
+**Goals:** We aim to connect the worlds of fisheries research and evolutionary genomics by applying and broadly testing evolutionary concepts in the context of vast datasets and large patterns of species composition and abundances that have been carefully tracked and examined in fisheries science. We aim to produce interdisciplinary assessments between genomics, physical oceanography, bioinformatics, ecology, and fisheries management to address large-scale ecosystem and population dynamics as climate conditions continue to change.
+
+### Bioinformatics workshop as a gateway to kelp and urchin genomics
+
+Serena Caplins, Maddie Armstrong. Rachael Bay, Vanessa Guerra, Michael Dawson, Patrick Krug, and Joshua Melendez ++ a cohort of undergraduates who will be recruited from the workshop
+
+**Goals:** Modern evolutionary genetics relies on the manipulation of increasingly large datasets necessitating training in computer programming. The utility of this training is not always clear to marine science majors and opportunities for training in computer science are often inequitable. Our working group will train undergraduates to do bioinformatics over a 10-week long workshop, which will showcase clear and exciting application of bioinformatic tools to the most compelling questions in marine evolutionary biology. We will recruit several students from the workshop to apply their training in a novel population genetic analysis of two iconic species from the California coast, purple urchin and giant kelp. We will make course notes that are easy to understand and implement from the workshop available to the RCN community and the broader scientific community. 
 
