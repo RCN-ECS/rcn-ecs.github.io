@@ -3,6 +3,7 @@ layout: page
 title: Evolving Seas RCN Working Groups
 ---
 
+## Working groups formed in the 2019 Synthesis Workshop
 
 ### Selection Across the Life Cycle: Genome-informed approaches and insights for characterizing targets of selection across complex life cycles in eukaryotes
 
@@ -44,6 +45,8 @@ Dan Bolnick, Wes Dowd, Atsushi Fujimura, Cameron Ghalambor, Torrance Hanley*, Ra
 Gideon Bradburd, Reid Brennan, Joanna Kelley, Misha Matz, Jamie Pringle, Cynthia Riginos, Rachel Toczydlowski, John Wares 	
 
 **Goals:** The goal of the working group is to quantify patterns of genetic diversity and divergence in marine organisms and understand the biotic and abiotic processes that drive them.  To accomplish this goal, we are taking a data synthesis approach, aggregating publicly available, georeferenced, next-generation sequence datasets for marine species, as well as biotic trait data for those species and oceanographic data for the areas in which they were sampled.  Taken together, these data will allow us to integrate across scales both temporally (micro- to macroevolution) – and spatially (local to global) to test hypotheses about what biotic and abiotic factors predict genomic diversity and divergence in marine ecosystems.
+
+## Working groups formed in 2021
 
 ### Temporal Genomics
 
