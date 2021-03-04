@@ -64,6 +64,10 @@ Alli Cramer, Jennifer Hoey, Eric Palkovacs, Carlos Garza, Cynthia Valadon, Remy 
 
 Katherine Silliman, Sam Bogan, Hanny Rivera, Joe McGirr, Megan Guidry, Natalie Ameral, Sara Schaal, Alan Downey-Wall, Dani Davenport, Sara Wuitchik, Andrew Whitehead, Jon Puritz, and three undergraduates (selected through an ongoing application process)
 
+Undergraduates: Jessica (Jecy) Klinkam (College of William and Mary)
+Christine (Chris) Mantegna (University of Washington)
+Kaitlin Macaranas (California State University-Bakersfield)
+
 **Goals:** Population genomic and functional genomic methods are driving advancements in our understanding of population dynamics, physiology, and the evolution of marine populations and species. As next generation sequencing applications and bioinformatic analyses progress, it
 is essential to evaluate, update, and guide their use in a manner that realizes the unique contexts and obstacles within the systems these tools are applied. The goal of the MarineOmics working group is to formulate sets of recommended practices for reproducible
 and robust genomic research in marine science. These guidelines will be disseminated through an easily accessed, dynamic website resource. The working group will also conduct and publish a qualitative review of reproducibility, standardization, and accessibility
