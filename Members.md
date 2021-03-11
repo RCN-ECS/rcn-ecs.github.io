@@ -50,7 +50,7 @@ title: Members
 |[Chiara  Benvenuto.](https://sites.google.com/view/benvenutoresearchgroup/home) , University of Salford. [<img src = '/img/twitter-squared.png' >](https://twitter.com/cbenvenuto73)|
 |Cory  Berger. Biological Oceanography, Woods Hole Oceanographic Institution. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/caberger1)|
 |Halle M Berger. Marine Sciences, University of Connecticut Avery Point. |
-|[Moises  A  .](https://sites.google.com/site/moisesbernalresearch/) Biological Sciences , University of Buffalo . [<img src = '/img/twitter-squared.png' >](https://twitter.com/evo_fish)|
+|[Moises  A  Bernal.](https://sites.google.com/site/moisesbernalresearch/) Biological Sciences , University of Buffalo . [<img src = '/img/twitter-squared.png' >](https://twitter.com/evo_fish)|
 |Giacomo  Bernardi. Ecology and Evolutionary Biology, University of California Santa Cruz. |
 |[Louis  Bernatchez.](http://www2.bio.ulaval.ca/louisbernatchez/presentation.htm) Biology, Université Laval. [<img src = '/img/twitter-squared.png' >](https://twitter.com/LouBernatchez)|
 |[Rebecca J Best.](http://www.nau.edu/bestlab) School of Earth & Sustainability, Northern Arizona University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/rjbest)[<img src = '/img/twitter-squared.png' >](https://twitter.com/rjabest)|
@@ -61,7 +61,6 @@ title: Members
 |Aysegul  Birand. , NA. [<img src = '/img/twitter-squared.png' >](https://twitter.com/abirand)|
 |Ian  Bishop. Graduate School of Oceanography, University of Rhode Island. |
 |Thais  Bittar. , Northeastern University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/thais-neu)[<img src = '/img/twitter-squared.png' >](https://twitter.com/thais_neu)|
-|Thais  Bittar. Marine and Environmental Science, Northeastern University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/thais-neu)[<img src = '/img/twitter-squared.png' >](https://twitter.com/thais_bittar)|
 |[Mark C. Bitter.](http://markcbitter.weebly.com/) Ecology and Evolution, University of Chicago. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/MarkCBitter)|
 |[April Monica Houghton Blakeslee.](https://blakesleelab.com) Biology, East Carolina University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/AMHBlakeslee)|
 |[Leocadio  Blanco-Bercial.](http://www.bios.edu/research/projects/zooplankton-ecology/) , Bermuda Institute of Ocean Sciences. |
@@ -438,7 +437,6 @@ title: Members
 |[Samuel V Scarpino.](https://scarpino.github.io) Marine & Environmental Sciences; Physics; Health Sciences; Network Science Institute, Northeastern University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/scarpino)[<img src = '/img/twitter-squared.png' >](https://twitter.com/svscarpino)|
 |Karina  Scavo Lord. , Boston University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/kscavo23)|
 |[Sara Michele Schaal.](https://smschaal.wordpress.com/) Marine and Environmental Sciences, Northeastern University Marine Science Center. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/SaraSchaal)[<img src = '/img/twitter-squared.png' >](https://twitter.com/SaraMSchaal)|
-|Sara M Schaal. , Northeastern University Marine Science Center. |
 |[Lauren M. Schiebelhut.](https://laurenschiebelhut.wordpress.com/) Natural Sciences, University of California, Merced. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/lschiebelhut)[<img src = '/img/twitter-squared.png' >](https://twitter.com/LMSchiebelhut)|
 |Flávia  SCHLICHTA. Institut des Sciences de l’Évolution (ISEM), Université de Montpellier. |
 |Andrea L Schmidt. Marine Ecology, GEOMAR. |
