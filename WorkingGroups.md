@@ -62,8 +62,7 @@ Alli Cramer, Jennifer Hoey, Eric Palkovacs, Carlos Garza, Cynthia Valadon, Remy 
 
 ### MarineOmics
 
-Katherine Silliman, Sam Bogan, Hanny Rivera, Joe McGirr, Megan Guidry, Natalie Ameral, Sara Schaal, Alan Downey-Wall, Dani Davenport, Sara Wuitchik, Andrew Whitehead, Jon Puritz, and three undergraduates (selected through an ongoing application process)
-
+Katherine Silliman, Sam Bogan, Hanny Rivera, Joe McGirr, Megan Guidry, Natalie Ameral, Sara Schaal, Alan Downey-Wall, Dani Davenport, Sara Wuitchik, Nicolas Lou, Joanna Griffiths, Andrew Whitehead, Jon Puritz
 Undergraduates: Jessica (Jecy) Klinkam (College of William and Mary)
 Christine (Chris) Mantegna (University of Washington)
 Kaitlin Macaranas (California State University-Bakersfield)
