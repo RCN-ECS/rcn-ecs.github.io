@@ -46,6 +46,12 @@ Gideon Bradburd, Reid Brennan, Joanna Kelley, Misha Matz, Jamie Pringle, Cynthia
 
 **Goals:** The goal of the working group is to quantify patterns of genetic diversity and divergence in marine organisms and understand the biotic and abiotic processes that drive them.  To accomplish this goal, we are taking a data synthesis approach, aggregating publicly available, georeferenced, next-generation sequence datasets for marine species, as well as biotic trait data for those species and oceanographic data for the areas in which they were sampled.  Taken together, these data will allow us to integrate across scales both temporally (micro- to macroevolution) – and spatially (local to global) to test hypotheses about what biotic and abiotic factors predict genomic diversity and divergence in marine ecosystems.
 
+### Metaanalysis of gradient variation
+
+Molly Albecker, Geoff Trussell, Katie Lotterhos
+
+**Goals:** The goal of this working grooup is to quantify co-gradient and counter-gradient variation (covariance between phenotypic and genetic effects on phenotypes) from common garden and reciprocal transplant experiments, and conduct a metaanalysis to determine how common are patterns of gradient variation in the literature, compared to genetic x environment interactions.
+
 ## Working groups formed in 2021
 
 ### Temporal Genomics
@@ -53,6 +59,8 @@ Gideon Bradburd, Reid Brennan, Joanna Kelley, Misha Matz, Jamie Pringle, Cynthia
 René Clark, Brendan Reid, Anthony Snead, Katrina Catalano, Kyra Fitz, Eric Garcia, Kyle Jaynes, Allyson Salazar Sawkins, John Whalen, and Malin Pinsky
 
 **Goals:** The goal of this working group is to write a comprehensive literature review synthesizing the effects of methodology on our ability to detect recent evolutionary changes across taxa and habitats. Our aim is to not only provide a comprehensive evaluation of past temporal genomics work but to also create a decision framework to help guide the design of future studies in hopes of accelerating the use of temporal genomics in understanding evolutionary responses to change across systems, taxa and time. We will pair this literature review with a series of presentations from researchers currently engaged in temporal genomics projects with the hope of providing scientists at all career stages an opportunity to discuss their research, network, and spark exciting new collaborations.
+
+Website: https://tempgenomics-rcn.github.io/website/
 
 ### Do spatial and genomic estimates of connectivity agree?
 
@@ -72,6 +80,8 @@ is essential to evaluate, update, and guide their use in a manner that realizes 
 and robust genomic research in marine science. These guidelines will be disseminated through an easily accessed, dynamic website resource. The working group will also conduct and publish a qualitative review of reproducibility, standardization, and accessibility
 of data/code in genomic studies of environmental adaptation in marine populations. Funds from the RCN-ECS will support three undergraduate research interns, with the goal of broadening participation in the fields of marine science and molecular ecology among early career researchers.
 
+website: https://marineomics.github.io/
+
 ### Seascape Genomics of North Pacific Forage Fishes
 
 Savannah LaBua, Laura Timm, Anna Rix, Nicholas Tucker, Jessica Glass, Andres Lopez, Kevin Boswell.
@@ -83,4 +93,6 @@ Savannah LaBua, Laura Timm, Anna Rix, Nicholas Tucker, Jessica Glass, Andres Lop
 Serena Caplins, Maddie Armstrong. Rachael Bay, Vanessa Guerra, Michael Dawson, Patrick Krug, and Joshua Melendez ++ a cohort of undergraduates who will be recruited from the workshop
 
 **Goals:** Modern evolutionary genetics relies on the manipulation of increasingly large datasets necessitating training in computer programming. The utility of this training is not always clear to marine science majors and opportunities for training in computer science are often inequitable. Our working group will train undergraduates to do bioinformatics over a 10-week long workshop, which will showcase clear and exciting application of bioinformatic tools to the most compelling questions in marine evolutionary biology. We will recruit several students from the workshop to apply their training in a novel population genetic analysis of two iconic species from the California coast, purple urchin and giant kelp. We will make course notes that are easy to understand and implement from the workshop available to the RCN community and the broader scientific community. 
+
+website: https://baylab.github.io/MarineGenomics/week-1-welcome.html
 
