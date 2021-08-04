@@ -3,11 +3,11 @@ layout: page
 title: Members
 ---
 
-|Members (in alphabetical order, last updated March 2021) |
+|Members (in alphabetical order, last updated August 2021) |
 |--------|
+|David  Aguirre. School of Natural and Computational Sciences, Massey University Auckland. |
 |[Anna  Maria Addamo.](https://www.researchgate.net/profile/Anna_Addamo/info) Biodiversity and Evolutionary Biology; Sustainable Resources - Water and Marine Resources, National Museum of Natural Science MNCN (Spain); European Commission JRC (Italy). [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/AMA)[<img src = '/img/twitter-squared.png' >](https://twitter.com/AMAddamo)|
 |[Andres  Aguilar.](https://andresaguilar.weebly.com/) Dept. Biological Sciences, CSU Los Angeles. |
-|David  Aguirre. School of Natural and Computational Sciences, Massey University Auckland. |
 |Emily  Aguirre. Biology, University of Southern California. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/N/A)[<img src = '/img/twitter-squared.png' >](https://twitter.com/N/A)|
 |Hannah E Aichelman. Biology, Boston University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/hannahaichelman)[<img src = '/img/twitter-squared.png' >](https://twitter.com/HAichelman)|
 |[Maria  Akopyan.](https://www.makopyan.com) Ecology and Evolutionary Biology, Cornell University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/mariaakop)|
@@ -28,6 +28,7 @@ title: Members
 |esat  atikkan. Biology, montgomery college. |
 |Viridiana   Avila-Magaña. Ecology and Evolutionary Biology , University of Colorado, Boulder. |
 |Joseph  Ayers. Marine and Environmental Sciences & Biology, Northeastern University. |
+|Amy  Baco-Taylor. , Florida State University. |
 |[J Antonio Baeza.](https://www.clemson.edu/cafls/faculty_staff/profiles/jbaezam) Biological Sciences, Clemson University. |
 |[Justin C Bagley.](https://justinbagley.org) Department of Biology, Virginia Commonwealth University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/justincbagley)[<img src = '/img/twitter-squared.png' >](https://twitter.com/justincbagley)|
 |Simone  Baldanzi. , Pontificia Universidad Catolica de Chile . [<img src = '/img/twitter-squared.png' >](https://twitter.com/simonebaldanzi)|
@@ -47,9 +48,11 @@ title: Members
 |Ana  Sofia Belloli Cardoso. IO, University of São Paulo. |
 |Laura Marilyn Benestan. Biology, UQAR. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/laurabenestan)[<img src = '/img/twitter-squared.png' >](https://twitter.com/LBenestan)|
 |[Brooke E Benson.](https://bensonbe.weebly.com) Biology, Boston University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/bebenson9)|
+|Blair P Bentley. Department of Environmental Conservation, University of Massachusetts, Amherst. |
 |[Chiara  Benvenuto.](https://sites.google.com/view/benvenutoresearchgroup/home) , University of Salford. [<img src = '/img/twitter-squared.png' >](https://twitter.com/cbenvenuto73)|
 |Cory  Berger. Biological Oceanography, Woods Hole Oceanographic Institution. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/caberger1)|
 |Halle M Berger. Marine Sciences, University of Connecticut Avery Point. |
+|Gabriella  Berman. Scripps Institution of Oceanography, University of California San Diego. |
 |[Moises  A  Bernal.](https://sites.google.com/site/moisesbernalresearch/) Biological Sciences , University of Buffalo . [<img src = '/img/twitter-squared.png' >](https://twitter.com/evo_fish)|
 |Giacomo  Bernardi. Ecology and Evolutionary Biology, University of California Santa Cruz. |
 |[Louis  Bernatchez.](http://www2.bio.ulaval.ca/louisbernatchez/presentation.htm) Biology, Université Laval. [<img src = '/img/twitter-squared.png' >](https://twitter.com/LouBernatchez)|
@@ -65,6 +68,7 @@ title: Members
 |[April Monica Houghton Blakeslee.](https://blakesleelab.com) Biology, East Carolina University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/AMHBlakeslee)|
 |[Leocadio  Blanco-Bercial.](http://www.bios.edu/research/projects/zooplankton-ecology/) , Bermuda Institute of Ocean Sciences. |
 |Samuel N Bogan. Ecology, Evolution & Marine Biology, UC Santa Barbara. |
+|Erick  Bolaños Duran. , Centro de Investigación Científica y de Educación Superior de Ensenada. |
 |Joshua W Boling. Integrative Biology, University of South Florida. |
 |[Daniel  Bolnick.](https://bolnicklab.wordpress.com) Ecology and Evolutionary Biology, University of Connecticut. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/danbolnick)[<img src = '/img/twitter-squared.png' >](https://twitter.com/danbolnick)|
 |[Colleen B Bove.](https://colleenbove.science) Environment, Ecology, and Energy, University of North Carolina at Chapel Hill. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/seabove7)[<img src = '/img/twitter-squared.png' >](https://twitter.com/seabove7)|
@@ -130,6 +134,7 @@ title: Members
 |Shannon  Corrigan. Florida Museum of Natural History, University of Florida. [<img src = '/img/twitter-squared.png' >](https://twitter.com/CTOL_Project)|
 |Ana  Costa. , University of Glasgow. |
 |Elisa M Costa-Paiva. Genetics Departmen, Federal University of Rio de Janeiro. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/ElisaMaria)|
+|Samantha R Coy. Biosciences, Rice University. |
 |[Allison N Cramer.](https://www.allicramer.com/) School of the Environment, Washington State University . [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/allicramer)[<img src = '/img/twitter-squared.png' >](https://twitter.com/AlliNCramer)|
 |[Eric D Crandall.](http://www.ericcrandall.org) Biology, CSU Monterey Bay. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/ericcrandall)[<img src = '/img/twitter-squared.png' >](https://twitter.com/LuckyLinckia)|
 |Tauana  Cunha. , Smithsonian Tropical Research Institute. |
@@ -185,6 +190,7 @@ title: Members
 |[Matthew W Fraser.](https://www.seagrassresearch.net/matthew-fraser) School of Biological Sciences, University of Western Australia. [<img src = '/img/twitter-squared.png' >](https://twitter.com/marinecologist)|
 |Ashley B Friedman. Marine Biology, University of South Florida. |
 |Janessy  Frometa. , NOAA. |
+|Angela P. Fuentes-Pardo. Department of Medical Biochemistry and Microbiology, Uppsala University. |
 |[Lauren E Fuess.](https://laurenfuess.weebly.com) Ecology and Evolutionary Biology, University of Connecticut. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/lfuess)[<img src = '/img/twitter-squared.png' >](https://twitter.com/laurenfuess)|
 |[Atsushi  Fujimura.](https://www.researchgate.net/profile/Atsushi_Fujimura) Marine Laboratory, University of Guam. |
 |[Becky  Fuller.](http://beckyfullerlab.weebly.com/) Animal Biology (soon to be Evolution, Ecology, and Behavior), University of Illinois. [<img src = '/img/twitter-squared.png' >](https://twitter.com/darterfish24)|
@@ -206,10 +212,12 @@ title: Members
 |Melina I Giakoumis. Biology, City University of New York . |
 |Sean T Giery. Ecology and Evolutionary Biology, University of Connecticut. [<img src = '/img/twitter-squared.png' >](https://twitter.com/stgiery)|
 |[Sarah A Gignoux-Wolfsohn.](https://sarahgw.com) , Smithsonian Environmental Research Center. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/sagw)[<img src = '/img/twitter-squared.png' >](https://twitter.com/sgigwolf)|
+|Johanna  Gijsbers . , California Academy of Sciences. |
 |[Kimberly J Gilbert.](http://kjgilbert.github.io/) Institute of Ecology and Evolution, University of Bern. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/kjgilbert)[<img src = '/img/twitter-squared.png' >](https://twitter.com/kj_gilbert)|
 |Tony   Gill. Environmental Toxicology, UC Davis. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/jamesanthonygill3)[<img src = '/img/twitter-squared.png' >](https://twitter.com/tonygill3)|
 |Jessica R Glass. Fisheries, University of Alaska Fairbanks. |
 |Robert A Glazer. Fish and Wildlife Research Institute, Florida Fish and Wildlife Conservation Commission. |
+|Victoria M Glynn. , McGill University and the Smithsonian Tropical Research Institute. |
 |Henry  Goehlich. Evolutionary Ecology of Marine Fishes, GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel. |
 |[Erica  Goetze.](https://www.marinezooplankton.com) Oceanography, University of Hawaii at Manoa. |
 |Jed  Goldstone. Biology, Woods Hole Oceanographic Institution. |
@@ -249,6 +257,7 @@ title: Members
 |Courtney   Hofman. Anthropology, University of Oklahoma. [<img src = '/img/twitter-squared.png' >](https://twitter.com/CourtneyHofman)|
 |[Jordan A Hollarsmith.](http://jordanhollarsmith.weebly.com/) Environmental Science and Policy, UC Davis, Bodega Marine Lab. [<img src = '/img/twitter-squared.png' >](https://twitter.com/HollarAtTheSea)|
 |[Scott  Hotaling.](https://www.coldgenomes.com) School of Biological Sciences, Washington State University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/n/a)[<img src = '/img/twitter-squared.png' >](https://twitter.com/mtn_science)|
+|Colin  Howe. Biology, Penn State University . |
 |Lauren I Howe-Kerr. BioSciences, Rice University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/laurenhowekerr)|
 |Emily  Howells. Biology, University of Wollongong. |
 |[Randall  Hughes.](https://hugheslab.squarespace.com) Marine and Environmental Science, Northeastern University. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/arandallhughes)[<img src = '/img/twitter-squared.png' >](https://twitter.com/hughes_lab)|
@@ -301,6 +310,7 @@ title: Members
 |Ewaldo  Leitao. Marine Sciences, University of Connecticut. |
 |[Naomi M Levine.](http://dornsife.usc.edu/labs/levine/) Marine and Environmental Biology, University of Southern California. |
 |Hannah B  Lewack. Biologu, University of Oregon. |
+|Libby  Liggins. School of Natural and Computational Sciences, Massey University. |
 |[Alyssa L Liguori.](https://alyssaliguori.com/) Ecology and Evolution, Stony Brook University. [<img src = '/img/twitter-squared.png' >](https://twitter.com/AlyssaLLiguori)|
 |Luisa  Listmann. Plankton Ecology, Institute for Marine Ecosystems and Fisheries Sciences. |
 |Elena  Litchman. Kellogg Biological Station, Michigan State University. |
@@ -320,6 +330,7 @@ title: Members
 |Camila  Mac Loughlin. Marine Biology, Centro de Investigaciones Biológicas del Noroeste (CIBNOR). |
 |Kaitlin Aquino Macaranas. Biology, California State University Bakersfield. |
 |[Eva  Majerova.](http://gatescorallab.com/eva-majerova) Hawai'i Institute of Marine Biology, University of Hawaii. [<img src = '/img/twitter-squared.png' >](https://twitter.com/EMajerova2)|
+|Megan  Maloney. Biology, Auburn University. |
 |[Patricia  Marti Puig.](https://www.patypuig.com) , Oceanogami. [<img src='/img/GitHub-Mark-32px.png'>](http://github.com/patypuig@gmail.com)[<img src = '/img/twitter-squared.png' >](https://twitter.com/patypuig)|
 |[Christopher  Martin.](http://labs.bio.unc.edu/martin/) Biology, University of North Carolina at Chapel Hill. [<img src = '/img/twitter-squared.png' >](https://twitter.com/fishspeciation)|
 |[Catherine M Matassa.](https://catherinematassa.weebly.com) Marine Sciences, University of Connecticut. [<img src = '/img/twitter-squared.png' >](https://twitter.com/matassa_cm)|
