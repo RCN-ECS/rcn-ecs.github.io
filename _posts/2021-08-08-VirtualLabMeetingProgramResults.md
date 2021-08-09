@@ -1,5 +1,7 @@
-# RCN Virtual Lab Meeting Training Program
-
+---
+layout: post
+title: RCN Virtual Lab Meeting Training Program
+---
 By Katie Lotterhos
 
 In 2020-2021 we pivoted in response to the pandemic to offer a Virtual Lab Meeting Training Program: https://rcn-ecs.github.io/2020virtuallabcall/ 
