@@ -546,10 +546,7 @@ title: Members
 |Yazmin  Zurapiti. , Okinawa Institute of Science and Technology. |
 |Miquelle B Zybert. , University of Maine. |
 
----
-layout: page
-title: Members
----
+
 
 |Country of origin (last updated August 2021) |Number of members|
 |--------|----|
