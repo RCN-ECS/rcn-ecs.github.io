@@ -26,7 +26,7 @@ Approved applicants will receive a $500 stipend (see information on eligibility 
 
 * Mentors may be Faculty, Postdoctoral Fellows, or Research Associates - as long as lab meetings can be dedicated to the mentees professional development.
 * If you haven't yet, please [sign up to be a member of the RCN](https://rcn-ecs.github.io/howtojoin/). It's as simple as filling out a form and signing up for our listserv!
-* Please use [the RCN lab meeting mentor sign-up form](https://docs.google.com/forms/d/e/1FAIpQLSdIWnde8XTEVKhz0vegtjYmsFlm22LhihWjODhuHm6aWZe4WQ/viewform) to sign up to be a mentor for this program before Sept 15. 
+* Please use [the RCN lab meeting mentor sign-up form](https://docs.google.com/forms/d/1RB4YMC8PJ7lRNM2N_LOJBywNIDJ-P3dSz1y0IE836p0/) to sign up to be a mentor for this program before Sept 15. 
 * Mentor applications are due Sept 15 (two weeks before mentee applications are due).
 * PIs that sign up will agree to invite the matched applicant to join 10 lab meetings and at  least parts of 2 lab meetings will be devoted to professional development of the applicant by May 2022. 
 
@@ -53,7 +53,7 @@ Note, however, that there are a limited number of stipends. In a recent RCN surv
 **Step 2:** Decide which mentors you'd like to be matched with. 
 To view a list of mentors who have signed up for the program and their research interests, 
 [check out this table of interested mentors](https://docs.google.com/spreadsheets/d/13onu_-DzH6oJ03l7G3VzcvJSbZnDsk80J5yNkK-iIRg/edit?usp=sharing). We encourage applicants to reach out to mentors who are not on the list and 
-encourage them to sign up with [the RCN lab meeting mentor sign-up form](https://docs.google.com/forms/d/e/1FAIpQLSdIWnde8XTEVKhz0vegtjYmsFlm22LhihWjODhuHm6aWZe4WQ/viewform).
+encourage them to sign up with [the RCN lab meeting mentor sign-up form](https://docs.google.com/forms/d/1RB4YMC8PJ7lRNM2N_LOJBywNIDJ-P3dSz1y0IE836p0/).
 
 **Step 3:** Prepare your application materials. The applicant will need to submit the following in a single pdf:
 * A 500 word statement that describes the applicant’s 
