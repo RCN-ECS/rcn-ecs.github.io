@@ -1,3 +1,7 @@
+---
+layout: page
+title: RCN mentees
+---
 
 # Mentees in 2020 Virtual Lab Meeting Training Program
 |Mentee, Institution, Major, Career Stage|
