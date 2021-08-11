@@ -1,7 +1,7 @@
 
 # Mentees in 2020 Virtual Lab Meeting Training Program
 |Mentee, Institution, Major, Career Stage|
-|----------|
+|---|
 |Ian Birchler De Allende, University of Maine, Marine Science, Undergraduate|
 |Abby Ladner, University of Maine, Marine Science, Undergraduate|
 |Thaili Giles, Spelman College, Biology, Undergraduate|
