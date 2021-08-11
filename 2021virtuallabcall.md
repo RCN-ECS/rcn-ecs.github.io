@@ -41,9 +41,9 @@ out our [Diversity, Equity, and Inclusion Statement](https://rcn-ecs.github.io/D
 
 We aim to be able to place every applicant with a mentor. 
 
-Note, however, that there are a limited number of stipends, and stipends can only be paid to US Citizens. 
-Stipends will be priortized for individuals who best describe how their particiation in this program will
-help to increase diversity of underrepresented groups in our field. In a recent RCN survey, 74% of respondents agreed or strongly agreed that a proportion of stipends should be prioritized to increasing underrepresented groups within the RCN. This program is part of our [antiracism response to systematic racism in society](https://rcn-ecs.github.io/Antiracism/).
+Note, however, that there are a limited number of stipends. In a recent RCN survey, 74% of respondents agreed or strongly agreed that a proportion of stipends should be prioritized to increasing underrepresented groups within the RCN. This program is part of our [antiracism response to systematic racism in society](https://rcn-ecs.github.io/Antiracism/). Stipends will be priortized for:
+* participants who did not previously partipate in last year's Virtual Lab Meeting Training Program
+* individuals who best describe how their particiation in this program will help to increase diversity of underrepresented groups in our field. 
 
 
 ## To apply:
@@ -70,7 +70,6 @@ If you have trouble submitting the application with the google form, email evolv
 Applications are due Sept. 30, 2021. Lab meetings will take place between October 2021 and May 2022.
 
 In the application, mentees will choose their top 3-4 choices for a mentor. The RCN will attempt to match applicants with their preferred mentor.
-
 
 
 
