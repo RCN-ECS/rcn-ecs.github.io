@@ -546,46 +546,7 @@ title: Members
 |Yazmin  Zurapiti. , Okinawa Institute of Science and Technology. |
 |Miquelle B Zybert. , University of Maine. |
 
-### Members by country of origin (last updated August 2021)
 
-|Country  |Number of members|
-|--------|----|
-USA | 389
-Australia | 19
-Belgium | 4
-Bermuda | 2
-Brazil | 6
-Canada | 13
-Chile | 1
-Czech Republic | 1
-Denmark | 3
-Estonia | 3
-Finland | 2
-France | 8
-Germany | 10
-Greece | 1
-Hong Kong | 3
-India | 2
-Iran | 5
-Ireland | 1
-Israel | 3
-Italy | 5
-Japan | 1
-Mexico | 4
-Netherlands | 2
-New Zealand | 6
-Norway | 6
-Panama | 2
-Portugal | 2
-Saba (Caribbean Netherlands) | 1
-Singapore | 1
-South Africa | 4
-Spain | 3
-Sweden | 7
-Switzerland | 3
-UK | 15
-Venezuela | 1
-**35 countries**|**539 members**|
 
 
 
