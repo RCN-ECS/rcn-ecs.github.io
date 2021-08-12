@@ -23,45 +23,44 @@ Below are some demographic information about our participants. The charts are in
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT1gteeKA8xna4mqtL8l6d2SxEm14T6CLzL2uY6QvJxzBh75R069UyFtHdK6I5oPUWohyEL_mN5iHur/pubchart?oid=166604481&amp;format=interactive" width="600" height = "400"></iframe>
 
-### Distribution of our members by country (as of June 2019)
+### Distribution of our members by country (as of August 2021)
 
 Country | Count
 ---|---
-USA | 304
-Australia | 15
-Belgium | 3
+USA | 389
+Australia | 19
+Belgium | 4
 Bermuda | 2
-Brazil | 4
-Canada | 10
+Brazil | 6
+Canada | 13
 Chile | 1
 Czech Republic | 1
-Denmark | 2
-Denmark  | 1
+Denmark | 3
 Estonia | 3
 Finland | 2
-France | 5
-Germany | 8
+France | 8
+Germany | 10
 Greece | 1
-Hong Kong | 2
+Hong Kong | 3
 India | 2
 Iran | 5
 Ireland | 1
-Israel | 2
-Italy | 4
+Israel | 3
+Italy | 5
 Japan | 1
-Mexico | 1
-Netherlands | 1
-New Zealand | 5
+Mexico | 4
+Netherlands | 2
+New Zealand | 6
 Norway | 6
-Panama | 1
-Portugal | 1
+Panama | 2
+Portugal | 2
 Saba (Caribbean Netherlands) | 1
+Singapore | 1
 South Africa | 4
 Spain | 3
-Sweden | 5
+Sweden | 7
 Switzerland | 3
-The Netherlands | 1
-UCA | 1
-UK | 12
+UK | 15
+Venezuela | 1
 ---|---
-Total | 424
+35 countries | 539 members
