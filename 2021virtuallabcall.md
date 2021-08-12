@@ -45,6 +45,7 @@ Note, however, that there are a limited number of stipends. In a recent RCN surv
 * participants who did not previously partipate in last year's Virtual Lab Meeting Training Program
 * individuals who best describe how their particiation in this program will help to increase diversity of underrepresented groups in our field. 
 
+Stipends can only be paid to persons with a SSN or Tax ID Number in the USA. For international students in the US, please consult with the international office of your university before receiving the payment. There is usually additional paperwork that has to be filled out when receiving funds from another institution.
 
 ## To apply:
 
