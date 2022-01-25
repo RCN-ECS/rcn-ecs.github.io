@@ -9,6 +9,9 @@ trainee-list:
     url: https://cos.northeastern.edu/faculty/katie-lotterhos/
     github: http://github.com/drk-lo
     twitter: https://twitter.com/drk_lo
+    instagram: https://twitter.com/drk_lo
+    linkedin: https://twitter.com/drk_lo
+    email: k@gmail.com
 ---
 
 ## Trainees (in alphabetical order)
