@@ -29,7 +29,22 @@
           <a class="item-link" href="{{ item.twitter }}" title="Twitter">
             <span class="fa fa-twitter"></span>
           </a>
-        {% endif %}      
+        {% endif %}   
+        {% if item.email %}
+          <a class="item-link" href="{{ item.email }}" title="Email">
+            <span class="fa fa-email"></span>
+          </a>
+        {% endif %} 
+        {% if item.instagram %}
+          <a class="item-link" href="{{ item.instagram }}" title="Instagram">
+            <span class="fa fa-instagram"></span>
+          </a>
+        {% endif %} 
+        {% if item.linkedin %}
+          <a class="item-link" href="{{ item.linkedin }}" title="Linkedin">
+            <span class="fa fa-linkedin"></span>
+          </a>
+        {% endif %} 
       </div>
     </div>
   {% endfor %}
