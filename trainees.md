@@ -3,7 +3,7 @@ title: Evolving Seas RCN Trainees
 subtitle: 
 trainee-list: 
   - name: Genece Grisby
-    img: /img/people/katie-lotterhos-sq.png
+    img: /img/people/filename.png
     desc: Undergraduate at UC Davis. How participating in RCN. Career goals. 
     website: https://sites.google.com/site/katielotterhos/home
     url: https://cos.northeastern.edu/faculty/katie-lotterhos/
@@ -13,8 +13,8 @@ trainee-list:
     linkedin: https://twitter.com/drk_lo
     email: k@gmail.com
   - name: Lucia B
-    img: /img/people/katie-lotterhos-sq.png
-    desc: Undergraduate at UC Davis. How participating in RCN. Career goals. 
+    img: /img/people/filename.png
+    desc: Undergraduate at NortheasternUniversity. How participating in RCN. Career goals. 
     website: https://sites.google.com/site/katielotterhos/home
     url: https://cos.northeastern.edu/faculty/katie-lotterhos/
     github: http://github.com/drk-lo
