@@ -13,8 +13,8 @@ trainee-list:
     linkedin: https://twitter.com/drk_lo
     email: k@gmail.com
      - name: Genece Grisby
-    img: /img/people/genece.pdf
-    desc: Undergraduate at UC Davis studying Marine and Coastal Science. Raises profiles of junior members of the Evolving Seas RCN. Working towards a career in marine conservation. 
+    img: /img/downloads/genece.pdf
+    desc: Undergraduate at UC Davis studying Marine and Coastal Science. Working towards a career in marine conservation. Contacts junior members of the Evolving Seas RCN and modify the RCN website. 
     website: 
     url: 
     github: https://github.com/genecevalencia
