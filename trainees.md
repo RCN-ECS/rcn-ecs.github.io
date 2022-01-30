@@ -52,6 +52,16 @@ trainee-list:
     instagram: https://www.instagram.com/ak4708/
     linkedin: https://www.linkedin.com/in/anna-kry-65b72b208/
     email: krylova.a@northeastern.edu
+ - name: Venkat M
+    img: /img/people/venkateswaran-m.png
+    desc: Undergraduate at the Central University of Tamil Nadu in Thiruvarur, India. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Natalya Gallo. Working to gain lab and field experience before pursuing a PhD in medical research. 
+    website: https://sites.google.com/view/venkatwaran
+    url: 
+    github: https://github.com/VenkatWaran01
+    twitter: https://twitter.com/VenkatWaran10
+    instagram: 
+    linkedin: https://www.linkedin.com/in/venkatwaranhp/
+    email: lpmvenkateswaran621@gmail.com
 ---
 
 ## Trainees (in alphabetical order)
