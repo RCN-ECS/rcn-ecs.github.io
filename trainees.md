@@ -32,6 +32,26 @@ trainee-list:
     instagram: 
     linkedin: https://www.linkedin.com/in/genece-grisby-3b3308230/
     email: genecevalencia@gmail.com
+ - name: Kaleea Korunka
+    img: 
+    desc: Undergraduate at the College of William & Mary. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Carly Danielle Kenkel. Pursuing a PhD in marine science to research preservation of clams in the Chesapeake Bay.
+    website: 
+    url: 
+    github: 
+    twitter: 
+    instagram: 
+    linkedin: 
+    email: kekorunka@wm.edu
+  - name: Anna Krylova
+    img: /img/people/anna-krylova.png
+    desc: Undergraduate at Northeastern University. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Alessia Dinoi. Exploring opportunities in the marine sciences with a goal of working for protection action for animals. 
+    website: 
+    url: 
+    github: 
+    twitter: 
+    instagram: https://www.instagram.com/ak4708/
+    linkedin: https://www.linkedin.com/in/anna-kry-65b72b208/
+    email: krylova.a@northeastern.edu
 ---
 
 ## Trainees (in alphabetical order)
