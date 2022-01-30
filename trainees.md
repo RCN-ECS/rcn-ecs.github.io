@@ -12,6 +12,16 @@ trainee-list:
     instagram: 
     linkedin: https://www.linkedin.com/in/ian-bda/
     email: 
+ - name: Margaret Campbell
+    img: /img/people/Margaret-Campbell.png
+    desc: Undergraduate at University of Maine. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Randall Hughes. Pursuing a Masters in fisheries management with the goal of working in policy. 
+    website: https://joshua-stoll.com/people/
+    url: 
+    github: 
+    twitter: 
+    instagram: https://www.instagram.com/margarett.cc/
+    linkedin: https://www.linkedin.com/in/margaret-campbell-71262b1b4/
+    email: margaret.c.campbell@maine.edu
  - name: Genece Grisby
     img: /img/downloads/genece-grisby.png
     desc: Undergraduate at UC Davis studying Marine and Coastal Science. Working towards a career in marine conservation. Contacts junior members of the Evolving Seas RCN and modify the RCN website. 
