@@ -4,7 +4,7 @@ subtitle:
 trainee-list: 
   - name: Ian Birchler De Allende
     img: /img/people/ian-birchler-de-allende.png
-    desc: Undergraduate at University of Maine. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Katie Lotterhos. Working towards Masters and PhD degrees in marine science to pursue academia. 
+    desc: Undergraduate at University of Maine. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Katie Lotterhos. Working towards Master's and PhD degrees in marine science to pursue academia. 
     website: https://thegillraker.blogspot.com/
     url: 
     github: 
@@ -14,7 +14,7 @@ trainee-list:
     email: 
  - name: Margaret Campbell
     img: /img/people/Margaret-Campbell.png
-    desc: Undergraduate at University of Maine. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Randall Hughes. Pursuing a Masters in fisheries management with the goal of working in policy. 
+    desc: Undergraduate at University of Maine. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Randall Hughes. Pursuing a Master's in fisheries management with the goal of working in policy. 
     website: https://joshua-stoll.com/people/
     url: 
     github: 
@@ -62,6 +62,16 @@ trainee-list:
     instagram: 
     linkedin: https://www.linkedin.com/in/venkatwaranhp/
     email: lpmvenkateswaran621@gmail.com
+ - name: Gabi Mendez
+    img: /img/people/gabriella-mendez.png
+    desc: Undergraduate at Northern Arizona University. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Randall Hughes. Pursuing a Master's in marine biology to study estuary conservation with a sub-focus on science communication.
+    website: 
+    url: 
+    github: 
+    twitter: 
+    instagram: 
+    linkedin: http://www.linkedin.com/in/gmendez2000
+    email: gam276@nau.edu
 ---
 
 ## Trainees (in alphabetical order)
