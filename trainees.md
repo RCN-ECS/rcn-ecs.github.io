@@ -2,6 +2,16 @@
 title: Evolving Seas RCN Trainees
 subtitle: 
 trainee-list: 
+  - name: Lucia Barrera
+    img: /img/people/lucia-barrera.png
+    desc: Undergraduate at Northeastern University. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Patricia Valdespino Castillo. Pursuing a B.S. in Economics and Ecology & Evolutionary Biology with the goal of combining both fields to work in conservation.
+    website: 
+    url: 
+    github: https://github.com/luciabarrera
+    twitter: https://twitter.com/lucia_barreraa
+    instagram: 
+    linkedin: https://www.linkedin.com/in/luciabarrera-/
+    email: luciabarrera225@gmail.com
   - name: Ian Birchler De Allende
     img: /img/people/ian-birchler-de-allende.png
     desc: Undergraduate at University of Maine. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Katie Lotterhos. Working towards Master's and PhD degrees in marine science to pursue academia. 
@@ -72,6 +82,26 @@ trainee-list:
     instagram: 
     linkedin: http://www.linkedin.com/in/gmendez2000
     email: gam276@nau.edu
+- name: Anthony Snead
+    img: /img/people/anthony-snead.png
+    desc: PhD student at the University of Alabama. Participated in Temporal Genomics Working Group and Virtual Lab Training Program in 2020-2021 with Dr. Malin Pinsky. Working towards a career in academia and developing a lab that links microevolutionary processes to macroevolutionary patterns.
+    website: https://www.anthony-snead.com/
+    url: 
+    github: https://github.com/anthonysnead
+    twitter: https://twitter.com/AnthonyASnead
+    instagram: 
+    linkedin: https://www.linkedin.com/in/anthony-snead-0582a8170/
+    email: asnead@crimson.ua.edu
+ - name: Lauren Zane
+    img: /img/people/lauren-zane.png
+    desc: PhD student at the University of Rhode Island. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Katie Lotterhos. Pursuing a career as a research professor at a public university in California with the goal of mentoring students and helping them develop their research interests.
+    website: https://laurenzane.github.io/
+    url: 
+    github: https://github.com/laurenzane
+    twitter: https://twitter.com/laurennzane
+    instagram: 
+    linkedin: 
+    email: laurenzane@uri.edu
 ---
 
 ## Trainees (in alphabetical order)
