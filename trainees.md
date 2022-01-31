@@ -43,7 +43,7 @@ trainee-list:
     linkedin: https://www.linkedin.com/in/margaret-campbell-71262b1b4/
     email: margaret.c.campbell@maine.edu
   - name: Genece Grisby
-    img: /img/people/genece.pdf
+    img: /img/people/genece-grisby.heic
     desc: Undergraduate at UC Davis studying Marine and Coastal Science. Working towards a career in marine conservation. Contacts junior members of the Evolving Seas RCN and modify the RCN website. 
     website: 
     url: 
