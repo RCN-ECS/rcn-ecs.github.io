@@ -3,7 +3,7 @@ title: Evolving Seas RCN Trainees
 subtitle: 
 trainee-list: 
   - name: Kiran Bajaj
-    img: /img/people/Kiran Bajaj.png
+    img: /img/people/kiran-bajaj.png
     desc: Undergraduate at Northeastern University. Currently participating in the Virtual Lab Training Program in 2021-2022 with Dr. Emily Rivest. Pursuing a career focused on conservation ecology either conducting research or working for a government agency.
     website: 
     url: 
