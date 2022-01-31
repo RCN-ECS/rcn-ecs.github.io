@@ -3,7 +3,7 @@ title: Evolving Seas RCN Trainees
 subtitle: 
 trainee-list: 
   - name: Kiran Bajaj
-    img: /img/people/Kiran-Bajaj.png
+    img: /img/people/Kiran Bajaj.png
     desc: Undergraduate at Northeastern University. Currently participating in the Virtual Lab Training Program in 2021-2022 with Dr. Emily Rivest. Pursuing a career focused on conservation ecology either conducting research or working for a government agency.
     website: 
     url: 
@@ -43,7 +43,7 @@ trainee-list:
     linkedin: https://www.linkedin.com/in/margaret-campbell-71262b1b4/
     email: margaret.c.campbell@maine.edu
   - name: Matías Gómez-Corrales
-    img: /img/people/Matias-Gomez.jpg
+    img: /img/people/Matias Gomez.png
     desc: PhD student at University of Rhode Island. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Daniel Bolnick. Pursuing a PhD in evolutionary biology with a focus on marine invertebrates.
     website: https://www.researchgate.net/profile/Matias-Gomez-Corrales
     url: 
@@ -63,7 +63,7 @@ trainee-list:
     linkedin: https://www.linkedin.com/in/genece-grisby-3b3308230/
     email: gvgrisby@ucdavis.edu
   - name: Alison Hall
-    img: /img/people/Alison-Hall.jpg
+    img: /img/people/Alison Hall.png
     desc: PhD student at University of Vermont. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Moisés A. Bernal. Pursuing a career within conservation or a governmental agency focused on marine ecosystems. 
     website: 
     url: 
@@ -73,7 +73,7 @@ trainee-list:
     linkedin: https://www.linkedin.com/in/alison-hall-9a4822a7/
     email: aehall@uvm.edu
   - name: Kaleea Korunka
-    img: /img/people/Alison-Hall.jpg
+    img: /img/people/The Ocean.png
     desc: Undergraduate at the College of William & Mary. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Carly Danielle Kenkel. Pursuing a PhD in marine science to research preservation of clams in the Chesapeake Bay.
     website: 
     url: 
