@@ -73,7 +73,7 @@ trainee-list:
     linkedin: https://www.linkedin.com/in/alison-hall-9a4822a7/
     email: aehall@uvm.edu
   - name: Kaleea Korunka
-    img: 
+    img: /img/people/Alison-Hall.jpg
     desc: Undergraduate at the College of William & Mary. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Carly Danielle Kenkel. Pursuing a PhD in marine science to research preservation of clams in the Chesapeake Bay.
     website: 
     url: 
