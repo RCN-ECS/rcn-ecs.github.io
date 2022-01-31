@@ -54,14 +54,24 @@ trainee-list:
     email: matias_gomez@uri.edu
   - name: Genece Grisby
     img: /img/people/Genece-Grisby.heic
-    desc: Undergraduate at UC Davis studying Marine and Coastal Science. Working towards a career in marine conservation. Contacts junior members of the Evolving Seas RCN and modify the RCN website. 
+    desc: Participated in Virtual Lab Training Program in 2021-2022 with Dr. Katie Lotterhos. Pursuing a B.S. in Marine and Coastal Science to work in rehabilitation and conservation.
     website: 
     url: 
     github: https://github.com/genecevalencia
     twitter: https://twitter.com/genecenotjanice
     instagram: 
     linkedin: https://www.linkedin.com/in/genece-grisby-3b3308230/
-    email: genecevalencia@gmail.com
+    email: gvgrisby@ucdavis.edu
+  - name: Alison Hall
+    img: /img/people/Alison-Hall.jpg
+    desc: PhD student at University of Vermont. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Moisés A. Bernal. Pursuing a career within conservation or a governmental agency focused on marine ecosystems. 
+    website: 
+    url: 
+    github: 
+    twitter: 
+    instagram: 
+    linkedin: https://www.linkedin.com/in/alison-hall-9a4822a7/
+    email: aehall@uvm.edu
   - name: Kaleea Korunka
     img: 
     desc: Undergraduate at the College of William & Mary. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Carly Danielle Kenkel. Pursuing a PhD in marine science to research preservation of clams in the Chesapeake Bay.
