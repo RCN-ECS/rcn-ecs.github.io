@@ -49,8 +49,8 @@ trainee-list:
     url: 
     github: https://github.com/matiasgoco
     twitter: 
-    instagram: https://www.instagram.com/margarett.cc/
-    linkedin: https://www.linkedin.com/in/margaret-campbell-71262b1b4/
+    instagram:
+    linkedin:
     email: matias_gomez@uri.edu
   - name: Genece Grisby
     img: /img/people/Genece-Grisby.heic
