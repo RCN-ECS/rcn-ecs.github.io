@@ -53,7 +53,7 @@ trainee-list:
     linkedin:
     email: matias_gomez@uri.edu
   - name: Genece Grisby
-    img: /img/people/Genece-Grisby.png 
+    img: /img/people/Genece Grisby.png 
     desc: Participated in Virtual Lab Training Program in 2021-2022 with Dr. Katie Lotterhos. Pursuing a B.S. in Marine and Coastal Science to work in rehabilitation and conservation.
     website: 
     url: 
