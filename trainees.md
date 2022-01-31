@@ -12,7 +12,6 @@ trainee-list:
     instagram: 
     linkedin: https://www.linkedin.com/in/luciabarrera-/
     email: luciabarrera225@gmail.com
-
 ---
 
 ## Trainees (in alphabetical order)
