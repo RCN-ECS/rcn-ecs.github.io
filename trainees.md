@@ -2,6 +2,16 @@
 title: Evolving Seas RCN Trainees
 subtitle: 
 trainee-list: 
+  - name: Kiran Bajaj
+    img: /img/people/Kiran Bajaj.png
+    desc: Undergraduate at Northeastern University. Currently participating in the Virtual Lab Training Program in 2021-2022 with Dr. Emily Rivest. Pursuing a career focused on conservation ecology either conducting research or working for a government agency.
+    website: 
+    url: 
+    github: 
+    twitter: 
+    instagram: 
+    linkedin: https://www.linkedin.com/in/kiran-bajaj-b8105222b/
+    email: bajaj.ki@northeastern.edu
   - name: Lucia Barrera
     img: /img/people/lucia-barrera.png
     desc: Undergraduate at Northeastern University. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Patricia Valdespino Castillo. Pursuing a B.S. in Economics and Ecology & Evolutionary Biology to work in conservation.
