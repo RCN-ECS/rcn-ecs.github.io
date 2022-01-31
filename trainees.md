@@ -3,7 +3,7 @@ title: Evolving Seas RCN Trainees
 subtitle: 
 trainee-list: 
   - name: Kiran Bajaj
-    img: /img/people/kiran-bajaj.png
+    img: /img/people/Kiran-Bajaj.png
     desc: Undergraduate at Northeastern University. Currently participating in the Virtual Lab Training Program in 2021-2022 with Dr. Emily Rivest. Pursuing a career focused on conservation ecology either conducting research or working for a government agency.
     website: 
     url: 
@@ -42,8 +42,18 @@ trainee-list:
     instagram: https://www.instagram.com/margarett.cc/
     linkedin: https://www.linkedin.com/in/margaret-campbell-71262b1b4/
     email: margaret.c.campbell@maine.edu
+  - name: Matías Gómez-Corrales
+    img: /img/people/Matias-Gomez.jpg
+    desc: PhD student at University of Rhode Island. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Daniel Bolnick. Pursuing a PhD in evolutionary biology with a focus on marine invertebrates.
+    website: https://www.researchgate.net/profile/Matias-Gomez-Corrales
+    url: 
+    github: https://github.com/matiasgoco
+    twitter: 
+    instagram: https://www.instagram.com/margarett.cc/
+    linkedin: https://www.linkedin.com/in/margaret-campbell-71262b1b4/
+    email: matias_gomez@uri.edu
   - name: Genece Grisby
-    img: /img/people/genece-grisby.heic
+    img: /img/people/Genece-Grisby.heic
     desc: Undergraduate at UC Davis studying Marine and Coastal Science. Working towards a career in marine conservation. Contacts junior members of the Evolving Seas RCN and modify the RCN website. 
     website: 
     url: 
