@@ -136,4 +136,6 @@ trainee-list:
 
 ## Trainees (in alphabetical order)
 
+Are you a trainee and would like your profile added here, and/or featured on @evolvingseas on Twitter? [Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSedIgM0iO1vGWzzuXDbII7OcNSS7VEUptAZQoSX4M09CoXfTQ/viewform)
+
 {% include list-circles.html items=page.trainee-list %}
