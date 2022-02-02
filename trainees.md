@@ -152,6 +152,16 @@ trainee-list:
     instagram: 
     linkedin: http://www.linkedin.com/in/gmendez2000
     email: mailto:gam276@nau.edu
+  - name: Uzezi Okinedo
+    img: /img/people/gabriella-mendez.png
+    desc: PhD student at University of Massachusetts. Currently participating in Virtual Lab training Program in 2021-2022 with Dr. Andrew Whitehead. Currently exploring how gene network connectivity affects local adaptations of endemic sunflowers.
+    website: 
+    url: 
+    github: 
+    twitter: https://twitter.com/UOkinedo
+    instagram: https://www.instagram.com/uzezi_okinedo/
+    linkedin: https://www.linkedin.com/in/uzezi-okinedo-978bb0110/
+    email: mailto:Uzezi.Okinedo001@umb.edu
   - name: Zoe Ruben
     img: /img/people/Zoe-Ruben.png
     desc: Master’s student at Texas A&M University. Currently participating in Virtual Lab training Program in 2021-2022 with Dr. Mikhail Matz. Pursuing a career in coral reef research and science communication.
