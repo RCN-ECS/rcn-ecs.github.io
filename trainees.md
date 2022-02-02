@@ -153,7 +153,7 @@ trainee-list:
     linkedin: http://www.linkedin.com/in/gmendez2000
     email: mailto:gam276@nau.edu
   - name: Uzezi Okinedo
-    img: /img/people/gabriella-mendez.png
+    img: /img/people/Uzezi-Okinedo.png
     desc: PhD student at University of Massachusetts. Currently participating in Virtual Lab training Program in 2021-2022 with Dr. Andrew Whitehead. Currently exploring how gene network connectivity affects local adaptations of endemic sunflowers.
     website: 
     url: 
