@@ -82,6 +82,16 @@ trainee-list:
     instagram: 
     linkedin: 
     email: mailto:kekorunka@wm.edu
+  - name: Nicola Kriefall
+    img: /img/people/Nicola-Kriefall.png
+    desc: PhD student at Boston University. Participated in Virtual Lab training Program in 2020-2021 with Dr. Roxanne Beinart. Pursuing a career in research or within a government position with a focus on marine conservation.
+    website: 
+    url: 
+    github: https://github.com/NicolaKriefall
+    twitter: https://twitter.com/reef_building?s=20
+    instagram: https://www.instagram.com/nicola.g.tesla/
+    linkedin: 
+    email: mailto:nicfall@bu.edu
   - name: Anna Krylova
     img: /img/people/anna-krylova.png
     desc: Undergraduate at Northeastern University. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Alessia Dinoi. Exploring opportunities in the marine sciences with a goal of working for protection action for animals. 
@@ -89,10 +99,20 @@ trainee-list:
     url: 
     github: 
     twitter: 
-    instagram: https://www.instagram.com/ak4708/
-    linkedin: https://www.linkedin.com/in/anna-kry-65b72b208/
-    email: mailto:krylova.a@northeastern.edu
-    - name: Andy Lee
+    instagram: https://www.instagram.com/abbs_ladner_21/
+    linkedin: https://www.linkedin.com/in/abby-ladner-03ba02195
+    email: mailto:abigail.m.ladner@maine.edu
+  - name: Abigail Ladner
+    img: /img/people/Abby-Ladner.png
+    desc: Undergraduate at University of Maine. Participated in Virtual Lab training Program in 2020-2021 with Dr. Carolyn Tepolt. Currently pursuing a Master’s degree with the goal of working in conservation and aquaculture.
+    website: 
+    url: 
+    github: 
+    twitter: 
+    instagram: 
+    linkedin: 
+    email: mailto:kekorunka@wm.edu
+  - name: Andy Lee
     img: /img/people/andy-lee.png
     desc: PhD student at Purdue University. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Katie Lotterhos.
     website: https://andymuan.wixsite.com/home
@@ -112,6 +132,16 @@ trainee-list:
     instagram: 
     linkedin: https://www.linkedin.com/in/venkatwaranhp/
     email: mailto:lpmvenkateswaran621@gmail.com
+  - name: Camila Mac Loughlin Aleman
+    img: /img/people/Camila-Aleman.png
+    desc: PhD student at Centro de Investigaciones Biológicas del Noroeste (CIBNOR). Participated in Virtual Lab training Program in 2020-2021 with Dr. Jonathan Puritz. Currently studying the major processes that shape biodiversity with genomic tools. 
+    website: 
+    url: 
+    github: 
+    twitter: https://twitter.com/camimacloughlin?s=20
+    instagram: https://www.instagram.com/camimacloughlin/
+    linkedin: 
+    email: mailto:camimacloughlin@gmail.com
   - name: Gabi Mendez
     img: /img/people/gabriella-mendez.png
     desc: Undergraduate at Northern Arizona University. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Randall Hughes. Pursuing a Master's in marine biology to study estuary conservation with a sub-focus on science communication.
@@ -122,6 +152,16 @@ trainee-list:
     instagram: 
     linkedin: http://www.linkedin.com/in/gmendez2000
     email: mailto:gam276@nau.edu
+  - name: Zoe Ruben
+    img: /img/people/Zoe-Ruben.png
+    desc: Master’s student at Texas A&M University. Currently participating in Virtual Lab training Program in 2021-2022 with Dr. Mikhail Matz. Pursuing a career in coral reef research and science communication.
+    website: https://themeaningofzoe.com/
+    url: 
+    github: 
+    twitter: https://twitter.com/ZoeRuben1
+    instagram: https://www.instagram.com/camimacloughlin/
+    linkedin: https://www.linkedin.com/in/zoe-ruben-15ba90189/
+    email: mailto:ztruben@gmail.com
   - name: Anthony Snead
     img: /img/people/anthony-snead.png
     desc: PhD student at the University of Alabama. Participated in Temporal Genomics Working Group and Virtual Lab Training Program in 2020-2021 with Dr. Malin Pinsky. Working towards a career in academia and developing a lab that links microevolutionary processes to macroevolutionary patterns.
@@ -142,6 +182,7 @@ trainee-list:
     instagram: 
     linkedin: 
     email: mailto:laurenzane@uri.edu
+    
 ---
 
 ## Trainees (in alphabetical order)
