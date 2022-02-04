@@ -63,7 +63,7 @@ trainee-list:
     linkedin: https://www.linkedin.com/in/genece-grisby-3b3308230/
     email: mailto:gvgrisby@ucdavis.edu
   - name: Alison Hall
-    img: /img/Alison Hall.png
+    img: /img/people/Alison-Hall.png
     desc: PhD student at the University of Vermont. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Moisés A. Bernal. Pursuing a career within conservation or a governmental agency focused on marine ecosystems. 
     website: 
     url: 
@@ -152,6 +152,16 @@ trainee-list:
     instagram: 
     linkedin: http://www.linkedin.com/in/gmendez2000
     email: mailto:gam276@nau.edu
+  - name: Melissa Naugle
+    img: /img/people/Melissa-Naugle.png
+    desc: PhD student at Southern Cross University. Participated in Virtual Lab training Program in 2021-2022 with Dr. Michael Kantar. Pursuing a career in policymaking with a focus on genomic sequencing, evolutionary processes, and bioinformatics.
+    website: 
+    url: 
+    github: https://github.com/melissanaugle
+    twitter: https://twitter.com/melissanaugle
+    instagram: 
+    linkedin: https://www.linkedin.com/in/melissa-naugle-972560145/
+    email: mailto:melissanaugle@gmail.com
   - name: Uzezi Okinedo
     img: /img/people/Uzezi-Okinedo.png
     desc: PhD student at University of Massachusetts. Currently participating in Virtual Lab training Program in 2021-2022 with Dr. Andrew Whitehead. Currently exploring how gene network connectivity affects local adaptations of endemic sunflowers.
