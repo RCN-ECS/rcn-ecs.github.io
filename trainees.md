@@ -2,6 +2,16 @@
 title: Evolving Seas RCN Trainees
 subtitle: 
 trainee-list: 
+  - name: Bishnu Adhikari
+    img: /img/people/The Ocean.png
+    desc: PhD student at University of Alabama. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Janna Fierst. Pursuing a career focused on genetics, phylogenomics, as well as bioinformatics.
+    website: https://www.hofmannlab.com/people/sam-bogan
+    url: 
+    github: 
+    twitter: https://twitter.com/bishnu_adhikar
+    instagram: https://www.instagram.com/bishnuadhikari_/
+    linkedin: https://www.linkedin.com/in/bishnu-adhikari-2a5949104/
+    email: mailto:badhikari2@crimson.ua.edu
   - name: Kiran Bajaj
     img: /img/Kiran Bajaj.png
     desc: Undergraduate at Northeastern University. Currently participating in the Virtual Lab Training Program in 2021-2022 with Dr. Emily Rivest. Pursuing a career focused on conservation ecology either conducting research or working for a government agency.
@@ -31,7 +41,17 @@ trainee-list:
     twitter: 
     instagram: 
     linkedin: https://www.linkedin.com/in/ian-bda/
-    email: 
+    email:
+  - name: Sam Bogan
+    img: /img/people/Sam-Bogan.png
+    desc: PhD student at University of California, Santa Barbara. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Steven Roberts. Pursuing a career in academia with the goal to advance ecological genomics and physiology and help the public better understand issues such as global pandemics and global change.
+    website: https://www.hofmannlab.com/people/sam-bogan
+    url: 
+    github: https://github.com/snbogan
+    twitter: https://twitter.com/granogan
+    instagram: 
+    linkedin: 
+    email: mailto:snbogan@ucsb.edu
   - name: Margaret Campbell
     img: /img/people/Margaret-Campbell.png
     desc: Undergraduate at University of Maine. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Randall Hughes. Pursuing a Master's in fisheries management with the goal of working in policy. 
