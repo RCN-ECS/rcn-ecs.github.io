@@ -42,7 +42,7 @@ trainee-list:
     instagram: 
     linkedin: https://www.linkedin.com/in/ian-bda/
     email:
-  - name: Sam Bogan
+  - name: Samuel Bogan
     img: /img/people/Sam-Bogan.png
     desc: PhD student at University of California, Santa Barbara. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Steven Roberts. Pursuing a career in academia with the goal to advance ecological genomics and physiology and help the public better understand issues such as global pandemics and global change.
     website: https://www.hofmannlab.com/people/sam-bogan
