@@ -11,6 +11,8 @@ Molly Albecker, Sam Bashevkin, Matthew Hahn, Matthew Hare, Holly Kindsvater, Sta
 
 **Overview:** Our goal is to develop and write a perspective article on the use of genome-focused approaches to characterize the mechanisms of selection across the life cycle. We have organized this article by summarizing current studies using single-generation studies paired with genomic analyses, comparing how genomic approaches complement other approaches (life history modeling, quantitative genetics), and listing recommendations for experimental design based on simulation studies. Marine organisms are ideally suited for studies quantifying how selection at different life cycle stages impacts genome-wide variation due to comparatively wide life cycle diversity, large numbers of propagules/offspring, feasibility of family designs in small research spaces, and the availability of genomic and experimental resources.
 
+Product: [Does a complex life cycle affect adaptation to environmental change? Genome-informed insights for characterizing selection across complex life cycle] Published 2021 in Proceedings of the Royal Society B (https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.2122)
+
 ### Fluctuating Selection
 
 Mark Bitter, Scott Burgess, Hans Dam, Groves Dixon, Sarah Donelan, Santiago Herrera, Lee Karp-Boss, Carly Kenkel, Lisa Komoroske, Katie Lotterhos, Kerry Nickols, Emily Rivest, Juliet Wong 
@@ -21,6 +23,8 @@ Mark Bitter, Scott Burgess, Hans Dam, Groves Dixon, Sarah Donelan, Santiago Herr
 - Review empirical studies that have effectively tested theoretical predictions in a marine setting, and highlight those theoretical predictions that still warrant substantial practical corroboration.
 - Provide perspective regarding how adaptation to various regimes of contemporary/historic variability may influence adaptation to climate change.
 
+Product: [Fluctuating selection and global change: a synthesis and review on disentangling the roles of climate amplitude, predictability and novelty] Published 2021 in Proceedings of the Royal Society B (https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0727)
+
 ### Surf and Turf - Comparing intraspecific differences in thermal limits between marine and terrestrial habitats
 
 Matthew Sasaki, Brian Cheng, Sarah Gignoux-Wolfsohn, Cynthia Hays, Morgan Kelly, Seema Sheth, Jordanna Barley, Alysha Putnam, Andrew Villenueve
@@ -28,11 +32,15 @@ Matthew Sasaki, Brian Cheng, Sarah Gignoux-Wolfsohn, Cynthia Hays, Morgan Kelly,
 **Goals:** To explore intra-specific differences in thermal limits in marine, intertidal, freshwater, and terrestrial taxa, and to compare the scaling of those differences between realms, using geographic distance and environmental differences as our moderators. 
 We have surveyed the literature on adaptive divergence of upper and lower thermal limits, and compiled a list of papers that meet our requirements for inclusion. We have made significant progress towards extracting data from the complete collection of >60 papers. We have generated code that calculates geographic distance between populations, extracts environmental data for each site from commonly used temperature databases, and analyzes/visualizes the data.
 
+Product: [Limited plasticity in thermally tolerant ectotherm populations: evidence for a trade-off] Published 2021 in Proceedings of the Royal Society B (https://doi.org/10.1098/rspb.2021.0765)
+
 ### Modeling evolution in marine systems
 
 Amanda Xuereb, Peter Tiffin, Huijie Xue, Megan Phifer-Rixey
 
 **Goals:** One challenge of modelling evolution in marine taxa is incorporating the effects of pelagic life stages that impact population structure and connectivity. This group will review the use of eco-evolutionary marine models and discuss the impact of factors such as larval dispersal, larval settlement, and sharp clines in environmental conditions on local adaptation.
+
+Product: [Individual-based eco-evolutionary models for understanding adaptation in changing seas] Published 2021 in Proceedings of the Royal Society B (https://doi.org/10.1098/rspb.2021.2006)
 
 ### Blinded by the Wright? Prevalence of adaptive divergence in phenotypic traits at microgeographic scales
 
@@ -51,6 +59,8 @@ Gideon Bradburd, Reid Brennan, Joanna Kelley, Misha Matz, Jamie Pringle, Cynthia
 Molly Albecker, Geoff Trussell, Katie Lotterhos
 
 **Goals:** The goal of this working grooup is to quantify co-gradient and counter-gradient variation (covariance between phenotypic and genetic effects on phenotypes) from common garden and reciprocal transplant experiments, and conduct a metaanalysis to determine how common are patterns of gradient variation in the literature, compared to genetic x environment interactions.
+
+Product: In Press in Ecology Letters.
 
 ## Working groups formed in 2021
 
@@ -90,7 +100,7 @@ Savannah LaBua, Laura Timm, Anna Rix, Nicholas Tucker, Jessica Glass, Andres Lop
 
 ### Bioinformatics workshop as a gateway to kelp and urchin genomics
 
-Serena Caplins, Maddie Armstrong. Rachael Bay, Vanessa Guerra, Michael Dawson, Patrick Krug, and Joshua Melendez ++ a cohort of undergraduates who will be recruited from the workshop
+Serena Caplins, Maddie Armstrong, Rachael Bay, Vanessa Guerra, Michael Dawson, Patrick Krug, and Joshua Melendez ++ a cohort of undergraduates who will be recruited from the workshop
 
 **Goals:** Modern evolutionary genetics relies on the manipulation of increasingly large datasets necessitating training in computer programming. The utility of this training is not always clear to marine science majors and opportunities for training in computer science are often inequitable. Our working group will train undergraduates to do bioinformatics over a 10-week long workshop, which will showcase clear and exciting application of bioinformatic tools to the most compelling questions in marine evolutionary biology. We will recruit several students from the workshop to apply their training in a novel population genetic analysis of two iconic species from the California coast, purple urchin and giant kelp. We will make course notes that are easy to understand and implement from the workshop available to the RCN community and the broader scientific community. 
 
