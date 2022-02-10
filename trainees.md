@@ -3,8 +3,8 @@ title: Evolving Seas RCN Trainees
 subtitle: 
 trainee-list: 
   - name: Bishnu Adhikari
-    img: /img/people/The Ocean.png
-    desc: PhD student at University of Alabama. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Janna Fierst. Pursuing a career focused on genetics, phylogenomics, as well as bioinformatics.
+    img: /img/people/Bishnu-Adhikari.png
+    desc: Ph.D. student at University of Alabama. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Janna Fierst. Pursuing a career focused on genetics, phylogenomics, as well as bioinformatics.
     website: https://www.hofmannlab.com/people/sam-bogan
     url: 
     github: https://github.com/bishnuadhikari1
@@ -14,7 +14,7 @@ trainee-list:
     email: mailto:badhikari2@crimson.ua.edu
   - name: Kiran Bajaj
     img: /img/Kiran Bajaj.png
-    desc: Undergraduate at Northeastern University. Currently participating in the Virtual Lab Training Program in 2021-2022 with Dr. Emily Rivest. Pursuing a career focused on conservation ecology either conducting research or working for a government agency.
+    desc: Undergraduate at Northeastern University. Participated in the Virtual Lab Training Program in 2021-2022 with Dr. Emily Rivest. Pursuing a career focused on conservation ecology either conducting research or working for a government agency.
     website: 
     url: 
     github: 
@@ -32,9 +32,19 @@ trainee-list:
     instagram: 
     linkedin: https://www.linkedin.com/in/luciabarrera-/
     email: mailto:luciabarrera225@gmail.com
+  - name: Tatum Bernat
+    img: /img/people/Tatum-Bernat.png
+    desc: Currently, a Lab Technician applying to 2022 Ph.D. Programs. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Carolyn Tepolt and Dr. Ann Tarrant. Pursuing a career in academia, as either a professor or a research associate.
+    website: 
+    url: 
+    github:
+    twitter: https://twitter.com/phylumtatum
+    instagram: https://www.instagram.com/phylumtatum/
+    linkedin:
+    email: mailto:tbernat@g.ucla.edu
   - name: Ian Birchler De Allende
     img: /img/people/ian-birchler-de-allende.png
-    desc: Undergraduate at University of Maine. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Katie Lotterhos. Working towards Master's and PhD degrees in marine science to pursue academia. 
+    desc: Undergraduate at University of Maine. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Katie Lotterhos. Working towards Master's and Ph.D. degrees in marine science to pursue academia. 
     website: https://thegillraker.blogspot.com/
     url: 
     github: 
@@ -44,7 +54,7 @@ trainee-list:
     email:
   - name: Samuel Bogan
     img: /img/people/Sam-Bogan.png
-    desc: PhD student at University of California, Santa Barbara. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Steven Roberts. Pursuing a career in academia with the goal to advance ecological genomics and physiology and help the public better understand issues such as global pandemics and global change.
+    desc: Ph.D. student at University of California, Santa Barbara. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Steven Roberts. Pursuing a career in academia with the goal to advance ecological genomics and physiology and help the public better understand issues such as global pandemics and global change.
     website: https://www.hofmannlab.com/people/sam-bogan
     url: 
     github: https://github.com/snbogan
@@ -64,7 +74,7 @@ trainee-list:
     email: mailto:margaret.c.campbell@maine.edu
   - name: Matías Gómez-Corrales
     img: /img/Matias Gomez.png
-    desc: PhD student at University of Rhode Island. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Daniel Bolnick. Pursuing a PhD in evolutionary biology with a focus on marine invertebrates.
+    desc: Ph.D. student at University of Rhode Island. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Daniel Bolnick. Pursuing a Ph.D. in evolutionary biology with a focus on marine invertebrates.
     website: https://www.researchgate.net/profile/Matias-Gomez-Corrales
     url: 
     github: https://github.com/matiasgoco
@@ -92,9 +102,19 @@ trainee-list:
     instagram: 
     linkedin: https://www.linkedin.com/in/alison-hall-9a4822a7/
     email: mailto:aehall@uvm.edu
+  - name: Carmen Hoffbeck
+    img: /img/people/Carmen-Hoffbeck.png
+    desc: Ph.D. student at the University of Auckland. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Sam Scarpino. Pursuing a Ph.D. in microbiology, and hopes to continue researching and teaching about microbes and their roles in evolution and conservation.
+    website: 
+    url: 
+    github: 
+    twitter: https://twitter.com/CarmenHoffbeck
+    instagram: 
+    linkedin:
+    email: mailto:cahoffbeck@gmail.com
   - name: Kaleea Korunka
     img: /img/The Ocean.png
-    desc: Undergraduate at the College of William & Mary. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Carly Danielle Kenkel. Pursuing a PhD in marine science to research preservation of clams in the Chesapeake Bay.
+    desc: Undergraduate at the College of William & Mary. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Carly Danielle Kenkel. Pursuing a Ph.D. in marine science to research preservation of clams in the Chesapeake Bay.
     website: 
     url: 
     github: 
@@ -104,7 +124,7 @@ trainee-list:
     email: mailto:kekorunka@wm.edu
   - name: Nicola Kriefall
     img: /img/people/Nicola-Kriefall.png
-    desc: PhD student at Boston University. Participated in Virtual Lab training Program in 2020-2021 with Dr. Roxanne Beinart. Pursuing a career in research or within a government position with a focus on marine conservation.
+    desc: Ph.D. student at Boston University. Participated in Virtual Lab training Program in 2020-2021 with Dr. Roxanne Beinart. Pursuing a career in research or within a government position with a focus on marine conservation.
     website: 
     url: 
     github: https://github.com/NicolaKriefall
@@ -134,7 +154,7 @@ trainee-list:
     email: mailto:kekorunka@wm.edu
   - name: Andy Lee
     img: /img/people/andy-lee.png
-    desc: PhD student at Purdue University. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Katie Lotterhos.
+    desc: Ph.D. student at Purdue University. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Katie Lotterhos.
     website: https://andymuan.wixsite.com/home
     url: 
     github: 
@@ -144,7 +164,7 @@ trainee-list:
     email: mailto:andymuanlee@gmail.com
   - name: Venkat M
     img: /img/people/venkateswaran-m.png
-    desc: Undergraduate at the Central University of Tamil Nadu in Thiruvarur, India. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Natalya Gallo. Working to gain lab and field experience before pursuing a PhD in medical research. 
+    desc: Undergraduate at the Central University of Tamil Nadu in Thiruvarur, India. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Natalya Gallo. Working to gain lab and field experience before pursuing a Ph.D. in medical research. 
     website: https://sites.google.com/view/venkatwaran
     url: 
     github: https://github.com/VenkatWaran01
@@ -154,7 +174,7 @@ trainee-list:
     email: mailto:lpmvenkateswaran621@gmail.com
   - name: Camila Mac Loughlin Aleman
     img: /img/people/Camila-Aleman.png
-    desc: PhD student at Centro de Investigaciones Biológicas del Noroeste (CIBNOR). Participated in Virtual Lab training Program in 2020-2021 with Dr. Jonathan Puritz. Currently studying the major processes that shape biodiversity with genomic tools. 
+    desc: Ph.D. student at Centro de Investigaciones Biológicas del Noroeste (CIBNOR). Participated in Virtual Lab training Program in 2020-2021 with Dr. Jonathan Puritz. Currently studying the major processes that shape biodiversity with genomic tools. 
     website: 
     url: 
     github: 
@@ -174,7 +194,7 @@ trainee-list:
     email: mailto:gam276@nau.edu
   - name: Melissa Naugle
     img: /img/people/Melissa-Naugle.png
-    desc: PhD student at Southern Cross University. Participated in Virtual Lab training Program in 2021-2022 with Dr. Michael Kantar. Pursuing a career in policymaking with a focus on genomic sequencing, evolutionary processes, and bioinformatics.
+    desc: Ph.D. student at Southern Cross University. Participated in Virtual Lab training Program in 2021-2022 with Dr. Michael Kantar. Pursuing a career in policymaking with a focus on genomic sequencing, evolutionary processes, and bioinformatics.
     website: 
     url: 
     github: https://github.com/melissanaugle
@@ -184,7 +204,7 @@ trainee-list:
     email: mailto:melissanaugle@gmail.com
   - name: Uzezi Okinedo
     img: /img/people/Uzezi-Okinedo.png
-    desc: PhD student at University of Massachusetts. Currently participating in Virtual Lab training Program in 2021-2022 with Dr. Andrew Whitehead. Currently exploring how gene network connectivity affects local adaptations of endemic sunflowers.
+    desc: Ph.D. student at University of Massachusetts. Participated in Virtual Lab training Program in 2021-2022 with Dr. Andrew Whitehead. Currently exploring how gene network connectivity affects local adaptations of endemic sunflowers.
     website: 
     url: 
     github: 
@@ -194,7 +214,7 @@ trainee-list:
     email: mailto:Uzezi.Okinedo001@umb.edu
   - name: Zoe Ruben
     img: /img/people/Zoe-Ruben.png
-    desc: Master’s student at Texas A&M University. Currently participating in Virtual Lab training Program in 2021-2022 with Dr. Mikhail Matz. Pursuing a career in coral reef research and science communication.
+    desc: Master’s student at Texas A&M University. Participated in Virtual Lab training Program in 2021-2022 with Dr. Mikhail Matz. Pursuing a career in coral reef research and science communication.
     website: https://themeaningofzoe.com/
     url: 
     github: 
@@ -204,7 +224,7 @@ trainee-list:
     email: mailto:ztruben@gmail.com
   - name: Anthony Snead
     img: /img/people/Snead-Man.png
-    desc: PhD student at the University of Alabama. Participated in Temporal Genomics Working Group and Virtual Lab Training Program in 2020-2021 with Dr. Malin Pinsky. Working towards a career in academia and developing a lab that links microevolutionary processes to macroevolutionary patterns.
+    desc: Ph.D. student at the University of Alabama. Participated in Temporal Genomics Working Group and Virtual Lab Training Program in 2020-2021 with Dr. Malin Pinsky. Working towards a career in academia and developing a lab that links microevolutionary processes to macroevolutionary patterns.
     website: https://www.anthony-snead.com/
     url: 
     github: https://github.com/anthonysnead
@@ -214,7 +234,7 @@ trainee-list:
     email: mailto:asnead@crimson.ua.edu
   - name: Lauren Zane
     img: /img/people/lauren-zane.png
-    desc: PhD student at the University of Rhode Island. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Katie Lotterhos. Pursuing a career as a research professor at a public university in California with the goal of mentoring students and helping them develop their research interests.
+    desc: Ph.D. student at the University of Rhode Island. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Katie Lotterhos. Pursuing a career as a research professor at a public university in California with the goal of mentoring students and helping them develop their research interests.
     website: https://laurenzane.github.io/
     url: 
     github: https://github.com/laurenzane
