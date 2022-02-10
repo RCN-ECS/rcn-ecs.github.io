@@ -7,7 +7,7 @@ trainee-list:
     desc: PhD student at University of Alabama. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Janna Fierst. Pursuing a career focused on genetics, phylogenomics, as well as bioinformatics.
     website: https://www.hofmannlab.com/people/sam-bogan
     url: 
-    github: 
+    github: https://github.com/bishnuadhikari1
     twitter: https://twitter.com/bishnu_adhikar
     instagram: https://www.instagram.com/bishnuadhikari_/
     linkedin: https://www.linkedin.com/in/bishnu-adhikari-2a5949104/
