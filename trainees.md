@@ -12,6 +12,16 @@ trainee-list:
     instagram: https://www.instagram.com/bishnuadhikari_/
     linkedin: https://www.linkedin.com/in/bishnu-adhikari-2a5949104/
     email: mailto:badhikari2@crimson.ua.edu
+  - name: Tait Algayer
+    img: /img/people/tait-algayer.png
+    desc: Ph.D. student at Washington State University. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Steven Roberts and 2020-2021 with Dr. Brian Cheng. Pursuing a career that combines bioinformatics and fisheries science to explore genomic responses to physiological stressors.
+    website: 
+    url: 
+    github: 
+    twitter: https://twitter.com/TaitAlgayer
+    instagram: https://www.instagram.com/taitthegreat98/
+    linkedin: 
+    email: mailto:tait.algayer@wsu.edu
   - name: Kiran Bajaj
     img: /img/Kiran Bajaj.png
     desc: Undergraduate at Northeastern University. Participated in the Virtual Lab Training Program in 2021-2022 with Dr. Emily Rivest. Pursuing a career focused on conservation ecology either conducting research or working for a government agency.
