@@ -62,3 +62,6 @@ Please help us build this page of educational resources for teaching at the inte
 * [Our Planet / Higher Seas Full Episode](https://www.youtube.com/watch?v=9FqwhW0B3tY)
 * [Monterey Bay Aquarium Live Kelp Forest Cam](https://www.montereybayaquarium.org/animals/live-cams/kelp-forest-cam)
 * [Monterey Bay Aquarium Live Open Sea Cam](https://www.montereybayaquarium.org/animals/live-cams/open-sea-cam)
+
+{: .box-note}
+[Genece is Testing Soemthing](Educational Resources2.md)
