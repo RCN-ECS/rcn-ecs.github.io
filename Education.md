@@ -11,10 +11,12 @@ Please help us build this page of educational resources for teaching at the inte
 * [Where to Find Summer Camps for Kids](https://www.kidscamps.com/academics/marine_sciences.html)
 * [Fun Activities for Kids at School or Home](https://www.weareteachers.com/ocean-activities/)
 
+
 # Middle School (Grades 6-8)
 
 * [Zoos and Aquariums Near You](https://www.aza.org/search-by-zip-code) (*International)
 * [Marine Science Experiments](https://www.noaa.gov/education/resource-collections/special-topics/hands-on-science-activities)
+
 
 # High School Students (Grades 9-12)
 
@@ -31,6 +33,7 @@ Please help us build this page of educational resources for teaching at the inte
 * [Popular Univerities for Marine Science](https://www.helptostudy.com/best-marine-biology-colleges-in-the-world/) (*International)
 * [Find Your University](https://www.niche.com/colleges/search/best-colleges/) (*USA)
 
+
 # Undergraduate Level
 
 * [Learn How to Use R Software with Skillshare](https://www.skillshare.com/browse/r-programming)
@@ -41,6 +44,7 @@ Please help us build this page of educational resources for teaching at the inte
   * [Advanced Open Water (Intermediate Cert)](https://www.padi.com/courses/advanced-open-water)
   * [Divemaster (Advanced Cert)](https://www.padi.com/courses/divemaster)
 
+
 # Graduate Level or Upper Level Undergraduate
 
 * [A List of R Shiny Apps for Population and Ecological Genetics](https://docs.google.com/document/d/1lVqBRe0A9SO0ycIJc0RiI5xqHu28FF8xcNgL4rzQED8/edit)
@@ -50,6 +54,7 @@ Please help us build this page of educational resources for teaching at the inte
   * Recordings of panel discussions on genomic data analysis and other resources
 * [Fullbright U.S. Student Program](https://us.fulbrightonline.org/) (*Study/Research Projects Abroad)
 * [Find Your Grad Program](https://www.niche.com/?ref=graduate-schools) (*USA)
+
 
 # Fun Documentaries or Live Cameras to Watch
 
