@@ -142,6 +142,16 @@ trainee-list:
     instagram: https://www.instagram.com/nicola.g.tesla/
     linkedin: 
     email: mailto:nicfall@bu.edu
+  - name: Jay Krithivas
+    img: /img/people/Jay-Krithivas.png
+    desc: Undergraduate at Northeastern University. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Brook Moyers. Working towards Master's and Ph.D. degrees in Ecology centered on field research outside of the United States.
+    website: 
+    url: 
+    github: 
+    twitter: https://twitter.com/j_krithivas
+    instagram: 
+    linkedin: http://www.linkedin.com/in/jay-krithivas
+    email: mailto:krithivas.j@northeastern.edu
   - name: Anna Krylova
     img: /img/people/anna-krylova.png
     desc: Undergraduate at Northeastern University. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Alessia Dinoi. Exploring opportunities in the marine sciences with a goal of working for protection action for animals. 
