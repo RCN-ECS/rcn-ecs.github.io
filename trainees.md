@@ -22,6 +22,16 @@ trainee-list:
     instagram: https://www.instagram.com/taitthegreat98/
     linkedin: 
     email: mailto:tait.algayer@wsu.edu
+  - name: Mahsa Alidoostsalimi
+    img: /img/people/mahsa-alidoostsalimi.png
+    desc: Ph.D. student by research at the School of Geography, Earth, and Atmospheric Sciences at the University of Melbourne. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Marta Gomez-Chiarri. Pursuing a career in academia to continue research on aquatic diseases and develop a lab to combine paleoclimate research with genomic tools.
+    website: https://scholar.google.com/citations?hl=en&user=qJqM07UAAAAJ&view_op=list_works&sortby=pubdate
+    url: 
+    github: 
+    twitter: https://twitter.com/alidoostsalimi
+    instagram: 
+    linkedin: 
+    email: mailto:malidoostsal@student.unimelb.edu.au
   - name: Kiran Bajaj
     img: /img/Kiran Bajaj.png
     desc: Undergraduate at Northeastern University. Participated in the Virtual Lab Training Program in 2021-2022 with Dr. Emily Rivest. Pursuing a career focused on conservation ecology either conducting research or working for a government agency.
