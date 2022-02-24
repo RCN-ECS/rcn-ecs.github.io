@@ -92,6 +92,16 @@ trainee-list:
     instagram: https://www.instagram.com/margarett.cc/
     linkedin: https://www.linkedin.com/in/margaret-campbell-71262b1b4/
     email: mailto:margaret.c.campbell@maine.edu
+  - name: Su Chung
+    img: /img/people/sujung-chung.png
+    desc: Undergraduate at the University of California-Davis. Participated in Virtual Lab Training Program in 2021-2022 with Dr. Michael Kantor. Hoping to explore different options in marine and environmental science to get different perspectives and a well-rounded view on environmental issues.
+    website: 
+    url: 
+    github: https://github.com/SuJungChung
+    twitter: 
+    instagram: 
+    linkedin: https://www.linkedin.com/in/sujung-chung-06a0a412b/
+    email: mailto:sujung.2017@gmail.com
   - name: Matías Gómez-Corrales
     img: /img/Matias Gomez.png
     desc: Ph.D. student at University of Rhode Island. Participated in Virtual Lab Training Program in 2020-2021 with Dr. Daniel Bolnick. Pursuing a Ph.D. in evolutionary biology with a focus on marine invertebrates.
