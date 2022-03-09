@@ -63,3 +63,6 @@ Please help us build this page of educational resources for teaching at the inte
 * [Monterey Bay Aquarium Live Kelp Forest Cam](https://www.montereybayaquarium.org/animals/live-cams/kelp-forest-cam)
 * [Monterey Bay Aquarium Live Open Sea Cam](https://www.montereybayaquarium.org/animals/live-cams/open-sea-cam)
 
+
+{: .box-note}
+[Resources from RCN Labs](Educational Resources2.md)
