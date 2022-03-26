@@ -244,7 +244,7 @@ trainee-list:
     email: mailto:melissanaugle@gmail.com
   - name: Uzezi Okinedo
     img: /img/people/Uzezi-Okinedo.png
-    desc: Ph.D. student at University of Massachusetts. Participated in Virtual Lab training Program in 2021-2022 with Dr. Andrew Whitehead. Currently exploring how gene network connectivity affects local adaptations of endemic sunflowers.
+    desc: Research Technician in the Niyogi Lab at UC Berkeley. Pursing a career focused on wildlife conservation.
     website: 
     url: 
     github: 
@@ -252,6 +252,16 @@ trainee-list:
     instagram: https://www.instagram.com/uzezi_okinedo/
     linkedin: https://www.linkedin.com/in/uzezi-okinedo-978bb0110/
     email: mailto:Uzezi.Okinedo001@umb.edu
+  - name: Raquel Ponce
+    img: /img/people/Raquel-Ponce.png
+    desc: Master’s student at Texas A&M University. Participated in Virtual Lab training Program in 2021-2022 with Dr. Mikhail Matz. Pursuing a career in coral reef research and science communication.
+    website: https://themeaningofzoe.com/
+    url: 
+    github: 
+    twitter: https://twitter.com/itsraquelponce
+    instagram: 
+    linkedin: https://www.linkedin.com/in/raquel-ponce/
+    email: mailto:mrponce@ucdavis.edu
   - name: Zoe Ruben
     img: /img/people/Zoe-Ruben.png
     desc: Master’s student at Texas A&M University. Participated in Virtual Lab training Program in 2021-2022 with Dr. Mikhail Matz. Pursuing a career in coral reef research and science communication.
