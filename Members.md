@@ -548,17 +548,6 @@ title: Members
 
 
 
-{: .box-note}
-[Genece Testing - Members in Marine Biodiversity](Marine Biodiversity Test.md)
-
-{: .box-note}
-[Genece Testing - Members in Fishery Sciences](Fishery Sciences Test.md)
-
-{: .box-note}
-[Genece Testing - Members in Genomics](Members in Genomics Test.md)
-
-
-
 
 
 
