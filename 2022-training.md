@@ -70,4 +70,3 @@ Applications for the Integration and Training Workshop are due April 5.  [Apply 
  * 10:45 Arrive back to Portsmouth (315 Market Street, Portsmouth, NH 03801)
  * 11:00 Bus departing for Boston Logan International Airport
  * 11:00 SML van shuttling guests to vehicles at Portsmouth Transportation Center
-
