@@ -8,7 +8,7 @@ This workshop will be held at [Shoals Marine Laboratory](https://www.shoalsmarin
 Applications for the Integration and Training Workshop are due April 5.  [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSdeYz0-4oakHYKxiZV3zFkucaKC6VLoB-7-uBrN43v6iTzH4Q/viewform)
 
 
-# Tentative Schedule for the Training and Integration Workshop 2022
+# Tentative Schedule
 
 ## Tuesday August 16
 * 13:15 Guests arrive to Portsmouth Transportation Center 
