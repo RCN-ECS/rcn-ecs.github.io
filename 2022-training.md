@@ -7,3 +7,4 @@ This workshop will be held at [Shoals Marine Laboratory](https://www.shoalsmarin
 
 Applications for the Integration and Training Workshop are due April 5.  [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSdeYz0-4oakHYKxiZV3zFkucaKC6VLoB-7-uBrN43v6iTzH4Q/viewform)
 
+Link to our [tentative schedule](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/2022-training-schedule.md)
