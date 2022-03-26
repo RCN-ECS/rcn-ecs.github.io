@@ -244,7 +244,7 @@ trainee-list:
     email: mailto:melissanaugle@gmail.com
   - name: Uzezi Okinedo
     img: /img/people/Uzezi-Okinedo.png
-    desc: Research Technician in the Niyogi Lab at UC Berkeley. Pursing a career focused on wildlife conservation.
+    desc: P.h.D student at the University of Massachusetts, Boston. Participated in the Virtual Lab training program in 2021-2022 with Dr. Andrew Whitehead. Currently focused on publishing a paper that explores how gene network connectivity affects local adaptation of the Texas endemic silver leaf sunflowers. 
     website: 
     url: 
     github: 
@@ -254,7 +254,7 @@ trainee-list:
     email: mailto:Uzezi.Okinedo001@umb.edu
   - name: Raquel Ponce
     img: /img/people/Raquel-Ponce.png
-    desc: Master’s student at Texas A&M University. Participated in Virtual Lab training Program in 2021-2022 with Dr. Mikhail Matz. Pursuing a career in coral reef research and science communication.
+    desc: Research Technician in the Niyogi Lab at UC Berkeley. Pursing a career focused on wildlife conservation.
     website: https://themeaningofzoe.com/
     url: 
     github: 
