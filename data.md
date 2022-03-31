@@ -21,3 +21,7 @@ Please refer to the [code, models, and software page](https://www.bco-dmo.org/pa
 * Here is an example of what a Dataset Metadata Page looks like at BCO-DMO: "Pore water Geochemistry": https://www.bco-dmo.org/dataset/813166
 * They typically serve data in the order they are received and our submission queue can sometimes be weeks to months long.    Please take this into account when planning your dataset submissions in the future.
 * You can email them at info@bco-dmo.org.  If you think it would be helpful, they will set up a Zoom together to hash out a data submission plan together.
+
+# Link to Evolving Seas on BCO-DMO
+
+https://www.bco-dmo.org/project/872522
