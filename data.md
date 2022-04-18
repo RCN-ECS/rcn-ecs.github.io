@@ -3,7 +3,7 @@
 Synthesis activities conducted with RCN funds have generated new data in the form of simulations or metaanalyses. 
 To be complient with our NSF grant, these data are archived in a compliant manner at this site:
 
-##[Link to the Evolving Seas RCN on BCO-DMO](https://www.bco-dmo.org/project/872522)
+## [Link to the Evolving Seas RCN on BCO-DMO](https://www.bco-dmo.org/project/872522)
 
 # For RCN members: archiving data and code
 
