@@ -4,7 +4,7 @@ To be complient with our NSF grant, these data must be archived in a compliant m
 
 To achieve longer-term storage and open access after publication, data products will undergo final quality control checks and will then be archived an appropriate online repository.  Oceanographic data resulting from simulations, aggregated observations, or other types of synthesis products should be submitted to BCO-DMO (https://bco-dmo.org).  BCO-DMO stands for Biological and Chemical Oceanography Data Management Office. Non-oceanographic data, reports, and other gray literature can be submitted to generalist repositories like Dryad or Figshare.
 
-# [Link to Evolving Seas RCN on BCO-DMO](https://www.bco-dmo.org/project/872522)
+## [Visit data from the Evolving Seas RCN on BCO-DMO](https://www.bco-dmo.org/project/872522)
 
 
 ## First, please read these OCE Data Sharing resources:
