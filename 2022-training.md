@@ -62,7 +62,7 @@ Applications for attending the Integration and Training Workshop virtually are s
  * 07:30 Breakfast
  * 08:30 - 9:30 Panel discussion 
    * Marine conservation - challenges and prospects for integrating genomic data/evolutionary perspectives 
-     * Moderator: waiting for confirmation
+     * Moderator: Jon Puritz
      * Panelists: Diana Baetscher, Misha Matz, Steven Roberts
  * 09:30 - 10:00 Presentation - How to fund (interdisciplinary) collaborations, Dan Thornhill (NSF) 
  * 10:00 coffee break
