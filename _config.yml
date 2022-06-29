@@ -32,7 +32,9 @@ navbar-links:
     - Members: "Members"
     - Steering and Diversity Committees: "steering"
     - RCN Trainees: "trainees"
-  Education: "Education"
+  Education: 
+    - RCN Education Modules: "Education"
+    - Resources: "EducationalResources2"
   Data: "data"
   Current Activities: 
     - Coordinated readings: "coord_readings"
