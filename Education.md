@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Educational Resources
+title: Educational Resources from RCN Labs
 ---
 
 Please help us build this page of educational resources for teaching at the intersection of marine and evolutionary science. We are particularly interested in teaching materials that feature or highlight research being done by people from diverse backgrounds.
