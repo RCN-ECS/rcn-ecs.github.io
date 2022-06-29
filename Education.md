@@ -36,4 +36,4 @@ Please help us build this page of educational resources for teaching at the inte
   * You-tube recordings of 2021 seminar series and other resources
 * [The webpage for the marine-omics working group](https://marineomics.github.io/)
   * Recordings of panel discussions on genomic data analysis and other resources
-* 
+* [The webpages for Kelp and Urchin Genomics as a Gateway to Bioinformatics: Teaching Materials]
