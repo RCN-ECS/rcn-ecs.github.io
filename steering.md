@@ -50,13 +50,6 @@ steering-list:
     url: https://dornsife.usc.edu/cf/bisc/faculty_display.cfm?Person_ID=1016828
     twitter:  https://twitter.com/DrCarlsHorn
     github: https://github.com/ckenkel
-  - name: Andy Kern
-    img: /img/people/andy_kern.jpg
-    desc:  Population genomicist with expertise in humans, fruit flies, and plants. Associate Professor in the Department of Biology at the University of Oregon.
-    website:  http://kernlab.rutgers.edu/index.html
-    url:  http://kernlab.rutgers.edu/index.html
-    twitter:  https://twitter.com/pastramimachine
-    github:    https://github.com/kern-lab
   - name: John Largier
     img: /img/people/largier.jpg
     desc:  Studies the role of transport in ocean, bay, nearshore and estuarine waters. University of California, Davis. Professor Department of Environmental Science and Policy, and the Bodega Marine Laboratory Associate Director of Research, Coastal & Marine Sciences Institute
@@ -93,12 +86,12 @@ steering-list:
     twitter: 
     github: http://github.com/HuijieXue
 diversity-list:
-  - name: Molly Albecker 
-    img: /img/people/molly-albecker.png
-    desc:  RCN postdoc at Northeastern University's Department of Marine and Environmental Sciences.
-    website: https://www.mollyalbecker.com/
+  - name: Remy Gatins
+    img: /img/people/remy.jpg
+    desc:  NSF Postdoc at Northeastern University's Department of Marine and Environmental Sciences.
+    website: https://remygatins.wordpress.com/
     url: 
-    twitter: http://twitter.com/molly_albecker
+    twitter: https://twitter.com/remygatins/photo
     github:
   - name: Moises Bernal
     img: /img/people/moises-bernal.jpg
