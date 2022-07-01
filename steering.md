@@ -87,7 +87,7 @@ steering-list:
     github: http://github.com/HuijieXue
 diversity-list:
   - name: Remy Gatins
-    img: /img/people/remy.jpg
+    img: /img/people/remy.jpeg
     desc:  NSF Postdoc at Northeastern University's Department of Marine and Environmental Sciences.
     website: https://remygatins.wordpress.com/
     url: 
