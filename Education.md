@@ -37,3 +37,5 @@ Please help us build this page of educational resources for teaching at the inte
 * [The webpage for the marine-omics working group](https://marineomics.github.io/)
   * Recordings of panel discussions on genomic data analysis and other resources
 * [The webpages for Kelp and Urchin Genomics as a Gateway to Bioinformatics: Teaching Materials]
+* Marine Genomics and Bioinformatics Course
+ * We have two versions of the Marine Genomics course available for use by the community and have made the materials accessible to both instructors as well as students. One version covers a [semester (15 weeks) worth of material](https://baylab.github.io/MarineGenomicsSemester/) and the other covers a [quarter (10 weeks) of material](https://baylab.github.io/MarineGenomics/)
