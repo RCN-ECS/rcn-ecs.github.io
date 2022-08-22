@@ -5,6 +5,15 @@ To be complient with our NSF grant, these data are archived in a compliant manne
 
 ## [Link to the Evolving Seas RCN on BCO-DMO](https://www.bco-dmo.org/project/872522)
 
+# Data sharing agreements
+
+We encourage RCN working groups to share author guidelines, collaboration agreements, and data sharing agreements. The following examples are from Allie Cramer for the "Spatial and Genomic Connectivity" Working Group.
+
+    * [Authorship Guidelines](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/Authorship_Guidelines.docx?raw=true) This document is shared with collaborators at the beginning of the project and clarifies that authorship requires contributions in more than one category.
+      * [Author Contributions](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/Author_Contributions.docx?raw=true) This document is shared toward the end of the project and asks authors to describe their contributions in each category.
+      * [Collaboration Agreement](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/Collaboration_Agreement.docx?raw=true) This document outlines policy for collaboration and adding new collaborators.
+      * [Data Sharing Agreement](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/DataSharingAgreement_notsigned.docx?raw=true) This is an example data sharing agreement between two working groups.
+
 # For RCN members: archiving data and code
 
 To achieve longer-term storage and open access after publication, data products will undergo final quality control checks and will then be archived an appropriate online repository.  Oceanographic data resulting from simulations, aggregated observations, or other types of synthesis products should be submitted to BCO-DMO (https://bco-dmo.org).  BCO-DMO stands for Biological and Chemical Oceanography Data Management Office. Non-oceanographic data, reports, and other gray literature can be submitted to generalist repositories like Dryad or Figshare.
