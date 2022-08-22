@@ -9,10 +9,10 @@ To be complient with our NSF grant, these data are archived in a compliant manne
 
 We encourage RCN working groups to share author guidelines, collaboration agreements, and data sharing agreements. The following examples are from Allie Cramer for the "Spatial and Genomic Connectivity" Working Group.
 
-    * [Authorship Guidelines](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/Authorship_Guidelines.docx?raw=true) This document is shared with collaborators at the beginning of the project and clarifies that authorship requires contributions in more than one category.
-      * [Author Contributions](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/Author_Contributions.docx?raw=true) This document is shared toward the end of the project and asks authors to describe their contributions in each category.
-      * [Collaboration Agreement](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/Collaboration_Agreement.docx?raw=true) This document outlines policy for collaboration and adding new collaborators.
-      * [Data Sharing Agreement](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/DataSharingAgreement_notsigned.docx?raw=true) This is an example data sharing agreement between two working groups.
+* [Authorship Guidelines](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/Authorship_Guidelines.docx?raw=true) This document is shared with collaborators at the beginning of the project and clarifies that authorship requires contributions in more than one category.
+* [Author Contributions](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/Author_Contributions.docx?raw=true) This document is shared toward the end of the project and asks authors to describe their contributions in each category.
+* [Collaboration Agreement](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/Collaboration_Agreement.docx?raw=true) This document outlines policy for collaboration and adding new collaborators.
+* [Data Sharing Agreement](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/DataSharingAgreement_notsigned.docx?raw=true) This is an example data sharing agreement between two working groups.
 
 # For RCN members: archiving data and code
 
