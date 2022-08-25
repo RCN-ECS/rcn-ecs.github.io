@@ -10,7 +10,7 @@ use-site-title: true
 
 
 {: .box-note}
-We are a network of marine scientists, evolutionary biologists, and oceanographers working to develop integrated frameworks for studying adaptation to ocean change.
+We are a network of marine scientists, evolutionary biologists, and oceanographers working to develop integrated frameworks for studying adaptation to ocean change. Read [this article for more information on how we ran our RCN](HowWeRanECSRCN.md).
 
 <p align="center">
  We are grateful to the National Science Foundation for funding our network activities. The Research Coordination Network for Evolution in Changing Seas is funded by NSF-OCE 1764316.
