@@ -23,6 +23,8 @@ description: A research coordinated network funded by the National Science Found
 
 # List of links in the navigation bar
 navbar-links:
+  How we ran the RCN: 
+    - How we ran the RCN: "HowWeRanECSRCN"
   Diversity:
     - Anti-racism statement: "Antiracism"
     - Diversity, Equity, and Inclusion: "DEI"
