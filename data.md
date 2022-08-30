@@ -13,6 +13,7 @@ We encourage RCN working groups to share author guidelines, collaboration agreem
 * [Author Contributions](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/Author_Contributions.docx?raw=true) This document is shared toward the end of the project and asks authors to describe their contributions in each category.
 * [Collaboration Agreement](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/Collaboration_Agreement.docx?raw=true) This document outlines policy for collaboration and adding new collaborators.
 * [Data Sharing Agreement](https://github.com/RCN-ECS/rcn-ecs.github.io/blob/master/rcn_files/DataSharingAgreement_notsigned.docx?raw=true) This is an example data sharing agreement between two working groups.
+* [A blog post with more considerations and Scope of Work Agreements](https://twitter.com/DanielBolnick/status/1562270749100048384)
 
 # For RCN members: archiving data and code
 
