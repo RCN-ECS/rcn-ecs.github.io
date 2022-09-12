@@ -25,7 +25,7 @@ This workshop will was held at [Shoals Marine Laboratory](https://www.shoalsmari
     * Panelists: Molly Albecker, Katie Lotterhos, Matthew Sasaki
 * Panel discussion [Audio Link](https://youtu.be/3ozX5_1TFyM)
    * Synthesizing across data sources (focused on genomics data)
-      * Moderator Joanna Kelley 
+      * Moderator Sarah Gignoux-Wolfsohn
       * Panelists: Sam Bogan, Nina Therkildsen, John Wares  
 * Maddie Armstrong and Serena Caplins - Teaching bioinformatics to undergraduate and graduate students [Video link](https://youtu.be/3ozX5_1TFyM?t=3988)
 * Amanda Xuereb - Modeling evolution in marine systems [Video link](https://youtu.be/3ozX5_1TFyM?t=5568)
