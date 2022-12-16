@@ -28,6 +28,7 @@ navbar-links:
   Diversity:
     - Anti-racism statement: "Antiracism"
     - Diversity, Equity, and Inclusion: "DEI"
+    - RCN Trainees: "trainees"
   Membership:
     - How to join: "howtojoin"
     - Who we are: "WhoWeAre"
@@ -41,15 +42,15 @@ navbar-links:
   Current Activities: 
     - Coordinated readings: "coord_readings"
     - Working Groups: "WorkingGroups"
-    - 2021 Virtual Lab Meeting Training Program: "2021virtuallabcall"
-    - 2022 Training and Integration: "2022-training"
-    - RCN mentees: "RCNmentees"
+    - Virtual Lab Meeting Training Program: "VLMTP"
   Previous Activities:
     - 2019 Synthesis Workshop: "2019-workshop"
     - 2020 Genomics Workshop (canceled): "2020-genomics"
     - 2020 Junior Research Exchanges: "2020-ProfDevExchanges"
     - 2020 Call for new working groups: "2021WorkingGroupsCall"
     - 2020 Virtual lab meeting training program: "2020virtuallabcall"
+    - 2021 Virtual Lab Meeting Training Program: "2021virtuallabcall"
+    - 2022 Training and Integration Workshop: "2022-training"
    
   Newsfeed: "blog"
   Contact Us: "contactus"
