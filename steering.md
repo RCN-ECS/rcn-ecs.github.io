@@ -8,7 +8,6 @@ pi-list:
     website: https://sites.google.com/site/katielotterhos/home
     url: https://cos.northeastern.edu/faculty/katie-lotterhos/
     github: http://github.com/drk-lo
-    twitter: https://twitter.com/drk_lo
   - name: Dan Bolnick
     img: /img/people/dan-bolnick.jpg
     desc: Evolutionary ecologist who weaves together behavior, immunology, and genetics. Professor at the University of Conneticut.
@@ -86,6 +85,12 @@ steering-list:
     twitter: 
     github: http://github.com/HuijieXue
 diversity-list:
+  - name: Katie Lotterhos (Committee Chair)
+    img: /img/people/katie-lotterhos-sq.png
+    desc: Statistical genomicist and molecular ecologist. Assistant Professor at Northeastern University's Department of Marine and Environmental Sciences.
+    website: https://sites.google.com/site/katielotterhos/home
+    url: https://cos.northeastern.edu/faculty/katie-lotterhos/
+    github: http://github.com/drk-lo
   - name: Remy Gatins
     img: /img/people/remy.jpeg
     desc:  NSF Postdoc at Northeastern University's Department of Marine and Environmental Sciences.
@@ -128,13 +133,6 @@ diversity-list:
     url: https://manoa.hawaii.edu/biology/graduate_students/claire-lewis
     twitter: 
     github:
-  - name: Katie Lotterhos (PI)
-    img: /img/people/katie-lotterhos-sq.png
-    desc: Statistical genomicist and molecular ecologist. Assistant Professor at Northeastern University's Department of Marine and Environmental Sciences.
-    website: https://sites.google.com/site/katielotterhos/home
-    url: https://cos.northeastern.edu/faculty/katie-lotterhos/
-    github: http://github.com/drk-lo
-    twitter: https://twitter.com/drk_lo- 
   - name: Megan Phifer-Rixey
     img: /img/people/megan-rixey.png
     desc:  Asssistant Professor at Monmouth University
