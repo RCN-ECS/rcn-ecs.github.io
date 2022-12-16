@@ -23,5 +23,5 @@ We have advanced diversity and inclusion in our network through the following in
 - **Paid Stipends to Junior Trainees** All junior trainees conducting synthesis activities on working groups are eligible to apply for stipends for their work and we have minimum stipend rates.
 
 # RCN Trainees
-Meet some of the junior members of our network! https://rcn-ecs.github.io/trainees/
+Check out the amazing group of [RCN Trainees](https://rcn-ecs.github.io/trainees/) who have participated in this program or other working group activities. We created this page for them to help raise their profile in the field.
 
