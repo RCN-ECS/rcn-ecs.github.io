@@ -38,7 +38,7 @@ As a "reward" for fully participating in the readings, we have some snazzy stick
 
 Please contact [Nicolas Lou](nicolas931010@berkeley.edu) if you encounter problems with Slack or accessing any of the readings.
 
-![IMG_20230117_112826106](https://user-images.githubusercontent.com/6870125/212956490-e37cea04-a6c3-4021-a894-3ea2ad2d0c0a.jpg)
+<img src="https://user-images.githubusercontent.com/6870125/212956490-e37cea04-a6c3-4021-a894-3ea2ad2d0c0a.jpg" width="100" height="100">
 
 #### Live discussion / RCN Happy Hour
 
