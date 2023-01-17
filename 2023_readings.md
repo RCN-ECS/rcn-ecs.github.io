@@ -38,6 +38,8 @@ As a "reward" for fully participating in the readings, we have some snazzy stick
 
 Please contact [Nicolas Lou](nicolas931010@berkeley.edu) if you encounter problems with Slack or accessing any of the readings.
 
+![IMG_20230117_112826106](https://user-images.githubusercontent.com/6870125/212956490-e37cea04-a6c3-4021-a894-3ea2ad2d0c0a.jpg | width=200)
+
 #### Live discussion / RCN Happy Hour
 
 In addition to interactions over Slack and within your discussion group, we are planning on conducting a series of RCN "happy hours" over Zoom with opportunities for larger discussions and interaction with paper authors and practitioners involved in implementing the strategies discussed in the readings. An introductory happy hour is tentatively planned for 5:30 PM EST on Feb 9, 2023. We realize that finding a single time that works for all will be difficult, and any presentations or panel discussiobs will also be recorded and made available to watch asynchronously.
