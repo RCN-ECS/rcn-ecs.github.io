@@ -32,7 +32,14 @@ Matthew Sasaki, Brian Cheng, Sarah Gignoux-Wolfsohn, Cynthia Hays, Morgan Kelly,
 **Goals:** To explore intra-specific differences in thermal limits in marine, intertidal, freshwater, and terrestrial taxa, and to compare the scaling of those differences between realms, using geographic distance and environmental differences as our moderators. 
 We have surveyed the literature on adaptive divergence of upper and lower thermal limits, and compiled a list of papers that meet our requirements for inclusion. We have made significant progress towards extracting data from the complete collection of >60 papers. We have generated code that calculates geographic distance between populations, extracts environmental data for each site from commonly used temperature databases, and analyzes/visualizes the data.
 
-Product: [Limited plasticity in thermally tolerant ectotherm populations: evidence for a trade-off](https://doi.org/10.1098/rspb.2021.0765) Published 2021 in Proceedings of the Royal Society B 
+Products: 
+
+[Limited plasticity in thermally tolerant ectotherm populations: evidence for a trade-off](https://doi.org/10.1098/rspb.2021.0765) Published 2021 in Proceedings of the Royal Society B 
+
+Sasaki, M., J.M. Barley, S. Gignoux-Wolfsohn, C.G. Hays, M.W. Kelly, A.B. Putnam, S. N. Sheeth, A.R. Villeneuve, B.S. Cheng. (2022) [Greater evolutionary divergence of thermal limits within marine than terrestrial species](https://www.nature.com/articles/s41558-022-01534-y). Nature Climate Change 12:1175-1180 
+
+Sasaki, M. and B.S. Cheng. (2022) [Populations adapt more to temperature in the ocean than on land](https://www.nature.com/articles/s41558-022-01535-x).
+Nature Climate Change 12: 1098-1099. Research Briefing
 
 ### Modeling evolution in marine systems
 
@@ -49,13 +56,24 @@ Gideon Bradburd, Reid Brennan, Joanna Kelley, Misha Matz, Jamie Pringle, Cynthia
 
 **Goals:** The goal of the working group is to quantify patterns of genetic diversity and divergence in marine organisms and understand the biotic and abiotic processes that drive them.  To accomplish this goal, we are taking a data synthesis approach, aggregating publicly available, georeferenced, next-generation sequence datasets for marine species, as well as biotic trait data for those species and oceanographic data for the areas in which they were sampled.  Taken together, these data will allow us to integrate across scales both temporally (micro- to macroevolution) – and spatially (local to global) to test hypotheses about what biotic and abiotic factors predict genomic diversity and divergence in marine ecosystems.
 
+Products:
+
+Toczydlowski, R. H. et al. Poor data stewardship will hinder global
+ genetic diversity surveillance. PNAS 118, e2107934118 (2021).
+ https://doi.org/10.1073/pnas.2107934118
+
+Crandall, E. D. et al. Metadata preservation and stewardship for
+ genomic data is possible, but must happen now. 2022.09.12.507034
+ Preprint at https://doi.org/10.1101/2022.09.12.507034 (2022). (Now
+ accepted at ConBio)
+
 ### Metaanalysis of gradient variation
 
 Molly Albecker, Geoff Trussell, Katie Lotterhos
 
 **Goals:** The goal of this working grooup is to quantify co-gradient and counter-gradient variation (covariance between phenotypic and genetic effects on phenotypes) from common garden and reciprocal transplant experiments, and conduct a metaanalysis to determine how common are patterns of gradient variation in the literature, compared to genetic x environment interactions.
 
-Product: [A novel analytical framework to quantify co-gradient and countergradient variation](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14020)
+Product: [A novel analytical framework to quantify co-gradient and countergradient variation] (https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14020) Published in Ecology Letters.
 
 ## Working groups formed in 2021
 
