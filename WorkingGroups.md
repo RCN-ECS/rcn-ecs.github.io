@@ -62,10 +62,7 @@ Toczydlowski, R. H. et al. Poor data stewardship will hinder global
  genetic diversity surveillance. PNAS 118, e2107934118 (2021).
  https://doi.org/10.1073/pnas.2107934118
 
-Crandall, E. D. et al. Metadata preservation and stewardship for
- genomic data is possible, but must happen now. 2022.09.12.507034
- Preprint at https://doi.org/10.1101/2022.09.12.507034 (2022). (Now
- accepted at ConBio)
+Eric D. Crandall, Rachel H. Toczydlowski, Libby Liggins, Ann E. Holmes, Maryam Ghoojaei, Michelle R. Gaither, Briana E. Wham, Andrea L. Pritt, Cory Noble, Tanner J. Anderson, Randi L. Barton, Justin T. Berg, Sofia G. Beskid, Alonso Delgado, Emily Farrell, Nan Himmelsbach, Samantha R. Queeno, Thienthanh Trinh, Courtney Weyand, Andrew Bentley, John Deck, Cynthia Riginos, Gideon S. Bradburd, Robert J. Toonen. **[Importance of timely metadata curation to the global surveillance of genetic diversity](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.14061?af=R)** Conservation Biology, 2023.
 
 ### Metaanalysis of gradient variation
 
