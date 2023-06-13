@@ -82,11 +82,15 @@ René Clark, Brendan Reid, Anthony Snead, Katrina Catalano, Kyra Fitz, Eric Garc
 
 Website: [Temporal Genomics](https://tempgenomics-rcn.github.io/website/)
 
+[René D. Clark, Katrina A. Catalano, Kyra S. Fitz, Eric Garcia, Kyle E. Jaynes, Brendan N. Reid, Allyson Sawkins, Anthony A. Snead, John C. Whalen, Malin L. Pinsky. 2023. The practice and promise of temporal genomics for measuring evolutionary responses to global change. Molecular Ecology Resources](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13789)
+
 ### Do spatial and genomic estimates of connectivity agree?
 
 Alli Cramer, Jennifer Hoey, Eric Palkovacs, Carlos Garza, Cynthia Valadon, Remy Gatins, and Jason Toy
 
 **Goals:** Dispersal is an important process both on intra- and inter-generational timescales, but understanding how individual movement translates into genetic population structure and connectivity remains an active area of research. The goal of the working group is to bring researchers in the fields of population genomics and spatial ecology together to understand  how individual dispersal patterns are reflected in genomic population structure. We will pair genomic population structure data with detailed physical tagging data for a few species representing a diversity of movement ecologies. Using the SLiM framework, we will develop simulations that approximate species’ movement ecologies based on the physical tagging and genetic data in order to understand the predicted genomic population structure resulting from each dispersal scenario. We will then compare observed population structure with simulation results, and iteratively vary movement attributes to see how they impact agreement between simulations and measured data. To bridge the gap between population connectivity estimates from the perspectives of population genomics and spatial ecology we must reconcile different definitions of connectivity and the influence of different data types on common connectivity estimations. Identifying a common framework for unifying these branches of population research will allow for increased syntheses of disparate data types and ultimately an increased understanding of population dynamics and the distribution of genetic diversity across the sea.
+
+[Alli N. Cramer, Jennifer A. Hoey, Tara E. Dolan, Remy Gatins, Jason A. Toy, Jordan L. Chancellor, Eric P. Palkovacs, John Carlos Garza and Roxanne S. Beltran. 2023. A unifying framework for understanding ecological and evolutionary population connectivity. Frontiers in Ecology and Evolution.](https://www.frontiersin.org/articles/10.3389/fevo.2023.1072825/full)
 
 ### MarineOmics
 
