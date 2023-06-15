@@ -118,7 +118,7 @@ Serena Caplins, Maddie Armstrong, Rachael Bay, Vanessa Guerra, Michael Dawson, P
 
 **Goals:** Modern evolutionary genetics relies on the manipulation of increasingly large datasets necessitating training in computer programming. The utility of this training is not always clear to marine science majors and opportunities for training in computer science are often inequitable. Our working group will train undergraduates to do bioinformatics over a 10-week long workshop, which will showcase clear and exciting application of bioinformatic tools to the most compelling questions in marine evolutionary biology. We will recruit several students from the workshop to apply their training in a novel population genetic analysis of two iconic species from the California coast, purple urchin and giant kelp. We will make course notes that are easy to understand and implement from the workshop available to the RCN community and the broader scientific community. 
 
-website: [Bioinformatics for Marine Science](https://baylab.github.io/MarineGenomics/week-1-welcome.html)
+website: [Bioinformatics for Marine Science](https://baylab.github.io/MarineGenomics/) 
 
 
 ### Blinded by the Wright? Prevalence of adaptive divergence in phenotypic traits at microgeographic scales
