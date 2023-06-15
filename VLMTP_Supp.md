@@ -9,7 +9,7 @@ Here are a list of useful documents for running a virtual lab meeting training p
 - [Example Website (2022)](https://rcn-ecs.github.io/2021virtuallabcall/)
 
 - Example Forms
-  - [Example form for mentor sign up]
-  - [Example form for mentee sign up]
--  [Expectations for mentors]
+  - [Example form for mentor sign up](VLMTP_MentorApp.pdf)
+  - [Example form for mentee sign up](VLMTP_MenteeApp.pdf)
+-  [Expectations for mentors](VLMTP_MentorExpectations.pdf)
 -  [Google Sheets template for matching mentors to mentees]
