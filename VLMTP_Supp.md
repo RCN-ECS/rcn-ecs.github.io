@@ -2,7 +2,7 @@
 
 Here are a list of useful documents for running a virtual lab meeting training program:
 
-- [Overview, Timeline, and Responsibilities](VLMTPCommitteePlan.docx). This document contains examples of:
+- [VLMTP Committee Plan](VLMTPCommitteePlan.docx). This document outlines the timeline and committee responsibilities, and contains examples of:
   - an introductory email to recruit Mentors
   - an email to recruit students
   - example email to match mentees and mentors
