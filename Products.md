@@ -1,4 +1,5 @@
-# Products from the Research Coordinated Network for Evolution in Changing Seas
+# Products
+From the Research Coordinated Network for Evolution in Changing Seas
 
 ## Websites
 
