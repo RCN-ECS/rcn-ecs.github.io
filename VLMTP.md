@@ -14,3 +14,7 @@ Check out the amazing group of [RCN Trainees](https://rcn-ecs.github.io/trainees
 
 2022-23 Virtual Lab Meeting Training Program is being run through a grant from the Society of Molecular Biology and Evolution
 
+## Run your own virtual lab meeting training program!
+
+[We put together everything you need to run a virtual lab meeting training program. We will be very excited if you run a similar program!](VLMTP_Supp.md)
+
