@@ -12,4 +12,4 @@ Here are a list of useful documents for running a virtual lab meeting training p
   - [Example form for mentor sign up](VLMTP_MentorApp.pdf)
   - [Example form for mentee sign up](VLMTP_MenteeApp.pdf)
 -  [Expectations for mentors](VLMTP_MentorExpectations.pdf)
--  [Google Sheets template for matching mentors to mentees]
+-  [Google Sheets template for matching mentors to mentees](https://docs.google.com/spreadsheets/d/12h3KA47oMljLODyLQZ9QuTzr12Duk8R_3o_JFoOiF7k/edit#gid=886632817)
