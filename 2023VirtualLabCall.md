@@ -27,7 +27,8 @@ Approved applicants will receive a $500 stipend (see information on eligibility 
 
 * Mentors may be Faculty, Postdoctoral Fellows, or Research Associates - as long as lab meetings can be dedicated to the mentees professional development.
 * If you haven't yet, please [sign up to be a member of the RCN](https://rcn-ecs.github.io/howtojoin/). It's as simple as filling out a form and signing up for our listserv!
-* Please use [the RCN lab meeting mentor sign-up form](https://docs.google.com/forms/d/11W6UjTM2U4djtDfsmc94O4qNMkQwdYQW-lDxjpmoqlk/edit) to sign up to be a mentor for this program before Sept 15. 
+* Read about our [expectations for mentors](https://docs.google.com/document/d/19k0EkUVN0ziafsAL3ER3gGNoQbS_IWQ7odKY0QXjbxU)
+* Please use [the RCN lab meeting mentor sign-up form](https://docs.google.com/forms/d/11W6UjTM2U4djtDfsmc94O4qNMkQwdYQW-lDxjpmoqlk) to sign up to be a mentor for this program before Sept 15. 
 * Mentor applications are due August 30 (two weeks before mentee applications are due).
 * PIs that sign up will agree to invite the matched applicant to join 10 lab meetings and at least parts of 2 lab meetings will be devoted to professional development of the applicant by May 2024. 
 
