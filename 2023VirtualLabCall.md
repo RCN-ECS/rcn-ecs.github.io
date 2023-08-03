@@ -16,7 +16,7 @@ could take the form of review of graduate school or grant application statements
 research presentation at lab meeting, lead paper discussion at lab meeting, etc.
 
 ### The following are requirements for program completion:
-- Attendence at 10 lab meetings with portions of 2 lab meetings dedicated to mentee's professional development before May 2022, 
+- Attendence at 10 lab meetings with portions of 2 lab meetings dedicated to mentee's professional development before May 2024, 
 - Monthly participation in professional development discussions in a Slack Channel
 
 ### Stipend
@@ -27,9 +27,9 @@ Approved applicants will receive a $500 stipend (see information on eligibility 
 
 * Mentors may be Faculty, Postdoctoral Fellows, or Research Associates - as long as lab meetings can be dedicated to the mentees professional development.
 * If you haven't yet, please [sign up to be a member of the RCN](https://rcn-ecs.github.io/howtojoin/). It's as simple as filling out a form and signing up for our listserv!
-* Please use [the RCN lab meeting mentor sign-up form](TO DO) to sign up to be a mentor for this program before Sept 15. 
-* Mentor applications are due Sept 15 (two weeks before mentee applications are due).
-* PIs that sign up will agree to invite the matched applicant to join 10 lab meetings and at  least parts of 2 lab meetings will be devoted to professional development of the applicant by May 2022. 
+* Please use [the RCN lab meeting mentor sign-up form](https://docs.google.com/forms/d/11W6UjTM2U4djtDfsmc94O4qNMkQwdYQW-lDxjpmoqlk/edit) to sign up to be a mentor for this program before Sept 15. 
+* Mentor applications are due August 30 (two weeks before mentee applications are due).
+* PIs that sign up will agree to invite the matched applicant to join 10 lab meetings and at least parts of 2 lab meetings will be devoted to professional development of the applicant by May 2024. 
 
 ## Information for applicants
 
