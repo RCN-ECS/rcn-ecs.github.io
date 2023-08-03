@@ -65,11 +65,11 @@ encourage them to sign up with [the RCN lab meeting mentor sign-up form](TO DO).
   * a description of how their participation in this program will help to increase diversity (broadly defined) within the network
 * A CV or resume
 
-**Step 4:** Fill out the application at [the RCN lab meeting application form](TO DO)
+**Step 4:** Fill out the application at [the RCN lab meeting application form] (This link will be made available on Sept 1.)
 
 If you have trouble submitting the application with the google form, email evolvingseas@gmail.com
 
-Applications are due Sept. 30, 2023. Lab meetings will take place between October 2023 and May 2024.
+Applications are due Sept. 15, 2023. Lab meetings will take place between October 2023 and May 2024.
 
 In the application, mentees will choose their top 3-4 choices for a mentor. The RCN will attempt to match applicants with their preferred mentor.
 
