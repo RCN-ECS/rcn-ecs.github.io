@@ -12,7 +12,13 @@ From the Research Coordinated Network for Evolution in Changing Seas
 
 ## Peer-reviewed Publications
 
+### 2024
+
+Lotterhos KE✝, Bernal MA✝, Phifer-Rixey M✝, Hanley T✝. [Lighting pathways to success in STEM: A virtual Lab Meeting Program (LaMP) mutually benefits mentees and host labs.](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.0149) Proceedings of the Royal Society B: Biological Sciences. A Biological Practices Paper. 
+
 ### 2023
+
+Bogan S, Johns J, Griffiths J, Davenport D, Smith S, Schaal S*, Downey-Wall A*, Lou N, Lotterhos KE, Guidry M, Rivera H, McGirr J, Puritz JB, Roberts S, Silliman K. 2023. [A dynamic web resource for robust and reproducible genomics in nonmodel species: marineomics.io.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14219) Methods in Ecology and Evolution 14:2709-2716.
 
 Eric D. Crandall, Rachel H. Toczydlowski, Libby Liggins, Ann E. Holmes, Maryam Ghoojaei, Michelle R. Gaither, Briana E. Wham, Andrea L. Pritt, Cory Noble, Tanner J. Anderson, Randi L. Barton, Justin T. Berg, Sofia G. Beskid, Alonso Delgado, Emily Farrell, Nan Himmelsbach, Samantha R. Queeno, Thienthanh Trinh, Courtney Weyand, Andrew Bentley, John Deck, Cynthia Riginos, Gideon S. Bradburd, Robert J. Toonen. [Importance of timely metadata curation to the global surveillance of genetic diversity](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.14061?af=R) Conservation Biology, 2023.
 
