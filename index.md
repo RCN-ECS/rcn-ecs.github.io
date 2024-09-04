@@ -13,13 +13,11 @@ use-site-title: true
 We are a network of marine scientists, evolutionary biologists, and oceanographers working to develop integrated frameworks for studying adaptation to ocean change. Read [this article for more information on how we ran our RCN](HowWeRanECSRCN.md).
 
 <p align="center">
- We are grateful to the National Science Foundation for funding our network activities. The Research Coordination Network for Evolution in Changing Seas is funded by NSF-OCE 1764316.
+ We are grateful to the National Science Foundation for funding our network activities. The Research Coordination Network for Evolution in Changing Seas was funded by NSF-OCE 1764316 from 2019 to 2024.
  <br><br>
   <img src="/img/Nsf-logo.png" style="width:100px;height:100px;">
 </p>
 
-{: .box-note}
-**Keywords:** coupling oceanographic and evolutionary processes, local adaptation and maladaptation, co- and counter-gradient variation, adaptive and maladative plasticity, evolution of function-valued traits, epigenetics and transgenerational plasticity
 
 {: .box-note}
 [Anti-Racism Statement](Antiracism.md)
