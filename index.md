@@ -82,8 +82,7 @@ all, he was kind, generous, humble, and compassionate.
 
 Eric made us all into better scientists and better human beings. It is fitting and
 unsurprising that much of his scientific work was in service of outcomes much larger
-than his own research agenda. A GoFundMe
-[https://www.gofundme.com/f/in-memory-of-dr-eric-crandall&gt;] site has been created in
+than his own research agenda. A [GoFundMe](https://www.gofundme.com/f/in-memory-of-dr-eric-crandall&gt;) site has been created in
 Eric’s memory to support the Towards a More Inclusive Science Life Sciences
 initiative at Penn State.
 
