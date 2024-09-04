@@ -39,12 +39,10 @@ navbar-links:
     - RCN Education Modules: "Education"
     - Resources: "EducationalResources2"
   Data: "data"
-  Current Activities: 
+  Previous Activities:
     - Coordinated readings: "coord_readings"
     - Working Groups: "WorkingGroups"
     - Virtual Lab Meeting Training Program: "VLMTP"
-    - 2023 Virtual Lab Meeting Training Program: "2023VirtualLabCall"
-  Previous Activities:
     - 2019 Synthesis Workshop: "2019-workshop"
     - 2020 Genomics Workshop (canceled): "2020-genomics"
     - 2020 Junior Research Exchanges: "2020-ProfDevExchanges"
@@ -52,6 +50,7 @@ navbar-links:
     - 2020 Virtual lab meeting training program: "2020virtuallabcall"
     - 2021 Virtual Lab Meeting Training Program: "2021virtuallabcall"
     - 2022 Training and Integration Workshop: "2022-training"
+    - 2023 Virtual Lab Meeting Training Program: "2023VirtualLabCall"
    
   Newsfeed: "blog"
   Contact Us: "contactus"
