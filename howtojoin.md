@@ -11,13 +11,6 @@ We will use the listserv to send updates about activities.
 
 <a href="https://listserv.neu.edu/cgi-bin/wa?SUBED1=RCN-ECS&A=1" target="_blank">Click here to manage your listserv membership</a>
 
-### 3) Follow us on twitter [@EvolvingSeas](https://twitter.com/evolvingseas)
-
-We'd also love to showcase your artwork or photos on our website, especially if it aligns with the themes of the network. Send your submissions to evolvingseas@gmail.com
-
-### 4) Join the Slack channel
-
-To join the channel please [visit this site](https://evolvingseas.slack.com/join/shared_invite/zt-6qomho5f-TR75xoF25rgqKzqf5OxbUg#/shared-invite/email).
 
 
 
